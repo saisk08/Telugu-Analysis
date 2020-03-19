@@ -1,4 +1,5 @@
 const shuffleSeed = require('shuffle-seed');
+const pairs = require('./pairs');
 
 function aggregate(files) {
   const combinedData = {};
@@ -22,23 +23,9 @@ function aggregate(files) {
       ],
       userInfo.content.user
     );
-    const set = shuffleSeed.unshuffle(
-      [
-        ...arr[0].content.set,
-        ...arr[2].content.set,
-        ...arr[3].content.set,
-        ...arr[4].content.set,
-        ...arr[5].content.set,
-        ...arr[6].content.set,
-        ...arr[7].content.set,
-        ...arr[8].content.set,
-        ...arr[9].content.set,
-        ...arr[1].content.set,
-      ],
-      userInfo.content.user
-    );
-    combinedData[userInfo.content.user] = { data, set };
+    combinedData[userInfo.content.user] = data;
   });
+  combinedData.pairs = pairs;
   return combinedData;
 }
 

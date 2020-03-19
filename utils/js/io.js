@@ -20,7 +20,7 @@ function jsonReader(dir) {
 
 function jsonWriter(filepath, data) {
   const stringData = JSON.stringify(data);
-  fs.mkdirSync(filepath, { recursive: true });
+  fs.mkdirSync(path.dirname(filepath), { recursive: true });
   fs.writeFileSync(filepath, stringData);
 }
 
