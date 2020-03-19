@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-function readFilesSync(dir) {
+function jsonReader(dir) {
   const files = [];
 
   fs.readdirSync(dir).forEach(filename => {
@@ -13,9 +13,15 @@ function readFilesSync(dir) {
     if (isFile) {
       const content = JSON.parse(fs.readFileSync(filepath));
       files.push({ filepath, name, ext, content });
-    } else files.push(readFilesSync(filepath));
+    } else files.push(jsonReader(filepath));
   });
   return files;
 }
 
-module.exports = { readFilesSync };
+function jsonWriter(filepath, data) {
+  const stringData = JSON.stringify(data);
+  fs.mkdirSync(filepath, { recursive: true });
+  fs.writeFileSync(filepath, stringData);
+}
+
+module.exports = { jsonReader, jsonWriter };
