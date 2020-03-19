@@ -26,6 +26,6 @@ const teluguChars = [
   'ఘ',
 ];
 
-export default teluguChars.flatMap((v, i) =>
+module.exports = teluguChars.flatMap((v, i) =>
   teluguChars.slice(i + 1).map(w => [v, w])
 );
