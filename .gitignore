@@ -2,3 +2,4 @@
 node_modules
 Results
 data.json
+__pycache__
