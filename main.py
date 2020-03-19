@@ -4,6 +4,12 @@ import sys
 import _init_paths
 from utils.python.basicinfo import basics
 from utils.python.profile import create_profile
+import os
+
+try:
+    os.mkdir('Profiles')
+except FileExistsError:
+    pass
 
 # Get the json data
 json_file = open('data.json')

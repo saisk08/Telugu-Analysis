@@ -12,7 +12,7 @@ def flatten(listOfLists):
 def create_profile(data):
     # Create file
     md_file = MdUtils(
-        file_name='{}-profile'.format(data[0][1]), title='Profile of {}'.format(data[0][1]))
+        file_name='Profiles/{}-profile'.format(data[0][1]), title='Profile of {}'.format(data[0][1]))
 
     # Insert basic information of the participant
     md_file.new_header(level=1, title='Participant information')
