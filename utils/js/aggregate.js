@@ -1,5 +1,4 @@
 const shuffleSeed = require('shuffle-seed');
-const pairs = require('./pairs');
 
 function aggregate(files) {
   const combinedData = {};
@@ -25,7 +24,6 @@ function aggregate(files) {
     );
     combinedData[userInfo.content.user] = { data, userInfo };
   });
-  combinedData.pairs = pairs;
   return combinedData;
 }
 
