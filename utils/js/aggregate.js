@@ -23,7 +23,7 @@ function aggregate(files) {
       ],
       userInfo.content.user
     );
-    combinedData[userInfo.content.user] = data;
+    combinedData[userInfo.content.user] = { data, userInfo };
   });
   combinedData.pairs = pairs;
   return combinedData;
