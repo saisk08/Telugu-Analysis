@@ -1,3 +1,5 @@
+from itertools import combinations
+
 chars = [
     'అ',
     'న',
@@ -25,3 +27,5 @@ chars = [
     'ణ',
     'ఘ',
 ]
+
+chars_pairs = [x + '-' + y for x, y in list(combinations(chars, 2))]
