@@ -44,14 +44,15 @@ def create_readme(data):
     readme.new_line(
         '''A profile for each participant has been created. In this document,
         we look at the measures that give an overall look of the data''')
+    readme.new_header(level=2, title='Links to indvidual profile')
+    for user in data:
+        readme.new_line(''' * [{0}]({0}-profile.md)'''.format(user))
     readme.new_header(level=2, title='Agreement on pairs ratings')
     for pair, ratings_count in zip(chars_pairs, counts):
         readme.new_header(level=3, title='**{}**:'.format(pair))
         for idx, count in enumerate(ratings_count):
             readme.new_line('Score {}: {}, ({:.2f} %)'.format(
                 idx + 1, count, count / sum(ratings_count)))
-    readme.new_header(level=2, title='Links to indvidual profile')
-    for user in data:
-        readme.new_line(''' * [{0}]({0}-profile.md)'''.format(user))
+
     readme.new_table_of_contents(table_title='Contents', depth=2)
     readme.create_md_file()

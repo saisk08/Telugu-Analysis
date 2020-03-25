@@ -6,13 +6,32 @@ Contents
 ========
 
 * [Analysis](#analysis)
-	* [Agreement on pairs ratings](#agreement-on-pairs-ratings)
 	* [Links to indvidual profile](#links-to-indvidual-profile)
+	* [Agreement on pairs ratings](#agreement-on-pairs-ratings)
 
 # Analysis
   
 A profile for each participant has been created. In this document,
         we look at the measures that give an overall look of the data
+## Links to indvidual profile
+  
+ * [15mcpc15](15mcpc15-profile.md)  
+ * [16mcpc14](16mcpc14-profile.md)  
+ * [18MCMI02](18MCMI02-profile.md)  
+ * [18MCMI13](18MCMI13-profile.md)  
+ * [18MCMT24](18MCMT24-profile.md)  
+ * [18mcmt20](18mcmt20-profile.md)  
+ * [18mtis08](18mtis08-profile.md)  
+ * [19MCMT03](19MCMT03-profile.md)  
+ * [19mcmt04](19mcmt04-profile.md)  
+ * [19mcmt06](19mcmt06-profile.md)  
+ * [19mcmt14](19mcmt14-profile.md)  
+ * [19mcmt18](19mcmt18-profile.md)  
+ * [19mcmt20](19mcmt20-profile.md)  
+ * [19mcmt26](19mcmt26-profile.md)  
+ * [19mcmt29](19mcmt29-profile.md)  
+ * [19mcmt30](19mcmt30-profile.md)  
+ * [19mcmt33](19mcmt33-profile.md)
 ## Agreement on pairs ratings
 
 ### **అ-న**:
@@ -2115,22 +2134,3 @@ Score 2: 7, (0.41 %)
 Score 3: 4, (0.24 %)  
 Score 4: 2, (0.12 %)  
 Score 5: 0, (0.00 %)
-## Links to indvidual profile
-  
- * [15mcpc15](15mcpc15-profile.md)  
- * [16mcpc14](16mcpc14-profile.md)  
- * [18MCMI02](18MCMI02-profile.md)  
- * [18MCMI13](18MCMI13-profile.md)  
- * [18MCMT24](18MCMT24-profile.md)  
- * [18mcmt20](18mcmt20-profile.md)  
- * [18mtis08](18mtis08-profile.md)  
- * [19MCMT03](19MCMT03-profile.md)  
- * [19mcmt04](19mcmt04-profile.md)  
- * [19mcmt06](19mcmt06-profile.md)  
- * [19mcmt14](19mcmt14-profile.md)  
- * [19mcmt18](19mcmt18-profile.md)  
- * [19mcmt20](19mcmt20-profile.md)  
- * [19mcmt26](19mcmt26-profile.md)  
- * [19mcmt29](19mcmt29-profile.md)  
- * [19mcmt30](19mcmt30-profile.md)  
- * [19mcmt33](19mcmt33-profile.md)
