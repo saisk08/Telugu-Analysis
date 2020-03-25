@@ -1,7 +1,6 @@
-from .telugu import chars
+from .telugu import chars_pairs
 import matplotlib.pyplot as plt
 import numpy as np
-from itertools import combinations
 from tqdm import trange
 
 
@@ -24,10 +23,6 @@ def preprocess(data):
 
 def make_bar_plot(data):
     processed_data = preprocess(data)
-    # Get pairs
-    chars_pairs = list(combinations(chars, 2))
-    chars_pairs = [x + '-' + y for x, y in chars_pairs]
-
     # Do plots
     N = processed_data.shape[0]
     x = ['Very Similar', 'Similar', 'Neutral', 'Dissimilar', 'Very Dissimilar']
