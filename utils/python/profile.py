@@ -52,5 +52,5 @@ def create_readme(data):
     readme.new_header(level=2, title='Links to indvidual profile')
     for user in data:
         readme.new_line(''' * [{0}]({0}-profile.md)'''.format(user))
-    readme.new_table_of_contents(table_title='Contents')
+    readme.new_table_of_contents(table_title='Contents', depth=2)
     readme.create_md_file()

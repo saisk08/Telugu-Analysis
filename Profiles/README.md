@@ -6,6 +6,8 @@ Contents
 ========
 
 * [Analysis](#analysis)
+	* [Agreement on pairs ratings](#agreement-on-pairs-ratings)
+	* [Links to indvidual profile](#links-to-indvidual-profile)
 
 # Analysis
   
