@@ -26,10 +26,11 @@ def create_profile(data):
     profile.new_header(level=2, title='RDM fo the participant')
     profile.new_line()
     rdm = data[-1].tolist()
-    for row, char in zip(rdm, chars):
+    temp = chars.copy()
+    for row, char in zip(rdm, temp):
         row.insert(0, char)
-    chars.insert(0, ' ')
-    profile.new_line('{}'.format(tabulate(rdm, chars, tablefmt='github')))
+    temp.insert(0, ' ')
+    profile.new_line('{}'.format(tabulate(rdm, temp, tablefmt='github')))
 
     # End file
     profile.create_md_file()
