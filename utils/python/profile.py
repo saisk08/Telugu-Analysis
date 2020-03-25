@@ -28,7 +28,7 @@ def create_profile(data):
     rdm = data[-1].tolist()
     temp = chars.copy()
     for row, char in zip(rdm, temp):
-        row.insert(0, char)
+        row.insert(0, '**{}**'.format(char))
     temp.insert(0, ' ')
     profile.new_line('{}'.format(tabulate(rdm, temp, tablefmt='github')))
 
