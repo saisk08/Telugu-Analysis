@@ -1,7 +1,7 @@
 /* eslint-disable no-console */
 // To pre-process the data and output a combined file which has all the values in an agreed upon order
 const chalk = require('chalk');
-const spwan = require('child_process').spawn;
+// const spwan = require('child_process').spawn;
 const { jsonReader, jsonWriter } = require('./utils/js/io');
 const { aggregate } = require('./utils/js/aggregate');
 
@@ -22,8 +22,8 @@ console.log(`${info('[INFO]:')} Writing to file`);
 jsonWriter('data.json', data);
 console.log(`${success('[DONE]:')} Data written`);
 
-// Run the python script
-console.log(`${info('[INFO]:')} Run python analysis script`);
-const py = spwan('python', ['main.py']);
-py.stdout.on('data', lines => console.log(lines.toString()));
-console.log(`${success('[DONE]:')} Profiles created and analysis updated`);
+// // Run the python script
+// console.log(`${info('[INFO]:')} Run python analysis script`);
+// const py = spwan('python', ['main.py']);
+// py.stdout.on('data', lines => console.log(lines.toString()));
+// console.log(`${success('[DONE]:')} Profiles created and analysis updated`);
