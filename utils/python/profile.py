@@ -37,7 +37,7 @@ def create_profile(data):
 
 def create_readme(data):
     counts = preprocess(data)
-    readme = MdUtils(file_name='README')
+    readme = MdUtils(file_name='Profiles/README')
 
     readme.new_header(level=1, title='Analysis')
     readme.new_line(
@@ -47,7 +47,7 @@ def create_readme(data):
     for pair, ratings_count in zip(chars_pairs, counts):
         readme.new_header(level=3, title='**{}**:'.format(pair))
         for idx, count in enumerate(ratings_count):
-            readme.new_line('Score {}: {}, ({})'.format(
+            readme.new_line('Score {}: {}, ({:.2f} %)'.format(
                 idx + 1, count, count / sum(ratings_count)))
     readme.new_header(level=2, title='Links to indvidual profile')
     for user in data:

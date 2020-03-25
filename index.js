@@ -24,5 +24,6 @@ console.log(`${success('[DONE]:')} Data written`);
 
 // Run the python script
 console.log(`${info('[INFO]:')} Run python analysis script`);
-spwan('python', 'main.py');
+const py = spwan('python', ['main.py']);
+py.stdout.on('data', lines => console.log(lines.toString()));
 console.log(`${success('[DONE]:')} Profiles created and analysis updated`);
