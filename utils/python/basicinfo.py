@@ -5,13 +5,13 @@ def basics(user_data):
     info = list()
     info.append(['Reg. no', user_data['userInfo']['content']['user']])
     telugu_attr = ''
-    if user_data['userInfo']['content']['read'] is 'Yes':
+    if user_data['userInfo']['content']['read'] == 'Yes':
         telugu_attr += 'Read '
 
-    if user_data['userInfo']['content']['speak'] is 'Yes':
+    if user_data['userInfo']['content']['speak'] == 'Yes':
         telugu_attr += 'Speak '
 
-    if user_data['userInfo']['content']['write'] is 'Yes':
+    if user_data['userInfo']['content']['write'] == 'Yes':
         telugu_attr += 'Write '
 
     info.append(['Telugu', telugu_attr])
