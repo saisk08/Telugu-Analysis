@@ -11,7 +11,7 @@
 ```
 ------------------  ------------------
 Reg. no             19mcmt33
-Telugu
+Telugu              Read Speak Write
 Hindi               Read Speak
 English             Read Speak Write
 Reaction time(avg)  2.4007866666666677

@@ -11,7 +11,7 @@
 ```
 ------------------  -----------------
 Reg. no             19mcmt06
-Telugu
+Telugu              Read Speak Write
 Reaction time(avg)  2.181536666666667
 Ones                66
 Twos                81

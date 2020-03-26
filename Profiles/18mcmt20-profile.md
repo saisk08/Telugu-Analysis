@@ -11,7 +11,7 @@
 ```
 ------------------  ------------------
 Reg. no             18mcmt20
-Telugu
+Telugu              Read Speak Write
 English             Read Speak Write
 Hindi               Read Speak Write
 Reaction time(avg)  2.1196799999999993
