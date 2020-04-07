@@ -4,10 +4,23 @@ import numpy as np
 from tqdm import trange
 
 
+def toNumber(x):
+    if x is '1' or x == 'Very dissimilar':
+        return 1
+    if x is '2' or x == 'Dissimilar':
+        return 2
+    if x is '3' or x == 'Neutral':
+        return 3
+    if x is '4' or x == 'Similar':
+        return 4
+    if x is '5' or x == 'Very Similar':
+        return 5
+
+
 def preprocess(data):
     values = list()
     for user in data:
-        temp = [int(x['value']) for x in data[user]['data']]
+        temp = [toNumber(x) for x in data[user]['data']]
         values.append(temp)
     values = np.array(values)
     counts = []

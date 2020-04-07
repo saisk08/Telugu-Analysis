@@ -24,17 +24,21 @@ def basics(user_data):
     values = list()
 
     for value in user_data['data']:
-        values.append(int(value['value']))
         if value['value'] is '1' or value['value'] == 'Very dissimilar':
             ones += 1
+            values.append(1)
         if value['value'] is '2' or value['value'] == 'Dissimilar':
             twoes += 1
+            values.append(2)
         if value['value'] is '3' or value['value'] == 'Neutral':
             threes += 1
+            values.append(3)
         if value['value'] is '4' or value['value'] == 'Similar':
             fours += 1
+            values.append(4)
         if value['value'] is '5' or value['value'] == 'Very Similar':
             fives += 1
+            values.append(5)
         reactions += value['reactionTime']
 
     reactions /= len(user_data['data'])
