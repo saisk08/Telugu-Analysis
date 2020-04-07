@@ -25,15 +25,15 @@ def basics(user_data):
 
     for value in user_data['data']:
         values.append(int(value['value']))
-        if value['value'] is '1':
+        if value['value'] is '1' or value['value'] == 'Very dissimilar':
             ones += 1
-        if value['value'] is '2':
+        if value['value'] is '2' or value['value'] == 'Dissimilar':
             twoes += 1
-        if value['value'] is '3':
+        if value['value'] is '3' or value['value'] == 'Neutral':
             threes += 1
-        if value['value'] is '4':
+        if value['value'] is '4' or value['value'] == 'Similar':
             fours += 1
-        if value['value'] is '5':
+        if value['value'] is '5' or value['value'] == 'Very Similar':
             fives += 1
         reactions += value['reactionTime']
 
