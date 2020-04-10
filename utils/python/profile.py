@@ -1,39 +1,35 @@
 from tabulate import tabulate
-from mdutils.mdutils import MdUtils
-from .telugu import chars, chars_pairs
-from itertools import chain
+from .telugu import chars_pairs
 from .plotter import preprocess
-
-
-def flatten(listOfLists):
-    "Flatten one level of nesting"
-    return chain.from_iterable(listOfLists)
 
 
 def create_profile(data):
     # Create file
-    profile = MdUtils(
-        file_name='Profiles/{}'.format(data[0][1]))
+    profile = open('Profiles/{}.md'.format(data['user']), 'w+')
 
     # Insert basic information of the participant
-    profile.new_header(level=1, title='Profile of {}'.format(data[0][1]))
-    profile.new_header(level=2, title='Participant information')
+    profile.write('# Participant profile\n')
+    profile.write('## Basic information\n')
     profile.write('\n')
-    profile.insert_code(tabulate(data[:-1]))
+    profile.write(
+        tabulate(data['info'], tablefmt='github', headers=['Meta', 'Value']))
+    profile.write('\n')
 
-    # Insert rdm
-    profile.new_line()
-    profile.new_header(level=2, title='RDM fo the participant')
-    profile.new_line()
-    rdm = data[-1].tolist()
-    temp = chars.copy()
-    for row, char in zip(rdm, temp):
-        row.insert(0, '**{}**'.format(char))
-    temp.insert(0, ' ')
-    profile.new_line('{}'.format(tabulate(rdm, temp, tablefmt='github')))
+    # Insert summary
+    profile.write('\n')
+    profile.write('## Summary of data\n')
+    profile.write(tabulate(data['summary'], tablefmt='github', headers=[
+                  'Score', 'Occurances', 'Avg. reaction']))
+    profile.write('\n')
+
+    # Insert all ratings
+    profile.write('## Ratings for all pairs\n')
+    profile.write(tabulate(data['scores'], tablefmt='github', headers=[
+                  'Pair', 'Rating', 'Reaction time']))
+    profile.write('\n')
 
     # End file
-    profile.create_md_file()
+    profile.close()
 
 
 def create_readme(data):
