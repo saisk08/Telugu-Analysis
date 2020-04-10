@@ -1,9 +1,9 @@
 from scipy.spatial.distance import squareform
 
 
-def basics(user_data):
+def basics(user, user_data):
     info = list()
-    info.append(['Reg. no', user_data['userInfo']['content']['user']])
+    info.append(['Reg. no', user])
     telugu_attr = ''
     if user_data['userInfo']['content']['read'] == 'Yes':
         telugu_attr += 'Read '

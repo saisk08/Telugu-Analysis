@@ -21,7 +21,7 @@ data = json.load(json_file)
 # Create user profile for each key
 print(colored('Creating profiles...', 'blue'))
 for user in tqdm(data):
-    basic_info = basics(data[user])
+    basic_info = basics(user, data[user])
     create_profile(basic_info)
 create_readme(data)
 print(colored('Profiles created', 'green'))

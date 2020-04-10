@@ -1,4 +1,9 @@
 const shuffleSeed = require('shuffle-seed');
+const shortid = require('shortid');
+
+shortid.characters(
+  '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_'
+);
 
 function aggregate(files) {
   const combinedData = {};
@@ -22,7 +27,7 @@ function aggregate(files) {
       ],
       userInfo.content.user
     );
-    combinedData[userInfo.content.user] = { data, userInfo };
+    combinedData[shortid.generate()] = { data, userInfo };
   });
   return combinedData;
 }

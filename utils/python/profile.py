@@ -13,7 +13,7 @@ def flatten(listOfLists):
 def create_profile(data):
     # Create file
     profile = MdUtils(
-        file_name='Profiles/{}-profile'.format(data[0][1]))
+        file_name='Profiles/{}'.format(data[0][1]))
 
     # Insert basic information of the participant
     profile.new_header(level=1, title='Profile of {}'.format(data[0][1]))
@@ -46,7 +46,7 @@ def create_readme(data):
         we look at the measures that give an overall look of the data''')
     readme.new_header(level=2, title='Links to indvidual profile')
     for user in data:
-        readme.new_line(''' * [{0}]({0}-profile.md)'''.format(user))
+        readme.new_line(''' * [{0}]({0}.md)'''.format(user))
     readme.new_header(level=2, title='Agreement on pairs ratings')
     for pair, ratings_count in zip(chars_pairs, counts):
         readme.new_header(level=3, title='**{}**:'.format(pair))

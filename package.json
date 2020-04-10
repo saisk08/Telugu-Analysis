@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "chalk": "^3.0.0",
+    "shortid": "^2.2.15",
     "shuffle-seed": "^1.1.6"
   },
   "devDependencies": {
