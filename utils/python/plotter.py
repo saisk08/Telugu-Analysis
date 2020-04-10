@@ -20,7 +20,7 @@ def toNumber(x):
 def preprocess(data):
     values = list()
     for user in data:
-        temp = [toNumber(x) for x in data[user]['data']]
+        temp = [toNumber(x['value']) for x in data[user]['data']]
         values.append(temp)
     values = np.array(values)
     counts = []
