@@ -2,7 +2,7 @@ const shuffleSeed = require('shuffle-seed');
 const shortid = require('shortid');
 
 shortid.characters(
-  '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_'
+  '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_$'
 );
 
 function aggregate(files) {
