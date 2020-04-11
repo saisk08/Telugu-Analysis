@@ -98,6 +98,7 @@ def overall_data(data):
                  np.count_nonzero(scores[:, i] == 3),
                  np.count_nonzero(scores[:, i] == 4),
                  np.count_nonzero(scores[:, i] == 5)]
+        percentages = (count / count.sum()) * 100
         mean = [np.mean(reactions[:, i][scores[:, i] == 1]),
                 np.mean(reactions[:, i][scores[:, i] == 2]),
                 np.mean(reactions[:, i][scores[:, i] == 3]),
@@ -108,16 +109,22 @@ def overall_data(data):
                np.std(reactions[:, i][scores[:, i] == 3]),
                np.std(reactions[:, i][scores[:, i] == 4]),
                np.std(reactions[:, i][scores[:, i] == 5])]
-        consolidated.append((count, mean, std))
+        consolidated.append([count, percentages, mean, std])
     processed_data.update({'overall': consolidated})
-
-    processed_data.update(
-        {'score1': (reactions[reactions == 1].mean(), reactions[reactions == 1].std())})
-    processed_data.update(
-        {'score2': (reactions[reactions == 2].mean(), reactions[reactions == 1].std())})
-    processed_data.update(
-        {'score3': (reactions[reactions == 3].mean(), reactions[reactions == 1].std())})
-    processed_data.update(
-        {'score4': (reactions[reactions == 4].mean(), reactions[reactions == 1].std())})
-    processed_data.update(
-        {'score5': (reactions[reactions == 5].mean(), reactions[reactions == 1].std())})
+    scores = {'Score': [1, 2, 3, 4, 5],
+              'Means': [
+        reactions[reactions == 1].mean(),
+        reactions[reactions == 2].mean(),
+        reactions[reactions == 3].mean(),
+        reactions[reactions == 4].mean(),
+        reactions[reactions == 5].mean()
+    ],
+        'Std': [
+        reactions[reactions == 1].std(),
+        reactions[reactions == 2].std(),
+        reactions[reactions == 3].std(),
+        reactions[reactions == 4].std(),
+        reactions[reactions == 5].std()
+    ]}
+    processed_data.update({'scores': scores})
+    return processed_data
