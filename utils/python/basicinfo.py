@@ -1,5 +1,19 @@
 from scipy.spatial.distance import squareform
 from .telugu import chars_pairs
+import numpy as np
+
+
+def toNumber(x):
+    if x is '1' or x == 'Very dissimilar':
+        return 1
+    if x is '2' or x == 'Dissimilar':
+        return 2
+    if x is '3' or x == 'Neutral':
+        return 3
+    if x is '4' or x == 'Similar':
+        return 4
+    if x is '5' or x == 'Very Similar':
+        return 5
 
 
 def basics(user, user_data):
@@ -56,11 +70,54 @@ def basics(user, user_data):
     data.update({'info': basic_info})
     data.update({'scores': score_table})
     summary = list()
-    summary.append([1, ones, reaction1 / len(reaction1)])
-    summary.append([2, twoes, reaction2 / len(reaction2)])
-    summary.append([3, threes, reaction3 / len(reaction3)])
-    summary.append([4, fours, reaction4 / len(reaction4)])
-    summary.append([5, fives, reaction5 / len(reaction5)])
+    summary.append([1, ones, np.mean(reaction1), np.std(reaction1)])
+    summary.append([2, twoes, np.mean(reaction2), np.std(reaction2)])
+    summary.append([3, threes, np.mean(reaction3), np.std(reaction3)])
+    summary.append([4, fours, np.mean(reaction4), np.std(reaction4)])
+    summary.append([5, fives, np.mean(reaction5), np.std(reaction5)])
     data.update({'summary': summary})
 
     return data
+
+
+def overall_data(data):
+    processed_data = dict()
+    scores = list()
+    reactions = list()
+    for user in data:
+        temp1 = [toNumber(x['value']) for x in data[user]['data']]
+        temp2 = [x['reactionTime'] for x in data[user]['data']]
+        scores.append(temp1)
+        reactions.append(temp2)
+    scores, reactions = np.array(scores), np.array(reactions)
+
+    consolidated = list()
+    for i in range(scores.shape[1]):
+        count = [np.count_nonzero(scores[:, i] == 1),
+                 np.count_nonzero(scores[:, i] == 2),
+                 np.count_nonzero(scores[:, i] == 3),
+                 np.count_nonzero(scores[:, i] == 4),
+                 np.count_nonzero(scores[:, i] == 5)]
+        mean = [np.mean(reactions[:, i][scores[:, i] == 1]),
+                np.mean(reactions[:, i][scores[:, i] == 2]),
+                np.mean(reactions[:, i][scores[:, i] == 3]),
+                np.mean(reactions[:, i][scores[:, i] == 4]),
+                np.mean(reactions[:, i][scores[:, i] == 5])]
+        std = [np.std(reactions[:, i][scores[:, i] == 1]),
+               np.std(reactions[:, i][scores[:, i] == 2]),
+               np.std(reactions[:, i][scores[:, i] == 3]),
+               np.std(reactions[:, i][scores[:, i] == 4]),
+               np.std(reactions[:, i][scores[:, i] == 5])]
+        consolidated.append((count, mean, std))
+    processed_data.update({'overall': consolidated})
+
+    processed_data.update(
+        {'score1': (reactions[reactions == 1].mean(), reactions[reactions == 1].std())})
+    processed_data.update(
+        {'score2': (reactions[reactions == 2].mean(), reactions[reactions == 1].std())})
+    processed_data.update(
+        {'score3': (reactions[reactions == 3].mean(), reactions[reactions == 1].std())})
+    processed_data.update(
+        {'score4': (reactions[reactions == 4].mean(), reactions[reactions == 1].std())})
+    processed_data.update(
+        {'score5': (reactions[reactions == 5].mean(), reactions[reactions == 1].std())})
