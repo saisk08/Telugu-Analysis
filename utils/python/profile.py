@@ -19,7 +19,7 @@ def create_profile(data):
     profile.write('\n')
     profile.write('## Summary of data\n')
     profile.write(tabulate(data['summary'], tablefmt='github', headers=[
-                  'Score', 'Occurances', 'Avg. reaction']))
+                  'Score', 'Occurances', 'Mean reaction', 'Std reaction']))
     profile.write('\n')
 
     # Insert all ratings
@@ -34,7 +34,7 @@ def create_profile(data):
 
 def create_readme(data):
     counts = preprocess(data)
-    readme = MdUtils(file_name='Profiles/README')
+    readme = open('Profiles/README.md')
 
     readme.new_header(level=1, title='Analysis')
     readme.new_line(
