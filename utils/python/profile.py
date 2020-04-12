@@ -5,7 +5,7 @@ from .basicinfo import overall_data
 
 def create_profile(data):
     # Create file
-    profile = open('docs/Profiles/{}.md'.format(data['user']), 'w+')
+    profile = open('docs/Version-1/Profiles/{}.md'.format(data['user']), 'w+')
 
     # Insert basic information of the participant
     profile.write('# Profile of {}\n\n'.format(data['user']))
@@ -32,8 +32,8 @@ def create_profile(data):
 
 def create_readme(user_data):
     data = overall_data(user_data)
-    readme = open('docs/README.md', 'w+')
-    readme.write('# Analysis for experiment version-1\n\n')
+    readme = open('docs/Version-1/index.md', 'w+')
+    readme.write('# Analysis for version 1\n\n')
     readme.write(
         '''A profile for each participant has been created. In this document,
         we look at the measures that give an overall description of the data\n\n''')
