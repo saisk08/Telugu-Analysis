@@ -3,9 +3,10 @@ from .telugu import chars_pairs
 from .basicinfo import overall_data
 
 
-def create_profile(data):
+def create_profile(data, version):
     # Create file
-    profile = open('docs/Version-1/Profiles/{}.md'.format(data['user']), 'w+')
+    profile = open(
+        'docs/Version-{}/Profiles/{}.md'.format(version, data['user']), 'w+')
 
     # Insert basic information of the participant
     profile.write('# Profile of {}\n\n'.format(data['user']))
@@ -30,10 +31,10 @@ def create_profile(data):
     profile.close()
 
 
-def create_readme(user_data):
+def create_readme(user_data, version):
     data = overall_data(user_data)
-    readme = open('docs/Version-1/index.md', 'w+')
-    readme.write('# Analysis for version 1\n\n')
+    readme = open('docs/Version-{}/index.md'.format(version), 'w+')
+    readme.write('# Analysis for version {}\n\n'.format(version))
     readme.write(
         '''A profile for each participant has been created. In this document,
         we look at the measures that give an overall description of the data\n\n''')
@@ -56,7 +57,7 @@ def create_readme(user_data):
     for pair, info_vec in zip(chars_pairs, data['overall']):
         readme.write('\n\n')
         readme.write('### {}\n\n'.format(pair))
-        readme.write('`**Median value**: {}`\n\n'.format(info_vec[4]))
+        readme.write('`Median value: {}`\n\n'.format(info_vec[4]))
         head = ['Score', 1, 2, 3, 4, 5]
         count = ['Count', *info_vec[0]]
         percentages = ['Agreement %', *info_vec[1]]
