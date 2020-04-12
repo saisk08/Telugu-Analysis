@@ -26,7 +26,7 @@ for user in tqdm(data):
 create_readme(data)
 print(colored('Profiles created', 'green'))
 
-# plot bar graph
-print(colored('Creating bar plots...', 'blue'))
-make_bar_plot(data)
-print(colored('Bar plots created', 'green'))
+# # plot bar graph
+# print(colored('Creating bar plots...', 'blue'))
+# make_bar_plot(data)
+# print(colored('Bar plots created', 'green'))
