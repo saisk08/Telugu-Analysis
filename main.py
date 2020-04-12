@@ -9,24 +9,21 @@ import os
 from tqdm import tqdm
 from termcolor import colored
 
-try:
-    os.mkdir('Profiles')
-except FileExistsError:
-    pass
-
 # Get the json data
-json_file = open('data.json')
-data = json.load(json_file)
+ver1_file = open('ver1.json')
+ver2_file = open('ver2.json')
+ver1_data = json.load(ver1_file)
+ver2_data = json.load(ver2_file)
 
-# Create user profile for each key
+# Create user profile for all user
 print(colored('Creating profiles...', 'blue'))
-for user in tqdm(data):
-    basic_info = basics(user, data[user])
-    create_profile(basic_info)
-create_readme(data)
-print(colored('Profiles created', 'green'))
+for user in tqdm(ver1_data):
+    basic_info = basics(user, ver1_data[user])
+    create_profile(basic_info, 1)
+create_readme(ver1_data, 1)
 
-# # plot bar graph
-# print(colored('Creating bar plots...', 'blue'))
-# make_bar_plot(data)
-# print(colored('Bar plots created', 'green'))
+for user in tqdm(ver2_data):
+    basic_info = basics(user, ver2_data[user])
+    create_profile(basic_info, 2)
+create_readme(ver2_data, 2)
+print(colored('Profiles created', 'green'))

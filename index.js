@@ -9,21 +9,18 @@ const info = chalk.hex('#0074D9').bold;
 const success = chalk.hex('#2EcC40').bold;
 // Read the files
 console.log(`${info('[INFO]:')} Reading files`);
-const files = jsonReader('Results');
+const ver1Files = jsonReader('expData/ver1');
+const ver2Files = jsonReader('expData/ver2');
 console.log(`${success('[DONE]:')} Files read`);
 
 // Aggregate the data into a single json file
 console.log(`${info('[INFO]:')} Aggregating data...`);
-const data = aggregate(files);
+const ver1Data = aggregate(ver1Files);
+const ver2Data = aggregate(ver2Files);
 console.log(`${success('[DONE]:')} Aggregation done`);
 
 // Write the aggregated in file
 console.log(`${info('[INFO]:')} Writing to file`);
-jsonWriter('data.json', data);
+jsonWriter('ver1.json', ver1Data);
+jsonWriter('ver2.json', ver2Data);
 console.log(`${success('[DONE]:')} Data written`);
-
-// // Run the python script
-// console.log(`${info('[INFO]:')} Run python analysis script`);
-// const py = spwan('python', ['main.py']);
-// py.stdout.on('data', lines => console.log(lines.toString()));
-// console.log(`${success('[DONE]:')} Profiles created and analysis updated`);
