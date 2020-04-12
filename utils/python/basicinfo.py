@@ -39,32 +39,33 @@ def basics(user, user_data):
 
     # Get reaction and scores
     ones, twoes, threes, fours, fives = 0, 0, 0, 0, 0
-    reaction1, reaction2, reaction3, reaction4, reaction5 = 0, 0, 0, 0, 0
+    reaction1, reaction2, reaction3, reaction4, reaction5 = [], [], [], [], []
     score_table = list()
     for value, pair in zip(user_data['data'], chars_pairs):
         if value['value'] is '1' or value['value'] == 'Very dissimilar':
             ones += 1
-            reaction1 += value['reactionTime']
+            reaction1.append(value['reactionTime'])
 
         elif value['value'] is '2' or value['value'] == 'Dissimilar':
             twoes += 1
-            reaction2 += value['reactionTime']
+            reaction2.append(value['reactionTime'])
 
         elif value['value'] is '3' or value['value'] == 'Neutral':
             threes += 1
-            reaction3 += value['reactionTime']
+            reaction3.append(value['reactionTime'])
 
         elif value['value'] is '4' or value['value'] == 'Similar':
             fours += 1
-            reaction4 += value['reactionTime']
+            reaction4.append(value['reactionTime'])
 
         elif value['value'] is '5' or value['value'] == 'Very Similar':
             fives += 1
-            reaction5 += value['reactionTime']
+            reaction5.append(value['reactionTime'])
 
         score_table.append([pair, value['value'], value['reactionTime']])
 
-    reactions = reaction1 + reaction2 + reaction3 + reaction4 + reaction5
+    reactions = sum(reaction1) + sum(reaction2) + \
+        sum(reaction3) + sum(reaction4) + sum(reaction5)
     reactions /= len(user_data['data'])
     basic_info.append(['Avg. reaction time(seconds)', reactions])
     data.update({'info': basic_info})
@@ -100,15 +101,15 @@ def overall_data(data):
                           np.count_nonzero(scores[:, i] == 5)])
         percentages = (count / count.sum()) * 100
         mean = [np.mean(reactions[:, i][scores[:, i] == 1]
-                        ) if reactions[:, i][scores[:, i] == 1].shape else 0,
+                        ) if reactions[:, i][scores[:, i] == 1] else 0,
                 np.mean(reactions[:, i][scores[:, i] == 2]
-                        ) if reactions[:, i][scores[:, i] == 2].shape else 0,
+                        ) if reactions[:, i][scores[:, i] == 2] else 0,
                 np.mean(reactions[:, i][scores[:, i] == 3]
-                        ) if reactions[:, i][scores[:, i] == 3].shape else 0,
+                        ) if reactions[:, i][scores[:, i] == 3] else 0,
                 np.mean(reactions[:, i][scores[:, i] == 4]
-                        ) if reactions[:, i][scores[:, i] == 4].shape else 0,
+                        ) if reactions[:, i][scores[:, i] == 4] else 0,
                 np.mean(reactions[:, i][scores[:, i] == 5]
-                        ) if reactions[:, i][scores[:, i] == 5].shape else 0]
+                        ) if reactions[:, i][scores[:, i] == 5] else 0]
         std = [np.std(reactions[:, i][scores[:, i] == 1]),
                np.std(reactions[:, i][scores[:, i] == 2]),
                np.std(reactions[:, i][scores[:, i] == 3]),

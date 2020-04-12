@@ -46,6 +46,6 @@ def make_bar_plot(data):
         plt.ylabel('Number of occurences')
         plt.xlabel('Scores')
         plt.xticks(x_pos, x)
-        plt.savefig('Images/bar-{}.png'.format(chars_pairs[i]))
+        plt.savefig('Plots/bar-{}.png'.format(chars_pairs[i]))
         plt.clf()
     return
