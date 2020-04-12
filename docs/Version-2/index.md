@@ -1,4 +1,4 @@
-# Analysis for version 1
+# Analysis for version 2
 
 A profile for each participant has been created. In this document,
         we look at the measures that give an overall description of the data
