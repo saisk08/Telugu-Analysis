@@ -10,8 +10,10 @@ function aggregate(files) {
 
   files.forEach(arr => {
     // Combine data
-    const userInfo = arr.shift();
-
+    let userInfo = null;
+    // Becasue of the order in which the files are placed in the array
+    if (arr[0].name.endsWith('-info')) userInfo = arr.shift();
+    else userInfo = arr.pop();
     const data = shuffleSeed.unshuffle(
       [
         ...arr[0].content.data,
