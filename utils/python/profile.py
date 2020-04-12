@@ -20,13 +20,13 @@ def create_profile(data):
     profile.write('## Summary of data\n')
     profile.write(tabulate(data['summary'], tablefmt='github', headers=[
                   'Score', 'Occurances', 'Mean reaction', 'Std reaction']))
-    profile.write('\n')
+    profile.write('\n\n')
 
     # Insert all ratings
     profile.write('## Ratings for all pairs\n')
     profile.write(tabulate(data['scores'], tablefmt='github', headers=[
                   'Pair', 'Rating', 'Reaction time']))
-    profile.write('\n')
+    profile.write('\n\n')
 
     # End file
     profile.close()
@@ -41,7 +41,7 @@ def create_readme(user_data):
         we look at the measures that give an overall description of the data\n\n''')
     readme.write('## Summary of the participation\n\n')
     readme.write(tabulate(data['scores'], tablefmt='github', headers='keys'))
-    readme.write('\n')
+    readme.write('\n\n')
     readme.write('## Agreeement percentages and reaction times\n\n')
     readme.write('''
     !!! tip "About agreement percentages"
