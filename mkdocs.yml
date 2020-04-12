@@ -1,0 +1,66 @@
+# Project information
+site_name: Telugu-exp data analysis
+site_url: https://somanath08.github.io/Telugu-Analysis
+site_author: Sai Somanath Komanduri
+site_description: >-
+  A website that shows the analysis of the data collected throught both the online and offlin
+  versions of the experiment.
+# Repository
+repo_name: somanath08/Telugu-Analysis
+repo_url: https://github.com/somanath08/Telugu-Analysis
+edit_uri: ''
+
+# Copyright
+copyright: Copyright &copy; 2020 Sai Somanath Komanduri
+
+# Configuration
+theme:
+  name: material
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  features:
+    - tabs
+    #- instant
+  palette:
+    primary: white
+    accent: deep orange
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/git-alt
+  favicon: images/logo.png
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.attr_list
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: '#'
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: somanath08
+      repo: Telugu-Analysis
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
