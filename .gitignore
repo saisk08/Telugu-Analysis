@@ -9,6 +9,7 @@ expdata
 ver1.json
 ver2.json
 data.json
+site
 
 # Python
 __pycache__
