@@ -56,6 +56,7 @@ def create_readme(user_data):
     for pair, info_vec in zip(chars_pairs, data['overall']):
         readme.write('\n\n')
         readme.write('### {}\n\n'.format(pair))
+        readme.write('`**Median value**: {}`\n\n'.format(info_vec[4]))
         head = ['Score', 1, 2, 3, 4, 5]
         count = ['Count', *info_vec[0]]
         percentages = ['Agreement %', *info_vec[1]]
