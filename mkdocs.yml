@@ -16,6 +16,7 @@ copyright: Copyright &copy; 2020 Sai Somanath Komanduri
 # Configuration
 theme:
   name: material
+  logo: images/logo.png
 
   # Default values, taken from mkdocs_theme.yml
   language: en
@@ -23,11 +24,11 @@ theme:
     - tabs
     #- instant
   palette:
-    primary: white
+    primary: black
     accent: deep orange
   font:
-    text: Roboto
-    code: Roboto Mono
+    text: Quattrocento Sans
+    code: Ubuntu Mono
   icon:
     repo: fontawesome/brands/git-alt
   favicon: images/logo.png
@@ -36,8 +37,7 @@ theme:
 markdown_extensions:
   - markdown.extensions.admonition
   - markdown.extensions.attr_list
-  - markdown.extensions.codehilite:
-      guess_lang: false
+  - markdown.extensions.codehilite
   - markdown.extensions.def_list
   - markdown.extensions.footnotes
   - markdown.extensions.meta
