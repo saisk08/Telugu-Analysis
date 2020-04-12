@@ -41,28 +41,34 @@ def basics(user, user_data):
     ones, twoes, threes, fours, fives = 0, 0, 0, 0, 0
     reaction1, reaction2, reaction3, reaction4, reaction5 = [], [], [], [], []
     score_table = list()
+    val = 0
     for value, pair in zip(user_data['data'], chars_pairs):
         if value['value'] is '1' or value['value'] == 'Very dissimilar':
             ones += 1
+            val = 1
             reaction1.append(value['reactionTime'])
 
         elif value['value'] is '2' or value['value'] == 'Dissimilar':
             twoes += 1
+            val = 2
             reaction2.append(value['reactionTime'])
 
         elif value['value'] is '3' or value['value'] == 'Neutral':
             threes += 1
+            val = 3
             reaction3.append(value['reactionTime'])
 
         elif value['value'] is '4' or value['value'] == 'Similar':
             fours += 1
+            val = 4
             reaction4.append(value['reactionTime'])
 
         elif value['value'] is '5' or value['value'] == 'Very Similar':
             fives += 1
+            val = 5
             reaction5.append(value['reactionTime'])
 
-        score_table.append([pair, value['value'], value['reactionTime']])
+        score_table.append([pair, val, value['reactionTime']])
     reactions = sum(reaction1) + sum(reaction2) + \
         sum(reaction3) + sum(reaction4) + sum(reaction5)
     reactions /= len(user_data['data'])
@@ -70,11 +76,12 @@ def basics(user, user_data):
     data.update({'info': basic_info})
     data.update({'scores': score_table})
     summary = list()
-    summary.append([1, ones, np.mean(reaction1), np.std(reaction1)])
-    summary.append([2, twoes, np.mean(reaction2), np.std(reaction2)])
-    summary.append([3, threes, np.mean(reaction3), np.std(reaction3)])
-    summary.append([4, fours, np.mean(reaction4), np.std(reaction4)])
-    summary.append([5, fives, np.mean(reaction5), np.std(reaction5)])
+    summary.append([1, ones, np.mean(reaction1 or 0), np.std(reaction1 or 0)])
+    summary.append([2, twoes, np.mean(reaction2 or 0), np.std(reaction2 or 0)])
+    summary.append(
+        [3, threes, np.mean(reaction3 or 0), np.std(reaction3 or 0)])
+    summary.append([4, fours, np.mean(reaction4 or 0), np.std(reaction4 or 0)])
+    summary.append([5, fives, np.mean(reaction5 or 0), np.std(reaction5 or 0)])
     data.update({'summary': summary})
 
     return data
@@ -100,26 +107,16 @@ def overall_data(data):
                           np.count_nonzero(scores[:, i] == 4),
                           np.count_nonzero(scores[:, i] == 5)])
         percentages = (count / count.sum()) * 100
-        mean = [np.mean(reactions[:, i][scores[:, i] == 1]
-                        ) if reactions[:, i][scores[:, i] == 1].any() else 0,
-                np.mean(reactions[:, i][scores[:, i] == 2]
-                        ) if reactions[:, i][scores[:, i] == 2].any() else 0,
-                np.mean(reactions[:, i][scores[:, i] == 3]
-                        ) if reactions[:, i][scores[:, i] == 3].any() else 0,
-                np.mean(reactions[:, i][scores[:, i] == 4]
-                        ) if reactions[:, i][scores[:, i] == 4].any() else 0,
-                np.mean(reactions[:, i][scores[:, i] == 5]
-                        ) if reactions[:, i][scores[:, i] == 5].any() else 0]
-        std = [np.std(reactions[:, i][scores[:, i] == 1]
-                      ) if reactions[:, i][scores[:, i] == 1].any() else 0,
-               np.std(reactions[:, i][scores[:, i] == 2]
-                      ) if reactions[:, i][scores[:, i] == 2].any() else 0,
-               np.std(reactions[:, i][scores[:, i] == 3]
-                      ) if reactions[:, i][scores[:, i] == 3].any() else 0,
-               np.std(reactions[:, i][scores[:, i] == 4]
-                      ) if reactions[:, i][scores[:, i] == 4].any() else 0,
-               np.std(reactions[:, i][scores[:, i] == 5]
-                      ) if reactions[:, i][scores[:, i] == 5].any() else 0]
+        mean = [np.mean(reactions[:, i][scores[:, i] == 1].any() or 0),
+                np.mean(reactions[:, i][scores[:, i] == 2].any() or 0),
+                np.mean(reactions[:, i][scores[:, i] == 3].any() or 0),
+                np.mean(reactions[:, i][scores[:, i] == 4].any() or 0),
+                np.mean(reactions[:, i][scores[:, i] == 5].any() or 0)]
+        std = [np.std(reactions[:, i][scores[:, i] == 1].any() or 0),
+               np.std(reactions[:, i][scores[:, i] == 2].any() or 0),
+               np.std(reactions[:, i][scores[:, i] == 3].any() or 0),
+               np.std(reactions[:, i][scores[:, i] == 4].any() or 0),
+               np.std(reactions[:, i][scores[:, i] == 5].any() or 0)]
         consolidated.append([count, percentages, mean, std, median])
     processed_data.update({'overall': consolidated})
     scores = {'Score': [1, 2, 3, 4, 5],
