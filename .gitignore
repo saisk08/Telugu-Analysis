@@ -5,7 +5,6 @@
 node_modules
 
 # Data folders
-Results
 expdata
 ver1.json
 ver2.json
