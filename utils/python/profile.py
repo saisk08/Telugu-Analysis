@@ -5,7 +5,7 @@ from .basicinfo import overall_data
 
 def create_profile(data):
     # Create file
-    profile = open('Profiles/{}.md'.format(data['user']), 'w+')
+    profile = open('docs/Profiles/{}.md'.format(data['user']), 'w+')
 
     # Insert basic information of the participant
     profile.write('# Participant profile\n')
@@ -34,15 +34,15 @@ def create_profile(data):
 
 def create_readme(user_data):
     data = overall_data(user_data)
-    readme = open('Profiles/README.md')
-    readme.write('# Analysis of experiment-version 1\n')
+    readme = open('docs/README.md', 'w+')
+    readme.write('# Analysis of experiment-version 1\n\n')
     readme.write(
         '''A profile for each participant has been created. In this document,
         we look at the measures that give an overall description of the data\n\n''')
     readme.write('## Summary of the participation\n\n')
     readme.write(tabulate(data['scores'], tablefmt='github', headers='keys'))
     readme.write('\n')
-    readme.write('## Agreeement percentages and reaction times\n')
+    readme.write('## Agreeement percentages and reaction times\n\n')
     readme.write('''
     !!! tip "About agreement percentages"
         Agreement percentage is defined as the percentage of participants that
@@ -57,7 +57,7 @@ def create_readme(user_data):
     ''')
     for pair, info_vec in zip(chars_pairs, data['overall']):
         readme.write('\n\n')
-        readme.write('### {}\n'.format(pair))
+        readme.write('### {}\n\n'.format(pair))
         head = ['Score', 1, 2, 3, 4, 5]
         count = ['Count', *info_vec[0]]
         percentages = ['Agreement %', *info_vec[1]]

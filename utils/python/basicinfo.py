@@ -18,7 +18,7 @@ def toNumber(x):
 
 def basics(user, user_data):
     data = dict()
-    data.update({'user', user})
+    data.update({'user': user})
 
     basic_info = list()
     basic_info.append(['Unique ID', user])
@@ -93,17 +93,22 @@ def overall_data(data):
 
     consolidated = list()
     for i in range(scores.shape[1]):
-        count = [np.count_nonzero(scores[:, i] == 1),
-                 np.count_nonzero(scores[:, i] == 2),
-                 np.count_nonzero(scores[:, i] == 3),
-                 np.count_nonzero(scores[:, i] == 4),
-                 np.count_nonzero(scores[:, i] == 5)]
+        count = np.array([np.count_nonzero(scores[:, i] == 1),
+                          np.count_nonzero(scores[:, i] == 2),
+                          np.count_nonzero(scores[:, i] == 3),
+                          np.count_nonzero(scores[:, i] == 4),
+                          np.count_nonzero(scores[:, i] == 5)])
         percentages = (count / count.sum()) * 100
-        mean = [np.mean(reactions[:, i][scores[:, i] == 1]),
-                np.mean(reactions[:, i][scores[:, i] == 2]),
-                np.mean(reactions[:, i][scores[:, i] == 3]),
-                np.mean(reactions[:, i][scores[:, i] == 4]),
-                np.mean(reactions[:, i][scores[:, i] == 5])]
+        mean = [np.mean(reactions[:, i][scores[:, i] == 1]
+                        ) if reactions[:, i][scores[:, i] == 1].shape else 0,
+                np.mean(reactions[:, i][scores[:, i] == 2]
+                        ) if reactions[:, i][scores[:, i] == 2].shape else 0,
+                np.mean(reactions[:, i][scores[:, i] == 3]
+                        ) if reactions[:, i][scores[:, i] == 3].shape else 0,
+                np.mean(reactions[:, i][scores[:, i] == 4]
+                        ) if reactions[:, i][scores[:, i] == 4].shape else 0,
+                np.mean(reactions[:, i][scores[:, i] == 5]
+                        ) if reactions[:, i][scores[:, i] == 5].shape else 0]
         std = [np.std(reactions[:, i][scores[:, i] == 1]),
                np.std(reactions[:, i][scores[:, i] == 2]),
                np.std(reactions[:, i][scores[:, i] == 3]),
