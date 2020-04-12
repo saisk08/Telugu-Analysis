@@ -21,7 +21,10 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js && python main.py"
+    "start": "python main.py",
+    "build": "npm run start && mkdocs build",
+    "add-new": "node index.js && python main.py",
+    "deploy": "nprm run build && gh-pages -d site"
   },
   "keywords": [],
   "author": "",
