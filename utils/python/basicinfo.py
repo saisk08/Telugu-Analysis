@@ -99,6 +99,7 @@ def overall_data(data):
     scores, reactions = np.array(scores), np.array(reactions)
 
     consolidated = list()
+    agreement = np.zeros(5, dtype=np.int64)
     for i in range(scores.shape[1]):
         median = np.median(scores[:, i])
         count = np.array([np.count_nonzero(scores[:, i] == 1),
@@ -108,7 +109,8 @@ def overall_data(data):
                           np.count_nonzero(scores[:, i] == 5)])
         percentages = (count / count.sum()) * 100
         midx = np.argmax(percentages)
-        agreement = np.array([percentages[midx], ])
+        if percentages[midx] > 50:
+            agreement[midx] += 1
         mean = [np.mean(reactions[:, i][scores[:, i] == 1]
                         if reactions[:, i][scores[:, i] == 1].any() else 0),
                 np.mean(reactions[:, i][scores[:, i] == 2]
@@ -146,5 +148,6 @@ def overall_data(data):
         reactions[scores == 4].std(),
         reactions[scores == 5].std()
     ]}
+    processed_data.update({'agreement': agreement})
     processed_data.update({'scores': scores})
     return processed_data
