@@ -76,6 +76,7 @@ def create_readme(user_data, version):
         readme.write('\n\n')
         readme.write('### {}\n\n'.format(pair))
         readme.write('* **Median score**: {}\n\n'.format(info_vec[4]))
+        readme.write('* **Majority score**: {}\n\n'.format(info_vec[5]))
         head = ['Score', 1, 2, 3, 4, 5]
         count = ['Count', *info_vec[0]]
         percentages = ['Agreement %', *info_vec[1]]

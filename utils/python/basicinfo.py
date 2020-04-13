@@ -131,7 +131,7 @@ def overall_data(data):
                       if reactions[:, i][scores[:, i] == 4].any() else 0),
                np.std(reactions[:, i][scores[:, i] == 5]
                       if reactions[:, i][scores[:, i] == 5].any() else 0)]
-        consolidated.append([count, percentages, mean, std, median])
+        consolidated.append([count, percentages, mean, std, median, midx + 1])
     processed_data.update({'overall': consolidated})
     scores = {'Score': [1, 2, 3, 4, 5],
               'Means': [
