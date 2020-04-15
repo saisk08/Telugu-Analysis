@@ -4,7 +4,7 @@ from tabulate import tabulate
 index_content = '''
 # Introduction
 
-# About the experiment
+## About the experiment
 
 We often look for differences in our surrounding objects to establish a sense of uniqueness that is
 associated with each of these objects. The experiment is designed to understand how the visual cortex
@@ -18,7 +18,7 @@ who know Telugu are also encouraged to participate in the experiment as it will 
 compare the perceived dissimilarity of such participants against the participants who have no idea
 of the language.
 
-# Versions of experiment
+## Versions of experiment
 
 There are two version of the experiment that were conducted. The only different between the two versions
 is the **scale** that was used. The scales are given below:
@@ -40,7 +40,7 @@ is the **scale** that was used. The scales are given below:
 Version 1 was conducted in a monitered fashion at the AI lab, while version 2 was conducted as an
 online survey.
 
-# Instructions
+## Instructions
 
 The instructions given for both the version of the experiment are the same. The instructions are
 given below:
@@ -52,7 +52,7 @@ they disappear.
 * 30 pairs make up a set. You will have to attempt 10 such sets.
 * The estimated time of completion for 10 sets is about *25 minutes*.
 
-# About the participants
+## About the participants
 
 In version 1 of the experiment, all the participants are form university of Hyderabad. We used their
 registration number as an unique indentifier for these participants.
@@ -60,13 +60,13 @@ registration number as an unique indentifier for these participants.
 Since version 2 of the experiment was condcuted as an online survey and, we have used their email IDs
 as a unique identifier.
 
-# Distribution of the Participants
+## Distribution of the Participants
 
-# Version \\alpha
+### Version $\\alpha$
 
 {alpha}
 
-# Version \\beta
+### Version $\\beta$
 
 {beta}
 
@@ -102,12 +102,12 @@ def create_index(ver1, ver2):
 
         if ver2[user]['userInfo']['content']['write'] == 'Yes':
             tel_ver2[2] += 1
-    table1.append(['Telugu participants', sum(tel_ver1)])
+    table1.append(['Telugu participants', max(tel_ver1)])
     table1.append(['Telugu readers', tel_ver1[0]])
     table1.append(['Telugu speakers', tel_ver1[1]])
     table1.append(['Telugu writers', tel_ver1[2]])
 
-    table2.append(['Telugu participants', sum(tel_ver2)])
+    table2.append(['Telugu participants', max(tel_ver2)])
     table2.append(['Telugu readers', tel_ver2[0]])
     table2.append(['Telugu speakers', tel_ver2[1]])
     table2.append(['Telugu writers', tel_ver2[2]])
