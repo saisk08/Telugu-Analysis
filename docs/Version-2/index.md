@@ -52,6 +52,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |         2 |      3 |     4 |     5 |
 |-------------|----------|-----------|--------|-------|-------|
 | Count       | 17       |  4        | 2      | 1     | 1     |
@@ -62,6 +64,8 @@ A profile for each participant has been created. In this document,
 ### అ-వ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |         2 |      3 |   4 |     5 |
 |-------------|----------|-----------|--------|-----|-------|
@@ -74,6 +78,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |   3 |      4 |     5 |
 |-------------|-----------|-----------|-----|--------|-------|
 | Count       | 19        |  3        |   0 | 2      | 1     |
@@ -84,6 +90,8 @@ A profile for each participant has been created. In this document,
 ### అ-య
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |      2 |      3 |   4 |   5 |
 |-------------|----------|--------|--------|-----|-----|
@@ -96,6 +104,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
+* **Majority score**: 4
+
 | Score       |         1 |         2 |   3 |        4 |   5 |
 |-------------|-----------|-----------|-----|----------|-----|
 | Count       |  9        |  3        |   0 | 13       |   0 |
@@ -106,6 +116,8 @@ A profile for each participant has been created. In this document,
 ### అ-ర
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |     2 |     3 |     4 |     5 |
 |-------------|-----------|-------|-------|-------|-------|
@@ -118,6 +130,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |        2 |     3 |      4 |    5 |
 |-------------|-----------|----------|-------|--------|------|
 | Count       | 17        |  4       | 1     | 2      | 1    |
@@ -128,6 +142,8 @@ A profile for each participant has been created. In this document,
 ### అ-జ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |       1 |         2 |     3 |         4 |     5 |
 |-------------|---------|-----------|-------|-----------|-------|
@@ -140,6 +156,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |         2 |     3 |     4 |     5 |
 |-------------|----------|-----------|-------|-------|-------|
 | Count       | 17       |  4        | 1     | 1     | 2     |
@@ -150,6 +168,8 @@ A profile for each participant has been created. In this document,
 ### అ-ఆ
 
 * **Median score**: 4.0
+
+* **Majority score**: 5
 
 | Score       |        1 |         2 |     3 |       4 |        5 |
 |-------------|----------|-----------|-------|---------|----------|
@@ -162,6 +182,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |     3 |     4 |     5 |
 |-------------|-----------|-----------|-------|-------|-------|
 | Count       | 18        |  4        | 1     | 1     | 1     |
@@ -172,6 +194,8 @@ A profile for each participant has been created. In this document,
 ### అ-ఊ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |       2 |   3 |     4 |    5 |
 |-------------|-----------|---------|-----|-------|------|
@@ -184,6 +208,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |     3 |      4 |   5 |
 |-------------|-----------|-----------|-------|--------|-----|
 | Count       | 18        |  4        | 1     | 2      |   0 |
@@ -194,6 +220,8 @@ A profile for each participant has been created. In this document,
 ### అ-ఏ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |         2 |     3 |   4 |        5 |
 |-------------|-----------|-----------|-------|-----|----------|
@@ -206,6 +234,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |   3 |     4 |     5 |
 |-------------|-----------|-----------|-----|-------|-------|
 | Count       | 16        |  7        |   0 | 1     | 1     |
@@ -216,6 +246,8 @@ A profile for each participant has been created. In this document,
 ### అ-ఫ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |    2 |     3 |   4 |      5 |
 |-------------|----------|------|-------|-----|--------|
@@ -228,6 +260,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |     3 |       4 |   5 |
 |-------------|-----------|-----------|-------|---------|-----|
 | Count       | 14        |  4        | 2     |  5      |   0 |
@@ -238,6 +272,8 @@ A profile for each participant has been created. In this document,
 ### అ-డ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |         2 |         3 |   4 |     5 |
 |-------------|-----------|-----------|-----------|-----|-------|
@@ -250,6 +286,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |      2 |         3 |     4 |         5 |
 |-------------|-----------|--------|-----------|-------|-----------|
 | Count       | 14        | 2      |  3        | 2     |  4        |
@@ -260,6 +298,8 @@ A profile for each participant has been created. In this document,
 ### అ-త
 
 * **Median score**: 2.0
+
+* **Majority score**: 1
 
 | Score       |         1 |        2 |          3 |         4 |      5 |
 |-------------|-----------|----------|------------|-----------|--------|
@@ -272,6 +312,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |         2 |   3 |     4 |     5 |
 |-------------|----------|-----------|-----|-------|-------|
 | Count       | 19       |  4        |   0 | 1     | 1     |
@@ -282,6 +324,8 @@ A profile for each participant has been created. In this document,
 ### అ-హ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |     2 |     3 |         4 |   5 |
 |-------------|----------|-------|-------|-----------|-----|
@@ -294,6 +338,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |      2 |     3 |     4 |     5 |
 |-------------|----------|--------|-------|-------|-------|
 | Count       | 19       | 2      | 1     | 2     | 1     |
@@ -304,6 +350,8 @@ A profile for each participant has been created. In this document,
 ### అ-ఘ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |    2 |   3 |     4 |     5 |
 |-------------|-----------|------|-----|-------|-------|
@@ -316,6 +364,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
+* **Majority score**: 5
+
 | Score       |         1 |         2 |     3 |         4 |        5 |
 |-------------|-----------|-----------|-------|-----------|----------|
 | Count       |  5        |  4        | 1     |  5        | 10       |
@@ -326,6 +376,8 @@ A profile for each participant has been created. In this document,
 ### న-మ
 
 * **Median score**: 2.0
+
+* **Majority score**: 1
 
 | Score       |        1 |       2 |         3 |         4 |         5 |
 |-------------|----------|---------|-----------|-----------|-----------|
@@ -338,6 +390,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |         2 |        3 |     4 |     5 |
 |-------------|----------|-----------|----------|-------|-------|
 | Count       | 16       |  3        |  4       | 1     | 1     |
@@ -348,6 +402,8 @@ A profile for each participant has been created. In this document,
 ### న-ల
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |     2 |        3 |     4 |     5 |
 |-------------|----------|-------|----------|-------|-------|
@@ -360,6 +416,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
+* **Majority score**: 1
+
 | Score       |         1 |        2 |         3 |        4 |   5 |
 |-------------|-----------|----------|-----------|----------|-----|
 | Count       | 12        |  5       |  3        |  5       |   0 |
@@ -370,6 +428,8 @@ A profile for each participant has been created. In this document,
 ### న-ఒ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |         2 |         3 |     4 |     5 |
 |-------------|----------|-----------|-----------|-------|-------|
@@ -382,6 +442,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |         3 |         4 |   5 |
 |-------------|-----------|-----------|-----------|-----------|-----|
 | Count       | 14        |  5        |  3        |  3        |   0 |
@@ -392,6 +454,8 @@ A profile for each participant has been created. In this document,
 ### న-ఠ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |         2 |         3 |      4 |     5 |
 |-------------|----------|-----------|-----------|--------|-------|
@@ -404,6 +468,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |     2 |      3 |     4 |         5 |
 |-------------|-----------|-------|--------|-------|-----------|
 | Count       | 18        | 1     | 2      | 1     |  3        |
@@ -414,6 +480,8 @@ A profile for each participant has been created. In this document,
 ### న-ఉ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |         2 |     3 |   4 |     5 |
 |-------------|----------|-----------|-------|-----|-------|
@@ -426,6 +494,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |   2 |   3 |        4 |   5 |
 |-------------|-----------|-----|-----|----------|-----|
 | Count       | 22        |   0 |   0 |  3       |   0 |
@@ -436,6 +506,8 @@ A profile for each participant has been created. In this document,
 ### న-ఎ
 
 * **Median score**: 3.0
+
+* **Majority score**: 4
 
 | Score       |        1 |        2 |         3 |         4 |    5 |
 |-------------|----------|----------|-----------|-----------|------|
@@ -448,6 +520,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 3.0
 
+* **Majority score**: 4
+
 | Score       |         1 |         2 |         3 |        4 |     5 |
 |-------------|-----------|-----------|-----------|----------|-------|
 | Count       |  6        |  5        |  4        |  9       | 1     |
@@ -458,6 +532,8 @@ A profile for each participant has been created. In this document,
 ### న-ప
 
 * **Median score**: 3.0
+
+* **Majority score**: 4
 
 | Score       |        1 |         2 |         3 |        4 |         5 |
 |-------------|----------|-----------|-----------|----------|-----------|
@@ -470,6 +546,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 3.0
 
+* **Majority score**: 1
+
 | Score       |         1 |        2 |         3 |         4 |         5 |
 |-------------|-----------|----------|-----------|-----------|-----------|
 | Count       |  7        |  5       |  3        |  6        |  4        |
@@ -480,6 +558,8 @@ A profile for each participant has been created. In this document,
 ### న-ద
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |      2 |   3 |       4 |     5 |
 |-------------|----------|--------|-----|---------|-------|
@@ -492,6 +572,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |         3 |      4 |      5 |
 |-------------|-----------|-----------|-----------|--------|--------|
 | Count       | 12        |  6        |  3        | 2      | 2      |
@@ -502,6 +584,8 @@ A profile for each participant has been created. In this document,
 ### న-బ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |        2 |      3 |      4 |     5 |
 |-------------|-----------|----------|--------|--------|-------|
@@ -514,6 +598,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |      2 |     3 |         4 |     5 |
 |-------------|----------|--------|-------|-----------|-------|
 | Count       | 17       | 2      | 2     |  3        | 1     |
@@ -524,6 +610,8 @@ A profile for each participant has been created. In this document,
 ### న-క
 
 * **Median score**: 2.0
+
+* **Majority score**: 1
 
 | Score       |         1 |         2 |   3 |         4 |         5 |
 |-------------|-----------|-----------|-----|-----------|-----------|
@@ -536,6 +624,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |     2 |       3 |         4 |     5 |
 |-------------|----------|-------|---------|-----------|-------|
 | Count       | 15       | 1     |    3    |  4        | 2     |
@@ -546,6 +636,8 @@ A profile for each participant has been created. In this document,
 ### న-ణ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |       1 |     2 |   3 |     4 |      5 |
 |-------------|---------|-------|-----|-------|--------|
@@ -558,6 +650,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |        2 |   3 |     4 |     5 |
 |-------------|----------|----------|-----|-------|-------|
 | Count       | 18       |  4       |   0 | 1     | 2     |
@@ -568,6 +662,8 @@ A profile for each participant has been created. In this document,
 ### వ-మ
 
 * **Median score**: 4.0
+
+* **Majority score**: 4
 
 | Score       |        1 |        2 |      3 |         4 |        5 |
 |-------------|----------|----------|--------|-----------|----------|
@@ -580,6 +676,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |     2 |   3 |         4 |   5 |
 |-------------|-----------|-------|-----|-----------|-----|
 | Count       | 13        | 2     |   0 | 10        |   0 |
@@ -590,6 +688,8 @@ A profile for each participant has been created. In this document,
 ### వ-ల
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |         2 |        3 |         4 |   5 |
 |-------------|-----------|-----------|----------|-----------|-----|
@@ -602,6 +702,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |        3 |         4 |     5 |
 |-------------|-----------|-----------|----------|-----------|-------|
 | Count       | 12        |  4        |  3       |  5        | 1     |
@@ -612,6 +714,8 @@ A profile for each participant has been created. In this document,
 ### వ-ఒ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |         2 |        3 |      4 |         5 |
 |-------------|----------|-----------|----------|--------|-----------|
@@ -624,6 +728,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |      2 |         3 |      4 |     5 |
 |-------------|----------|--------|-----------|--------|-------|
 | Count       | 16       | 2      |  3        | 2      | 2     |
@@ -634,6 +740,8 @@ A profile for each participant has been created. In this document,
 ### వ-ఠ
 
 * **Median score**: 2.0
+
+* **Majority score**: 1
 
 | Score       |         1 |         2 |         3 |        4 |     5 |
 |-------------|-----------|-----------|-----------|----------|-------|
@@ -646,6 +754,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |        2 |     3 |    4 |     5 |
 |-------------|----------|----------|-------|------|-------|
 | Count       | 18       |  4       | 1     | 1    | 1     |
@@ -656,6 +766,8 @@ A profile for each participant has been created. In this document,
 ### వ-ఉ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |         2 |   3 |   4 |     5 |
 |-------------|----------|-----------|-----|-----|-------|
@@ -668,6 +780,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |   2 |   3 |     4 |     5 |
 |-------------|----------|-----|-----|-------|-------|
 | Count       | 23       |   0 |   0 | 1     | 1     |
@@ -678,6 +792,8 @@ A profile for each participant has been created. In this document,
 ### వ-ఎ
 
 * **Median score**: 4.0
+
+* **Majority score**: 4
 
 | Score       |        1 |     2 |   3 |         4 |        5 |
 |-------------|----------|-------|-----|-----------|----------|
@@ -690,6 +806,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
+* **Majority score**: 4
+
 | Score       |         1 |         2 |         3 |        4 |      5 |
 |-------------|-----------|-----------|-----------|----------|--------|
 | Count       |  4        |  5        |  3        | 11       | 2      |
@@ -700,6 +818,8 @@ A profile for each participant has been created. In this document,
 ### వ-ప
 
 * **Median score**: 4.0
+
+* **Majority score**: 4
 
 | Score       |      1 |         2 |   3 |         4 |         5 |
 |-------------|--------|-----------|-----|-----------|-----------|
@@ -712,6 +832,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
+* **Majority score**: 4
+
 | Score       |         1 |         2 |   3 |        4 |         5 |
 |-------------|-----------|-----------|-----|----------|-----------|
 | Count       |  4        |  3        |   0 | 14       |  4        |
@@ -722,6 +844,8 @@ A profile for each participant has been created. In this document,
 ### వ-ద
 
 * **Median score**: 3.0
+
+* **Majority score**: 1
 
 | Score       |         1 |         2 |      3 |         4 |          5 |
 |-------------|-----------|-----------|--------|-----------|------------|
@@ -734,6 +858,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |     2 |      3 |         4 |         5 |
 |-------------|-----------|-------|--------|-----------|-----------|
 | Count       | 14        | 1     | 2      |  5        |  3        |
@@ -744,6 +870,8 @@ A profile for each participant has been created. In this document,
 ### వ-బ
 
 * **Median score**: 2.0
+
+* **Majority score**: 1
 
 | Score       |         1 |        2 |         3 |        4 |     5 |
 |-------------|-----------|----------|-----------|----------|-------|
@@ -756,6 +884,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
+* **Majority score**: 1
+
 | Score       |        1 |        2 |         3 |         4 |        5 |
 |-------------|----------|----------|-----------|-----------|----------|
 | Count       |  9       |  4       |  3        |  6        |  3       |
@@ -766,6 +896,8 @@ A profile for each participant has been created. In this document,
 ### వ-క
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |        2 |     3 |     4 |         5 |
 |-------------|-----------|----------|-------|-------|-----------|
@@ -778,6 +910,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
+* **Majority score**: 1
+
 | Score       |        1 |        2 |        3 |        4 |         5 |
 |-------------|----------|----------|----------|----------|-----------|
 | Count       |  8       |  6       |  4       |  4       |  3        |
@@ -788,6 +922,8 @@ A profile for each participant has been created. In this document,
 ### వ-ణ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |        2 |      3 |     4 |   5 |
 |-------------|----------|----------|--------|-------|-----|
@@ -800,6 +936,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 3.0
 
+* **Majority score**: 1
+
 | Score       |        1 |       2 |        3 |         4 |         5 |
 |-------------|----------|---------|----------|-----------|-----------|
 | Count       |  8       |  3      |  6       |  5        |  3        |
@@ -810,6 +948,8 @@ A profile for each participant has been created. In this document,
 ### మ-య
 
 * **Median score**: 4.0
+
+* **Majority score**: 5
 
 | Score       |      1 |        2 |         3 |         4 |         5 |
 |-------------|--------|----------|-----------|-----------|-----------|
@@ -822,6 +962,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |         2 |   3 |     4 |     5 |
 |-------------|----------|-----------|-----|-------|-------|
 | Count       | 19       |  4        |   0 | 1     | 1     |
@@ -832,6 +974,8 @@ A profile for each participant has been created. In this document,
 ### మ-ర
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |        2 |     3 |         4 |     5 |
 |-------------|----------|----------|-------|-----------|-------|
@@ -844,6 +988,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |     2 |        3 |     4 |     5 |
 |-------------|----------|-------|----------|-------|-------|
 | Count       | 17       | 2     |  3       | 2     | 1     |
@@ -854,6 +1000,8 @@ A profile for each participant has been created. In this document,
 ### మ-జ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |       2 |     3 |        4 |    5 |
 |-------------|----------|---------|-------|----------|------|
@@ -866,6 +1014,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |      2 |         3 |    4 |     5 |
 |-------------|-----------|--------|-----------|------|-------|
 | Count       | 18        | 2      |  3        | 1    | 1     |
@@ -876,6 +1026,8 @@ A profile for each participant has been created. In this document,
 ### మ-ఆ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |         2 |      3 |     4 |   5 |
 |-------------|-----------|-----------|--------|-------|-----|
@@ -888,6 +1040,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |        2 |     3 |   4 |     5 |
 |-------------|----------|----------|-------|-----|-------|
 | Count       | 17       |  5       | 2     |   0 | 1     |
@@ -898,6 +1052,8 @@ A profile for each participant has been created. In this document,
 ### మ-ఊ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |         2 |     3 |     4 |   5 |
 |-------------|----------|-----------|-------|-------|-----|
@@ -910,6 +1066,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
+* **Majority score**: 4
+
 | Score       |         1 |        2 |      3 |        4 |     5 |
 |-------------|-----------|----------|--------|----------|-------|
 | Count       |  6        |  7       | 2      |  9       | 1     |
@@ -920,6 +1078,8 @@ A profile for each participant has been created. In this document,
 ### మ-ఏ
 
 * **Median score**: 2.0
+
+* **Majority score**: 1
 
 | Score       |        1 |        2 |         3 |       4 |         5 |
 |-------------|----------|----------|-----------|---------|-----------|
@@ -932,6 +1092,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 3.0
 
+* **Majority score**: 1
+
 | Score       |        1 |         2 |         3 |        4 |         5 |
 |-------------|----------|-----------|-----------|----------|-----------|
 | Count       |  7       |  4        |  5        |  6       |  3        |
@@ -942,6 +1104,8 @@ A profile for each participant has been created. In this document,
 ### మ-ఫ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |        2 |     3 |        4 |     5 |
 |-------------|-----------|----------|-------|----------|-------|
@@ -954,6 +1118,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |        3 |         4 |   5 |
 |-------------|-----------|-----------|----------|-----------|-----|
 | Count       | 14        |  3        |  4       |  4        |   0 |
@@ -964,6 +1130,8 @@ A profile for each participant has been created. In this document,
 ### మ-డ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |      2 |        3 |     4 |     5 |
 |-------------|----------|--------|----------|-------|-------|
@@ -976,6 +1144,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |        2 |     3 |   4 |      5 |
 |-------------|----------|----------|-------|-----|--------|
 | Count       | 16       |  6       | 1     |   0 | 2      |
@@ -986,6 +1156,8 @@ A profile for each participant has been created. In this document,
 ### మ-త
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |        2 |     3 |     4 |   5 |
 |-------------|----------|----------|-------|-------|-----|
@@ -998,6 +1170,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |   2 |     3 |         4 |     5 |
 |-------------|-----------|-----|-------|-----------|-------|
 | Count       | 19        |   0 | 1     |  4        | 1     |
@@ -1008,6 +1182,8 @@ A profile for each participant has been created. In this document,
 ### మ-హ
 
 * **Median score**: 3.0
+
+* **Majority score**: 1
 
 | Score       |        1 |     2 |         3 |        4 |         5 |
 |-------------|----------|-------|-----------|----------|-----------|
@@ -1020,6 +1196,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |       1 |        2 |     3 |   4 |   5 |
 |-------------|---------|----------|-------|-----|-----|
 | Count       | 16      |  8       | 1     |   0 |   0 |
@@ -1030,6 +1208,8 @@ A profile for each participant has been created. In this document,
 ### మ-ఘ
 
 * **Median score**: 4.0
+
+* **Majority score**: 4
 
 | Score       |     1 |         2 |   3 |        4 |         5 |
 |-------------|-------|-----------|-----|----------|-----------|
@@ -1042,6 +1222,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |     2 |         3 |   4 |     5 |
 |-------------|-----------|-------|-----------|-----|-------|
 | Count       | 18        | 2     |  4        |   0 | 1     |
@@ -1052,6 +1234,8 @@ A profile for each participant has been created. In this document,
 ### య-ర
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |     2 |         3 |        4 |    5 |
 |-------------|-----------|-------|-----------|----------|------|
@@ -1064,6 +1248,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |         2 |     3 |    4 |     5 |
 |-------------|----------|-----------|-------|------|-------|
 | Count       | 19       |  3        | 1     | 1    | 1     |
@@ -1074,6 +1260,8 @@ A profile for each participant has been created. In this document,
 ### య-జ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |        2 |   3 |         4 |   5 |
 |-------------|----------|----------|-----|-----------|-----|
@@ -1086,6 +1274,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |     2 |     3 |     4 |      5 |
 |-------------|-----------|-------|-------|-------|--------|
 | Count       | 18        | 2     | 2     | 1     | 2      |
@@ -1096,6 +1286,8 @@ A profile for each participant has been created. In this document,
 ### య-ఆ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |        2 |   3 |      4 |   5 |
 |-------------|-----------|----------|-----|--------|-----|
@@ -1108,6 +1300,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |   3 |     4 |     5 |
 |-------------|-----------|-----------|-----|-------|-------|
 | Count       | 18        |  4        |   0 | 1     | 2     |
@@ -1118,6 +1312,8 @@ A profile for each participant has been created. In this document,
 ### య-ఊ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |       1 |         2 |      3 |   4 |     5 |
 |-------------|---------|-----------|--------|-----|-------|
@@ -1130,6 +1326,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
+* **Majority score**: 1
+
 | Score       |         1 |        2 |        3 |      4 |     5 |
 |-------------|-----------|----------|----------|--------|-------|
 | Count       | 10        |  9       |  3       | 2      | 1     |
@@ -1140,6 +1338,8 @@ A profile for each participant has been created. In this document,
 ### య-ఏ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |      2 |        3 |         4 |   5 |
 |-------------|----------|--------|----------|-----------|-----|
@@ -1152,6 +1352,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
+* **Majority score**: 1
+
 | Score       |         1 |        2 |     3 |         4 |   5 |
 |-------------|-----------|----------|-------|-----------|-----|
 | Count       | 12        |  9       | 1     |  3        |   0 |
@@ -1162,6 +1364,8 @@ A profile for each participant has been created. In this document,
 ### య-ఫ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |   2 |      3 |         4 |   5 |
 |-------------|-----------|-----|--------|-----------|-----|
@@ -1174,6 +1378,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |     3 |        4 |     5 |
 |-------------|-----------|-----------|-------|----------|-------|
 | Count       | 14        |  4        | 2     |  4       | 1     |
@@ -1184,6 +1390,8 @@ A profile for each participant has been created. In this document,
 ### య-డ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |        2 |     3 |     4 |      5 |
 |-------------|-----------|----------|-------|-------|--------|
@@ -1196,6 +1404,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |        2 |     3 |      4 |   5 |
 |-------------|-----------|----------|-------|--------|-----|
 | Count       | 17        |  5       | 1     | 2      |   0 |
@@ -1206,6 +1416,8 @@ A profile for each participant has been created. In this document,
 ### య-త
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |         2 |   3 |     4 |     5 |
 |-------------|----------|-----------|-----|-------|-------|
@@ -1218,6 +1430,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |      2 |   3 |   4 |   5 |
 |-------------|-----------|--------|-----|-----|-----|
 | Count       | 23        | 2      |   0 |   0 |   0 |
@@ -1228,6 +1442,8 @@ A profile for each participant has been created. In this document,
 ### య-హ
 
 * **Median score**: 2.0
+
+* **Majority score**: 1
 
 | Score       |         1 |         2 |         3 |         4 |     5 |
 |-------------|-----------|-----------|-----------|-----------|-------|
@@ -1240,6 +1456,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |        2 |     3 |   4 |     5 |
 |-------------|-----------|----------|-------|-----|-------|
 | Count       | 19        |  4       | 1     |   0 | 1     |
@@ -1250,6 +1468,8 @@ A profile for each participant has been created. In this document,
 ### య-ఘ
 
 * **Median score**: 2.0
+
+* **Majority score**: 1
 
 | Score       |        1 |        2 |         3 |     4 |         5 |
 |-------------|----------|----------|-----------|-------|-----------|
@@ -1262,6 +1482,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |        2 |      3 |         4 |         5 |
 |-------------|----------|----------|--------|-----------|-----------|
 | Count       | 13       |  3       | 2      |  4        |  3        |
@@ -1272,6 +1494,8 @@ A profile for each participant has been created. In this document,
 ### ల-ఒ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |        2 |         3 |      4 |     5 |
 |-------------|----------|----------|-----------|--------|-------|
@@ -1284,6 +1508,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |       3 |      4 |   5 |
 |-------------|-----------|-----------|---------|--------|-----|
 | Count       | 16        |  4        |  3      | 2      |   0 |
@@ -1294,6 +1520,8 @@ A profile for each participant has been created. In this document,
 ### ల-ఠ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |        2 |        3 |     4 |     5 |
 |-------------|-----------|----------|----------|-------|-------|
@@ -1306,6 +1534,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 3.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |        3 |        4 |     5 |
 |-------------|-----------|-----------|----------|----------|-------|
 | Count       |  9        |  3        |  4       |  7       | 2     |
@@ -1316,6 +1546,8 @@ A profile for each participant has been created. In this document,
 ### ల-ఉ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |        2 |   3 |         4 |     5 |
 |-------------|-----------|----------|-----|-----------|-------|
@@ -1328,6 +1560,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |     2 |     3 |     4 |   5 |
 |-------------|-----------|-------|-------|-------|-----|
 | Count       | 22        | 1     | 1     | 1     |   0 |
@@ -1338,6 +1572,8 @@ A profile for each participant has been created. In this document,
 ### ల-ఎ
 
 * **Median score**: 2.0
+
+* **Majority score**: 1
 
 | Score       |        1 |         2 |     3 |        4 |         5 |
 |-------------|----------|-----------|-------|----------|-----------|
@@ -1350,6 +1586,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |       2 |    3 |         4 |      5 |
 |-------------|----------|---------|------|-----------|--------|
 | Count       | 13       |  5      | 1    |  4        | 2      |
@@ -1360,6 +1598,8 @@ A profile for each participant has been created. In this document,
 ### ల-ప
 
 * **Median score**: 2.0
+
+* **Majority score**: 1
 
 | Score       |         1 |         2 |         3 |        4 |         5 |
 |-------------|-----------|-----------|-----------|----------|-----------|
@@ -1372,6 +1612,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |         2 |      3 |   4 |     5 |
 |-------------|----------|-----------|--------|-----|-------|
 | Count       | 17       |  5        | 2      |   0 | 1     |
@@ -1382,6 +1624,8 @@ A profile for each participant has been created. In this document,
 ### ల-ద
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |         2 |        3 |    4 |      5 |
 |-------------|-----------|-----------|----------|------|--------|
@@ -1394,6 +1638,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |      3 |         4 |    5 |
 |-------------|-----------|-----------|--------|-----------|------|
 | Count       | 14        |  4        | 2      |  3        | 2    |
@@ -1404,6 +1650,8 @@ A profile for each participant has been created. In this document,
 ### ల-బ
 
 * **Median score**: 2.0
+
+* **Majority score**: 1
 
 | Score       |         1 |         2 |        3 |         4 |     5 |
 |-------------|-----------|-----------|----------|-----------|-------|
@@ -1416,6 +1664,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
+* **Majority score**: 1
+
 | Score       |         1 |        2 |         3 |         4 |      5 |
 |-------------|-----------|----------|-----------|-----------|--------|
 | Count       | 10        |  3       |  6        |  4        | 2      |
@@ -1426,6 +1676,8 @@ A profile for each participant has been created. In this document,
 ### ల-క
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |     2 |      3 |       4 |     5 |
 |-------------|-----------|-------|--------|---------|-------|
@@ -1438,6 +1690,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |     3 |     4 |   5 |
 |-------------|-----------|-----------|-------|-------|-----|
 | Count       | 16        |  7        | 1     | 1     |   0 |
@@ -1448,6 +1702,8 @@ A profile for each participant has been created. In this document,
 ### ల-ణ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |        2 |      3 |         4 |     5 |
 |-------------|-----------|----------|--------|-----------|-------|
@@ -1460,6 +1716,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |     3 |     4 |   5 |
 |-------------|-----------|-----------|-------|-------|-----|
 | Count       | 20        |  3        | 1     | 1     |   0 |
@@ -1470,6 +1728,8 @@ A profile for each participant has been created. In this document,
 ### ర-ఒ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |        2 |      3 |   4 |     5 |
 |-------------|-----------|----------|--------|-----|-------|
@@ -1482,6 +1742,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |        2 |     3 |    4 |     5 |
 |-------------|-----------|----------|-------|------|-------|
 | Count       | 18        |  4       | 1     | 1    | 1     |
@@ -1492,6 +1754,8 @@ A profile for each participant has been created. In this document,
 ### ర-ఠ
 
 * **Median score**: 4.0
+
+* **Majority score**: 4
 
 | Score       |     1 |        2 |   3 |         4 |        5 |
 |-------------|-------|----------|-----|-----------|----------|
@@ -1504,6 +1768,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |       2 |      3 |     4 |   5 |
 |-------------|-----------|---------|--------|-------|-----|
 | Count       | 17        |  5      | 2      | 1     |   0 |
@@ -1514,6 +1780,8 @@ A profile for each participant has been created. In this document,
 ### ర-ఉ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |        2 |     3 |      4 |     5 |
 |-------------|----------|----------|-------|--------|-------|
@@ -1526,6 +1794,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |   2 |     3 |     4 |     5 |
 |-------------|----------|-----|-------|-------|-------|
 | Count       | 22       |   0 | 1     | 1     | 1     |
@@ -1536,6 +1806,8 @@ A profile for each participant has been created. In this document,
 ### ర-ఎ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |     2 |         3 |        4 |      5 |
 |-------------|-----------|-------|-----------|----------|--------|
@@ -1548,6 +1820,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |        2 |     3 |         4 |     5 |
 |-------------|----------|----------|-------|-----------|-------|
 | Count       | 14       |  5       | 2     |  3        | 1     |
@@ -1558,6 +1832,8 @@ A profile for each participant has been created. In this document,
 ### ర-ప
 
 * **Median score**: 2.0
+
+* **Majority score**: 1
 
 | Score       |         1 |        2 |         3 |       4 |     5 |
 |-------------|-----------|----------|-----------|---------|-------|
@@ -1570,6 +1846,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |        2 |     3 |        4 |     5 |
 |-------------|----------|----------|-------|----------|-------|
 | Count       | 16       |  3       | 1     |  4       | 1     |
@@ -1580,6 +1858,8 @@ A profile for each participant has been created. In this document,
 ### ర-ద
 
 * **Median score**: 3.0
+
+* **Majority score**: 4
 
 | Score       |         1 |        2 |     3 |         4 |         5 |
 |-------------|-----------|----------|-------|-----------|-----------|
@@ -1592,6 +1872,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
+* **Majority score**: 1
+
 | Score       |        1 |         2 |     3 |      4 |         5 |
 |-------------|----------|-----------|-------|--------|-----------|
 | Count       | 12       |  5        | 2     | 2      |  4        |
@@ -1602,6 +1884,8 @@ A profile for each participant has been created. In this document,
 ### ర-బ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |     2 |         3 |      4 |     5 |
 |-------------|----------|-------|-----------|--------|-------|
@@ -1614,6 +1898,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |         2 |      3 |        4 |         5 |
 |-------------|----------|-----------|--------|----------|-----------|
 | Count       | 14       |  3        | 2      |  3       |  3        |
@@ -1624,6 +1910,8 @@ A profile for each participant has been created. In this document,
 ### ర-క
 
 * **Median score**: 2.0
+
+* **Majority score**: 1
 
 | Score       |         1 |         2 |   3 |         4 |         5 |
 |-------------|-----------|-----------|-----|-----------|-----------|
@@ -1636,6 +1924,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |     2 |      3 |     4 |   5 |
 |-------------|----------|-------|--------|-------|-----|
 | Count       | 20       | 2     |  2     | 1     |   0 |
@@ -1646,6 +1936,8 @@ A profile for each participant has been created. In this document,
 ### ర-ణ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |      2 |      3 |     4 |         5 |
 |-------------|-----------|--------|--------|-------|-----------|
@@ -1658,6 +1950,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |     3 |     4 |     5 |
 |-------------|-----------|-----------|-------|-------|-------|
 | Count       | 17        |  4        | 1     | 2     | 1     |
@@ -1668,6 +1962,8 @@ A profile for each participant has been created. In this document,
 ### ఒ-జ
 
 * **Median score**: 4.0
+
+* **Majority score**: 4
 
 | Score       |     1 |        2 |   3 |         4 |         5 |
 |-------------|-------|----------|-----|-----------|-----------|
@@ -1680,6 +1976,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |      2 |     3 |     4 |     5 |
 |-------------|----------|--------|-------|-------|-------|
 | Count       | 19       | 2      | 2     | 1     | 1     |
@@ -1690,6 +1988,8 @@ A profile for each participant has been created. In this document,
 ### ఒ-ఆ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |         2 |     3 |     4 |   5 |
 |-------------|----------|-----------|-------|-------|-----|
@@ -1702,6 +2002,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
+* **Majority score**: 1
+
 | Score       |        1 |         2 |        3 |        4 |     5 |
 |-------------|----------|-----------|----------|----------|-------|
 | Count       | 11       |  6        |  3       |  3       | 2     |
@@ -1712,6 +2014,8 @@ A profile for each participant has been created. In this document,
 ### ఒ-ఊ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |      2 |   3 |     4 |     5 |
 |-------------|----------|--------|-----|-------|-------|
@@ -1724,6 +2028,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |         3 |         4 |     5 |
 |-------------|-----------|-----------|-----------|-----------|-------|
 | Count       | 12        |  3        |  3        |  6        | 1     |
@@ -1734,6 +2040,8 @@ A profile for each participant has been created. In this document,
 ### ఒ-ఏ
 
 * **Median score**: 2.0
+
+* **Majority score**: 1
 
 | Score       |        1 |        2 |     3 |         4 |      5 |
 |-------------|----------|----------|-------|-----------|--------|
@@ -1746,6 +2054,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |         2 |      3 |     4 |         5 |
 |-------------|----------|-----------|--------|-------|-----------|
 | Count       | 14       |  5        | 2      | 1     |  3        |
@@ -1756,6 +2066,8 @@ A profile for each participant has been created. In this document,
 ### ఒ-ఫ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |          2 |     3 |     4 |     5 |
 |-------------|----------|------------|-------|-------|-------|
@@ -1768,6 +2080,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |         2 |        3 |      4 |     5 |
 |-------------|----------|-----------|----------|--------|-------|
 | Count       | 14       |  4        |  4       | 2      | 1     |
@@ -1778,6 +2092,8 @@ A profile for each participant has been created. In this document,
 ### ఒ-డ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |         2 |     3 |        4 |   5 |
 |-------------|-----------|-----------|-------|----------|-----|
@@ -1790,6 +2106,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 5.0
 
+* **Majority score**: 5
+
 | Score       |     1 |        2 |     3 |        4 |         5 |
 |-------------|-------|----------|-------|----------|-----------|
 | Count       | 1     |  3       | 1     |  7       | 13        |
@@ -1800,6 +2118,8 @@ A profile for each participant has been created. In this document,
 ### ఒ-త
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |         2 |   3 |   4 |     5 |
 |-------------|----------|-----------|-----|-----|-------|
@@ -1812,6 +2132,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |   2 |         3 |      4 |      5 |
 |-------------|----------|-----|-----------|--------|--------|
 | Count       | 17       |   0 |  4        | 2      | 2      |
@@ -1822,6 +2144,8 @@ A profile for each participant has been created. In this document,
 ### ఒ-హ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |         2 |     3 |     4 |     5 |
 |-------------|----------|-----------|-------|-------|-------|
@@ -1834,6 +2158,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |     3 |         4 |     5 |
 |-------------|-----------|-----------|-------|-----------|-------|
 | Count       | 15        |  3        | 1     |  5        | 1     |
@@ -1844,6 +2170,8 @@ A profile for each participant has been created. In this document,
 ### ఒ-ఘ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |         2 |     3 |        4 |   5 |
 |-------------|----------|-----------|-------|----------|-----|
@@ -1856,6 +2184,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |     2 |      3 |     4 |     5 |
 |-------------|----------|-------|--------|-------|-------|
 | Count       | 19       | 1     | 2      | 1     | 2     |
@@ -1866,6 +2196,8 @@ A profile for each participant has been created. In this document,
 ### జ-ఆ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |         2 |     3 |     4 |     5 |
 |-------------|----------|-----------|-------|-------|-------|
@@ -1878,6 +2210,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
+* **Majority score**: 1
+
 | Score       |        1 |      2 |     3 |       4 |     5 |
 |-------------|----------|--------|-------|---------|-------|
 | Count       | 10       |  5     | 1     |  7      | 2     |
@@ -1888,6 +2222,8 @@ A profile for each participant has been created. In this document,
 ### జ-ఊ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |     2 |   3 |     4 |     5 |
 |-------------|-----------|-------|-----|-------|-------|
@@ -1900,6 +2236,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |     2 |    3 |      4 |     5 |
 |-------------|----------|-------|------|--------|-------|
 | Count       | 19       | 2     | 1    | 2      | 1     |
@@ -1910,6 +2248,8 @@ A profile for each participant has been created. In this document,
 ### జ-ఏ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |         2 |     3 |     4 |   5 |
 |-------------|-----------|-----------|-------|-------|-----|
@@ -1922,6 +2262,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
+* **Majority score**: 1
+
 | Score       |        1 |       2 |     3 |        4 |      5 |
 |-------------|----------|---------|-------|----------|--------|
 | Count       | 12       |  5      | 2     |  5       |  1     |
@@ -1932,6 +2274,8 @@ A profile for each participant has been created. In this document,
 ### జ-ఫ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |        2 |   3 |   4 |     5 |
 |-------------|-----------|----------|-----|-----|-------|
@@ -1944,6 +2288,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |          2 |      3 |        4 |     5 |
 |-------------|----------|------------|--------|----------|-------|
 | Count       | 13       |  3         | 2      |  5       | 2     |
@@ -1954,6 +2300,8 @@ A profile for each participant has been created. In this document,
 ### జ-డ
 
 * **Median score**: 2.0
+
+* **Majority score**: 1
 
 | Score       |         1 |       2 |    3 |         4 |         5 |
 |-------------|-----------|---------|------|-----------|-----------|
@@ -1966,6 +2314,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
+* **Majority score**: 4
+
 | Score       |      1 |         2 |   3 |        4 |         5 |
 |-------------|--------|-----------|-----|----------|-----------|
 | Count       | 2      |  4        |   0 | 14       |  5        |
@@ -1976,6 +2326,8 @@ A profile for each participant has been created. In this document,
 ### జ-త
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |        2 |         3 |     4 |     5 |
 |-------------|-----------|----------|-----------|-------|-------|
@@ -1988,6 +2340,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |         2 |       3 |     4 |     5 |
 |-------------|----------|-----------|---------|-------|-------|
 | Count       | 15       |  3        |  5      | 1     | 1     |
@@ -1998,6 +2352,8 @@ A profile for each participant has been created. In this document,
 ### జ-హ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |        2 |   3 |      4 |   5 |
 |-------------|-----------|----------|-----|--------|-----|
@@ -2010,6 +2366,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |         2 |     3 |   4 |     5 |
 |-------------|----------|-----------|-------|-----|-------|
 | Count       | 13       |  8        | 2     |   0 | 2     |
@@ -2020,6 +2378,8 @@ A profile for each participant has been created. In this document,
 ### జ-ఘ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |         2 |      3 |     4 |     5 |
 |-------------|----------|-----------|--------|-------|-------|
@@ -2032,6 +2392,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |     3 |   4 |     5 |
 |-------------|-----------|-----------|-------|-----|-------|
 | Count       | 19        |  3        | 2     |   0 | 1     |
@@ -2042,6 +2404,8 @@ A profile for each participant has been created. In this document,
 ### ఠ-ఉ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |         2 |   3 |      4 |         5 |
 |-------------|----------|-----------|-----|--------|-----------|
@@ -2054,6 +2418,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |   2 |   3 |   4 |     5 |
 |-------------|-----------|-----|-----|-----|-------|
 | Count       | 24        |   0 |   0 |   0 | 1     |
@@ -2064,6 +2430,8 @@ A profile for each participant has been created. In this document,
 ### ఠ-ఎ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |         2 |      3 |   4 |     5 |
 |-------------|-----------|-----------|--------|-----|-------|
@@ -2076,6 +2444,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |      2 |         3 |     4 |         5 |
 |-------------|----------|--------|-----------|-------|-----------|
 | Count       | 15       | 2      |  3        | 2     |  3        |
@@ -2086,6 +2456,8 @@ A profile for each participant has been created. In this document,
 ### ఠ-ప
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |         2 |         3 |     4 |     5 |
 |-------------|-----------|-----------|-----------|-------|-------|
@@ -2098,6 +2470,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |        2 |        3 |     4 |     5 |
 |-------------|-----------|----------|----------|-------|-------|
 | Count       | 13        |  6       |  3       | 2     | 1     |
@@ -2108,6 +2482,8 @@ A profile for each participant has been created. In this document,
 ### ఠ-ద
 
 * **Median score**: 2.0
+
+* **Majority score**: 1
 
 | Score       |         1 |        2 |       3 |         4 |         5 |
 |-------------|-----------|----------|---------|-----------|-----------|
@@ -2120,6 +2496,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |         2 |     3 |         4 |     5 |
 |-------------|----------|-----------|-------|-----------|-------|
 | Count       | 15       |  3        | 2     |  4        | 1     |
@@ -2130,6 +2508,8 @@ A profile for each participant has been created. In this document,
 ### ఠ-బ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |         2 |   3 |     4 |     5 |
 |-------------|----------|-----------|-----|-------|-------|
@@ -2142,6 +2522,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |     3 |         4 |     5 |
 |-------------|-----------|-----------|-------|-----------|-------|
 | Count       | 14        |  4        | 2     |  3        | 2     |
@@ -2152,6 +2534,8 @@ A profile for each participant has been created. In this document,
 ### ఠ-క
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |      2 |     3 |         4 |      5 |
 |-------------|-----------|--------|-------|-----------|--------|
@@ -2164,6 +2548,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |        2 |      3 |   4 |   5 |
 |-------------|----------|----------|--------|-----|-----|
 | Count       | 20       |  3       | 2      |   0 |   0 |
@@ -2174,6 +2560,8 @@ A profile for each participant has been created. In this document,
 ### ఠ-ణ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |     2 |     3 |   4 |     5 |
 |-------------|----------|-------|-------|-----|-------|
@@ -2186,6 +2574,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |   2 |     3 |        4 |   5 |
 |-------------|-----------|-----|-------|----------|-----|
 | Count       | 21        |   0 | 1     |  3       |   0 |
@@ -2196,6 +2586,8 @@ A profile for each participant has been created. In this document,
 ### ఆ-ఉ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |         2 |     3 |     4 |     5 |
 |-------------|----------|-----------|-------|-------|-------|
@@ -2208,6 +2600,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
+* **Majority score**: 1
+
 | Score       |         1 |        2 |     3 |         4 |         5 |
 |-------------|-----------|----------|-------|-----------|-----------|
 | Count       | 12        |  3       | 2     |  5        |  3        |
@@ -2218,6 +2612,8 @@ A profile for each participant has been created. In this document,
 ### ఆ-ఎ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |         2 |   3 |         4 |   5 |
 |-------------|----------|-----------|-----|-----------|-----|
@@ -2230,6 +2626,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |         2 |        3 |     4 |     5 |
 |-------------|----------|-----------|----------|-------|-------|
 | Count       | 13       |  6        |  4       | 1     | 1     |
@@ -2240,6 +2638,8 @@ A profile for each participant has been created. In this document,
 ### ఆ-ప
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |         2 |   3 |     4 |     5 |
 |-------------|----------|-----------|-----|-------|-------|
@@ -2252,6 +2652,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |     2 |     3 |      4 |     5 |
 |-------------|-----------|-------|-------|--------|-------|
 | Count       | 20        | 1     | 1     | 2      | 1     |
@@ -2262,6 +2664,8 @@ A profile for each participant has been created. In this document,
 ### ఆ-ద
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |         2 |   3 |      4 |     5 |
 |-------------|-----------|-----------|-----|--------|-------|
@@ -2274,6 +2678,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |      2 |      3 |        4 |         5 |
 |-------------|----------|--------|--------|----------|-----------|
 | Count       | 15       | 2      | 2      |  3       |  3        |
@@ -2284,6 +2690,8 @@ A profile for each participant has been created. In this document,
 ### ఆ-బ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |        2 |         3 |     4 |     5 |
 |-------------|-----------|----------|-----------|-------|-------|
@@ -2296,6 +2704,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
+* **Majority score**: 4
+
 | Score       |        1 |         2 |     3 |         4 |         5 |
 |-------------|----------|-----------|-------|-----------|-----------|
 | Count       |  6       |  5        | 1     |  8        |  5        |
@@ -2306,6 +2716,8 @@ A profile for each participant has been created. In this document,
 ### ఆ-క
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |   2 |   3 |      4 |     5 |
 |-------------|----------|-----|-----|--------|-------|
@@ -2318,6 +2730,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |        2 |     3 |         4 |   5 |
 |-------------|----------|----------|-------|-----------|-----|
 | Count       | 16       |  4       | 2     |  3        |   0 |
@@ -2328,6 +2742,8 @@ A profile for each participant has been created. In this document,
 ### ఆ-ణ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |     2 |         3 |      4 |        5 |
 |-------------|-----------|-------|-----------|--------|----------|
@@ -2340,6 +2756,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |     2 |     3 |        4 |     5 |
 |-------------|-----------|-------|-------|----------|-------|
 | Count       | 19        | 1     | 1     |  3       | 1     |
@@ -2350,6 +2768,8 @@ A profile for each participant has been created. In this document,
 ### ఉ-ఊ
 
 * **Median score**: 3.0
+
+* **Majority score**: 2
 
 | Score       |     1 |        2 |     3 |         4 |        5 |
 |-------------|-------|----------|-------|-----------|----------|
@@ -2362,6 +2782,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |        2 |     3 |      4 |      5 |
 |-------------|-----------|----------|-------|--------|--------|
 | Count       | 17        |  3       | 1     | 2      | 2      |
@@ -2372,6 +2794,8 @@ A profile for each participant has been created. In this document,
 ### ఉ-ఏ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |         2 |     3 |        4 |     5 |
 |-------------|-----------|-----------|-------|----------|-------|
@@ -2384,6 +2808,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |         2 |     3 |     4 |    5 |
 |-------------|----------|-----------|-------|-------|------|
 | Count       | 19       |  3        | 1     | 1     | 1    |
@@ -2394,6 +2820,8 @@ A profile for each participant has been created. In this document,
 ### ఉ-ఫ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |         2 |   3 |     4 |     5 |
 |-------------|-----------|-----------|-----|-------|-------|
@@ -2406,6 +2834,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |        3 |        4 |        5 |
 |-------------|-----------|-----------|----------|----------|----------|
 | Count       | 11        |  4        |  3       |  4       |  3       |
@@ -2416,6 +2846,8 @@ A profile for each participant has been created. In this document,
 ### ఉ-డ
 
 * **Median score**: 3.0
+
+* **Majority score**: 4
 
 | Score       |       1 |         2 |         3 |        4 |     5 |
 |-------------|---------|-----------|-----------|----------|-------|
@@ -2428,6 +2860,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |      2 |   3 |   4 |     5 |
 |-------------|----------|--------|-----|-----|-------|
 | Count       | 22       | 2      |   0 |   0 | 1     |
@@ -2438,6 +2872,8 @@ A profile for each participant has been created. In this document,
 ### ఉ-త
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |         2 |      3 |     4 |   5 |
 |-------------|----------|-----------|--------|-------|-----|
@@ -2450,6 +2886,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |     2 |     3 |     4 |         5 |
 |-------------|-----------|-------|-------|-------|-----------|
 | Count       | 18        | 2     | 1     | 1     |  3        |
@@ -2460,6 +2898,8 @@ A profile for each participant has been created. In this document,
 ### ఉ-హ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |      2 |         3 |     4 |    5 |
 |-------------|----------|--------|-----------|-------|------|
@@ -2472,6 +2912,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |      2 |    3 |        4 |     5 |
 |-------------|-----------|--------|------|----------|-------|
 | Count       | 16        | 2      | 1    |  4       | 2     |
@@ -2482,6 +2924,8 @@ A profile for each participant has been created. In this document,
 ### ఉ-ఘ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |         2 |        3 |    4 |   5 |
 |-------------|-----------|-----------|----------|------|-----|
@@ -2494,6 +2938,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |   2 |      3 |        4 |   5 |
 |-------------|-----------|-----|--------|----------|-----|
 | Count       | 21        |   0 |  1     |  3       |   0 |
@@ -2504,6 +2950,8 @@ A profile for each participant has been created. In this document,
 ### ఊ-ఏ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |      2 |   3 |   4 |      5 |
 |-------------|----------|--------|-----|-----|--------|
@@ -2516,6 +2964,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |        2 |     3 |     4 |     5 |
 |-------------|-----------|----------|-------|-------|-------|
 | Count       | 19        |  3       | 1     | 1     | 1     |
@@ -2526,6 +2976,8 @@ A profile for each participant has been created. In this document,
 ### ఊ-ఫ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |      2 |   3 |     4 |     5 |
 |-------------|----------|--------|-----|-------|-------|
@@ -2538,6 +2990,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |     2 |     3 |        4 |     5 |
 |-------------|-----------|-------|-------|----------|-------|
 | Count       | 17        | 2     | 1     |  4       | 1     |
@@ -2548,6 +3002,8 @@ A profile for each participant has been created. In this document,
 ### ఊ-డ
 
 * **Median score**: 2.0
+
+* **Majority score**: 2
 
 | Score       |        1 |         2 |        3 |       4 |      5 |
 |-------------|----------|-----------|----------|---------|--------|
@@ -2560,6 +3016,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |      2 |     3 |     4 |     5 |
 |-------------|-----------|--------|-------|-------|-------|
 | Count       | 20        | 2      | 1     | 1     | 1     |
@@ -2570,6 +3028,8 @@ A profile for each participant has been created. In this document,
 ### ఊ-త
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |        2 |     3 |   4 |     5 |
 |-------------|----------|----------|-------|-----|-------|
@@ -2582,6 +3042,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |     2 |   3 |     4 |   5 |
 |-------------|-----------|-------|-----|-------|-----|
 | Count       | 23        | 1     |   0 | 1     |   0 |
@@ -2592,6 +3054,8 @@ A profile for each participant has been created. In this document,
 ### ఊ-హ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |        2 |         3 |   4 |      5 |
 |-------------|----------|----------|-----------|-----|--------|
@@ -2604,6 +3068,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |     3 |     4 |     5 |
 |-------------|-----------|-----------|-------|-------|-------|
 | Count       | 18        |  4        | 1     | 1     | 1     |
@@ -2614,6 +3080,8 @@ A profile for each participant has been created. In this document,
 ### ఊ-ఘ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |        2 |     3 |     4 |     5 |
 |-------------|-----------|----------|-------|-------|-------|
@@ -2626,6 +3094,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
+* **Majority score**: 4
+
 | Score       |        1 |         2 |      3 |         4 |         5 |
 |-------------|----------|-----------|--------|-----------|-----------|
 | Count       |  3       |  4        | 2      | 13        |  3        |
@@ -2636,6 +3106,8 @@ A profile for each participant has been created. In this document,
 ### ఎ-ప
 
 * **Median score**: 4.0
+
+* **Majority score**: 4
 
 | Score       |         1 |      2 |     3 |        4 |         5 |
 |-------------|-----------|--------|-------|----------|-----------|
@@ -2648,6 +3120,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 3.0
 
+* **Majority score**: 4
+
 | Score       |        1 |         2 |         3 |         4 |      5 |
 |-------------|----------|-----------|-----------|-----------|--------|
 | Count       |  6       |  4        |  5        |  8        | 2      |
@@ -2658,6 +3132,8 @@ A profile for each participant has been created. In this document,
 ### ఎ-ద
 
 * **Median score**: 3.0
+
+* **Majority score**: 1
 
 | Score       |         1 |   2 |         3 |         4 |         5 |
 |-------------|-----------|-----|-----------|-----------|-----------|
@@ -2670,6 +3146,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |     2 |        3 |      4 |     5 |
 |-------------|----------|-------|----------|--------|-------|
 | Count       | 16       | 1     |  5       |  2     | 1     |
@@ -2680,6 +3158,8 @@ A profile for each participant has been created. In this document,
 ### ఎ-బ
 
 * **Median score**: 2.0
+
+* **Majority score**: 1
 
 | Score       |         1 |         2 |         3 |         4 |         5 |
 |-------------|-----------|-----------|-----------|-----------|-----------|
@@ -2692,6 +3172,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |         2 |      3 |   4 |     5 |
 |-------------|----------|-----------|--------|-----|-------|
 | Count       | 16       |  5        | 2      |   0 | 2     |
@@ -2702,6 +3184,8 @@ A profile for each participant has been created. In this document,
 ### ఎ-క
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |     2 |     3 |     4 |    5 |
 |-------------|-----------|-------|-------|-------|------|
@@ -2714,6 +3198,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
+* **Majority score**: 1
+
 | Score       |        1 |         2 |         3 |        4 |     5 |
 |-------------|----------|-----------|-----------|----------|-------|
 | Count       |  8       |  6        |  3        |  7       | 1     |
@@ -2724,6 +3210,8 @@ A profile for each participant has been created. In this document,
 ### ఎ-ణ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |       1 |         2 |   3 |    4 |     5 |
 |-------------|---------|-----------|-----|------|-------|
@@ -2736,6 +3224,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |     3 |         4 |      5 |
 |-------------|-----------|-----------|-------|-----------|--------|
 | Count       | 10        |  4        | 1     |  8        | 2      |
@@ -2746,6 +3236,8 @@ A profile for each participant has been created. In this document,
 ### ఏ-ప
 
 * **Median score**: 4.0
+
+* **Majority score**: 4
 
 | Score       |     1 |     2 |      3 |        4 |        5 |
 |-------------|-------|-------|--------|----------|----------|
@@ -2758,6 +3250,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
+* **Majority score**: 4
+
 | Score       |     1 |        2 |      3 |        4 |         5 |
 |-------------|-------|----------|--------|----------|-----------|
 | Count       | 1     |  6       | 2      | 12       |  4        |
@@ -2768,6 +3262,8 @@ A profile for each participant has been created. In this document,
 ### ఏ-ద
 
 * **Median score**: 2.0
+
+* **Majority score**: 1
 
 | Score       |         1 |        2 |   3 |        4 |     5 |
 |-------------|-----------|----------|-----|----------|-------|
@@ -2780,6 +3276,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |         2 |         3 |         4 |     5 |
 |-------------|----------|-----------|-----------|-----------|-------|
 | Count       | 13       |  3        |  4        |  3        | 2     |
@@ -2790,6 +3288,8 @@ A profile for each participant has been created. In this document,
 ### ఏ-బ
 
 * **Median score**: 2.0
+
+* **Majority score**: 1
 
 | Score       |         1 |        2 |         3 |        4 |     5 |
 |-------------|-----------|----------|-----------|----------|-------|
@@ -2802,6 +3302,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |        2 |        3 |      4 |     5 |
 |-------------|----------|----------|----------|--------|-------|
 | Count       | 16       |  3       |  3       | 2      | 1     |
@@ -2812,6 +3314,8 @@ A profile for each participant has been created. In this document,
 ### ఏ-క
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |        2 |     3 |      4 |         5 |
 |-------------|-----------|----------|-------|--------|-----------|
@@ -2824,6 +3328,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
+* **Majority score**: 4
+
 | Score       |       1 |        2 |     3 |         4 |     5 |
 |-------------|---------|----------|-------|-----------|-------|
 | Count       |  8      |  5       | 1     |  9        | 2     |
@@ -2834,6 +3340,8 @@ A profile for each participant has been created. In this document,
 ### ఏ-ణ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |        2 |   3 |       4 |     5 |
 |-------------|----------|----------|-----|---------|-------|
@@ -2846,6 +3354,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |     2 |        3 |         4 |     5 |
 |-------------|----------|-------|----------|-----------|-------|
 | Count       | 13       | 2     |  4       |  5        | 1     |
@@ -2856,6 +3366,8 @@ A profile for each participant has been created. In this document,
 ### ప-ఫ
 
 * **Median score**: 4.0
+
+* **Majority score**: 4
 
 | Score       |   1 |        2 |   3 |        4 |         5 |
 |-------------|-----|----------|-----|----------|-----------|
@@ -2868,6 +3380,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
+* **Majority score**: 1
+
 | Score       |        1 |       2 |      3 |      4 |         5 |
 |-------------|----------|---------|--------|--------|-----------|
 | Count       | 11       |  4      | 2      | 2      |  6        |
@@ -2878,6 +3392,8 @@ A profile for each participant has been created. In this document,
 ### ప-డ
 
 * **Median score**: 2.0
+
+* **Majority score**: 1
 
 | Score       |         1 |      2 |     3 |        4 |         5 |
 |-------------|-----------|--------|-------|----------|-----------|
@@ -2890,6 +3406,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 3.0
 
+* **Majority score**: 1
+
 | Score       |         1 |    2 |       3 |       4 |      5 |
 |-------------|-----------|------|---------|---------|--------|
 | Count       | 11        | 1    |  5      |  6      | 2      |
@@ -2900,6 +3418,8 @@ A profile for each participant has been created. In this document,
 ### ప-త
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |        2 |   3 |         4 |     5 |
 |-------------|-----------|----------|-----|-----------|-------|
@@ -2912,6 +3432,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |     2 |     3 |         4 |        5 |
 |-------------|-----------|-------|-------|-----------|----------|
 | Count       | 14        | 1     | 1     |  6        |  3       |
@@ -2922,6 +3444,8 @@ A profile for each participant has been created. In this document,
 ### ప-హ
 
 * **Median score**: 3.0
+
+* **Majority score**: 4
 
 | Score       |        1 |        2 |        3 |         4 |        5 |
 |-------------|----------|----------|----------|-----------|----------|
@@ -2934,6 +3458,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |         2 |     3 |   4 |     5 |
 |-------------|----------|-----------|-------|-----|-------|
 | Count       | 17       |  4        | 2     |   0 | 2     |
@@ -2944,6 +3470,8 @@ A profile for each participant has been created. In this document,
 ### ప-ఘ
 
 * **Median score**: 3.0
+
+* **Majority score**: 4
 
 | Score       |         1 |        2 |         3 |         4 |     5 |
 |-------------|-----------|----------|-----------|-----------|-------|
@@ -2956,6 +3484,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |     3 |        4 |     5 |
 |-------------|-----------|-----------|-------|----------|-------|
 | Count       | 10        |  8        | 2     |  4       | 1     |
@@ -2966,6 +3496,8 @@ A profile for each participant has been created. In this document,
 ### ఫ-డ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |        2 |     3 |     4 |     5 |
 |-------------|----------|----------|-------|-------|-------|
@@ -2978,6 +3510,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |         2 |     3 |     4 |      5 |
 |-------------|----------|-----------|-------|-------|--------|
 | Count       | 17       |  4        | 1     | 1     | 2      |
@@ -2988,6 +3522,8 @@ A profile for each participant has been created. In this document,
 ### ఫ-త
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |        2 |     3 |   4 |     5 |
 |-------------|----------|----------|-------|-----|-------|
@@ -3000,6 +3536,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |      2 |   3 |     4 |   5 |
 |-------------|----------|--------|-----|-------|-----|
 | Count       | 22       | 2      |   0 | 1     |   0 |
@@ -3010,6 +3548,8 @@ A profile for each participant has been created. In this document,
 ### ఫ-హ
 
 * **Median score**: 4.0
+
+* **Majority score**: 1
 
 | Score       |         1 |         2 |   3 |        4 |        5 |
 |-------------|-----------|-----------|-----|----------|----------|
@@ -3022,6 +3562,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |         2 |   3 |     4 |   5 |
 |-------------|----------|-----------|-----|-------|-----|
 | Count       | 19       |  5        |   0 | 1     |   0 |
@@ -3032,6 +3574,8 @@ A profile for each participant has been created. In this document,
 ### ఫ-ఘ
 
 * **Median score**: 4.0
+
+* **Majority score**: 4
 
 | Score       |       1 |         2 |     3 |        4 |         5 |
 |-------------|---------|-----------|-------|----------|-----------|
@@ -3044,6 +3588,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
+* **Majority score**: 4
+
 | Score       |     1 |        2 |      3 |         4 |        5 |
 |-------------|-------|----------|--------|-----------|----------|
 | Count       | 1     |  5       | 2      | 10        |  7       |
@@ -3054,6 +3600,8 @@ A profile for each participant has been created. In this document,
 ### ద-బ
 
 * **Median score**: 3.0
+
+* **Majority score**: 1
 
 | Score       |         1 |         2 |         3 |         4 |        5 |
 |-------------|-----------|-----------|-----------|-----------|----------|
@@ -3066,6 +3614,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
+* **Majority score**: 1
+
 | Score       |        1 |         2 |      3 |        4 |     5 |
 |-------------|----------|-----------|--------|----------|-------|
 | Count       | 10       |  5        | 2      |  7       | 1     |
@@ -3076,6 +3626,8 @@ A profile for each participant has been created. In this document,
 ### ద-క
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |        2 |   3 |         4 |     5 |
 |-------------|----------|----------|-----|-----------|-------|
@@ -3088,6 +3640,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |      2 |         3 |         4 |   5 |
 |-------------|-----------|--------|-----------|-----------|-----|
 | Count       | 17        | 2      |  3        |  3        |   0 |
@@ -3098,6 +3652,8 @@ A profile for each participant has been created. In this document,
 ### ద-ణ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |     2 |         3 |      4 |      5 |
 |-------------|-----------|-------|-----------|--------|--------|
@@ -3110,6 +3666,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |   2 |        3 |   4 |         5 |
 |-------------|----------|-----|----------|-----|-----------|
 | Count       | 18       |   0 |  4       |   0 |  3        |
@@ -3120,6 +3678,8 @@ A profile for each participant has been created. In this document,
 ### డ-బ
 
 * **Median score**: 2.0
+
+* **Majority score**: 1
 
 | Score       |         1 |         2 |     3 |         4 |    5 |
 |-------------|-----------|-----------|-------|-----------|------|
@@ -3132,6 +3692,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |     3 |        4 |     5 |
 |-------------|-----------|-----------|-------|----------|-------|
 | Count       | 12        |  5        | 1     |  6       | 1     |
@@ -3142,6 +3704,8 @@ A profile for each participant has been created. In this document,
 ### డ-క
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |         2 |     3 |         4 |         5 |
 |-------------|----------|-----------|-------|-----------|-----------|
@@ -3154,6 +3718,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |         2 |      3 |     4 |     5 |
 |-------------|----------|-----------|--------|-------|-------|
 | Count       | 18       |  3        | 2      | 1     | 1     |
@@ -3164,6 +3730,8 @@ A profile for each participant has been created. In this document,
 ### డ-ణ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |     2 |     3 |        4 |     5 |
 |-------------|-----------|-------|-------|----------|-------|
@@ -3176,6 +3744,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |      3 |        4 |   5 |
 |-------------|-----------|-----------|--------|----------|-----|
 | Count       | 15        |  4        | 2      |  4       |   0 |
@@ -3186,6 +3756,8 @@ A profile for each participant has been created. In this document,
 ### బ-త
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |        2 |   3 |     4 |     5 |
 |-------------|-----------|----------|-----|-------|-------|
@@ -3198,6 +3770,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |     2 |     3 |      4 |    5 |
 |-------------|-----------|-------|-------|--------|------|
 | Count       | 19        | 2     | 1     | 2      | 1    |
@@ -3208,6 +3782,8 @@ A profile for each participant has been created. In this document,
 ### బ-హ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |     2 |        3 |        4 |     5 |
 |-------------|-----------|-------|----------|----------|-------|
@@ -3220,6 +3796,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |        3 |      4 |     5 |
 |-------------|-----------|-----------|----------|--------|-------|
 | Count       | 13        |  3        |  5       | 2      | 2     |
@@ -3230,6 +3808,8 @@ A profile for each participant has been created. In this document,
 ### బ-ఘ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |      2 |         3 |         4 |   5 |
 |-------------|----------|--------|-----------|-----------|-----|
@@ -3242,6 +3822,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |        2 |     3 |         4 |     5 |
 |-------------|----------|----------|-------|-----------|-------|
 | Count       | 13       |  5       | 2     |  3        | 2     |
@@ -3252,6 +3834,8 @@ A profile for each participant has been created. In this document,
 ### త-హ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |         2 |         3 |     4 |     5 |
 |-------------|----------|-----------|-----------|-------|-------|
@@ -3264,6 +3848,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |         2 |     3 |     4 |     5 |
 |-------------|----------|-----------|-------|-------|-------|
 | Count       | 15       |  4        | 2     | 2     | 2     |
@@ -3274,6 +3860,8 @@ A profile for each participant has been created. In this document,
 ### త-ఘ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |         2 |      3 |      4 |     5 |
 |-------------|-----------|-----------|--------|--------|-------|
@@ -3286,6 +3874,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |         1 |         2 |     3 |   4 |     5 |
 |-------------|-----------|-----------|-------|-----|-------|
 | Count       | 19        |  3        | 2     |   0 | 1     |
@@ -3296,6 +3886,8 @@ A profile for each participant has been created. In this document,
 ### క-ణ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |        1 |        2 |   3 |   4 |     5 |
 |-------------|----------|----------|-----|-----|-------|
@@ -3308,6 +3900,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
+* **Majority score**: 1
+
 | Score       |        1 |     2 |   3 |     4 |   5 |
 |-------------|----------|-------|-----|-------|-----|
 | Count       | 21       | 2     |   0 | 2     |   0 |
@@ -3318,6 +3912,8 @@ A profile for each participant has been created. In this document,
 ### హ-ణ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |     2 |         3 |     4 |     5 |
 |-------------|-----------|-------|-----------|-------|-------|
@@ -3330,6 +3926,8 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 3.0
 
+* **Majority score**: 1
+
 | Score       |         1 |     2 |        3 |         4 |        5 |
 |-------------|-----------|-------|----------|-----------|----------|
 | Count       |  9        | 2     |  5       |  5        |  4       |
@@ -3340,6 +3938,8 @@ A profile for each participant has been created. In this document,
 ### ణ-ఘ
 
 * **Median score**: 1.0
+
+* **Majority score**: 1
 
 | Score       |         1 |         2 |     3 |     4 |     5 |
 |-------------|-----------|-----------|-------|-------|-------|
