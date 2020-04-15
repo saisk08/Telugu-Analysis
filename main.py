@@ -5,6 +5,7 @@ import _init_paths
 from utils.python.basicinfo import basics
 from utils.python.profile import create_profile, create_readme
 from utils.python.plotter import make_bar_plot
+from utils.create_index import create_index
 import os
 from tqdm import tqdm
 from termcolor import colored
@@ -16,7 +17,7 @@ ver1_data = json.load(ver1_file)
 ver2_data = json.load(ver2_file)
 
 # Create user profile for all user
-print(colored('Creating profiles...', 'blue'))
+print(colored('Generating pages...', 'blue'))
 for user in tqdm(ver1_data):
     basic_info = basics(user, ver1_data[user])
     create_profile(basic_info, 1)
@@ -26,4 +27,5 @@ for user in tqdm(ver2_data):
     basic_info = basics(user, ver2_data[user])
     create_profile(basic_info, 2)
 create_readme(ver2_data, 2)
-print(colored('Profiles created', 'green'))
+create_index(ver1_data, ver2_data)
+print(colored('Pages generating', 'green'))
