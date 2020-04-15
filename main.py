@@ -5,7 +5,7 @@ import _init_paths
 from utils.python.basicinfo import basics
 from utils.python.profile import create_profile, create_readme
 from utils.python.plotter import make_bar_plot
-from utils.create_index import create_index
+from utils.python.create_index import create_index
 import os
 from tqdm import tqdm
 from termcolor import colored
@@ -28,4 +28,4 @@ for user in tqdm(ver2_data):
     create_profile(basic_info, 2)
 create_readme(ver2_data, 2)
 create_index(ver1_data, ver2_data)
-print(colored('Pages generating', 'green'))
+print(colored('Pages generated', 'green'))

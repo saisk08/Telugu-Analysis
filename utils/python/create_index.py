@@ -83,24 +83,24 @@ def create_index(ver1, ver2):
     ]
     tel_ver1 = [0, 0, 0]
     tel_ver2 = [0, 0, 0]
-    for user_data in ver1:
-        if user_data['userInfo']['content']['read'] == 'Yes':
+    for user in ver1:
+        if ver1[user]['userInfo']['content']['read'] == 'Yes':
             tel_ver1[0] += 1
 
-        if user_data['userInfo']['content']['speak'] == 'Yes':
+        if ver1[user]['userInfo']['content']['speak'] == 'Yes':
             tel_ver1[1] += 1
 
-        if user_data['userInfo']['content']['write'] == 'Yes':
+        if ver1[user]['userInfo']['content']['write'] == 'Yes':
             tel_ver1[2] += 1
 
-    for user_data in ver2:
-        if user_data['userInfo']['content']['read'] == 'Yes':
+    for user in ver2:
+        if ver2[user]['userInfo']['content']['read'] == 'Yes':
             tel_ver2[0] += 1
 
-        if user_data['userInfo']['content']['speak'] == 'Yes':
+        if ver2[user]['userInfo']['content']['speak'] == 'Yes':
             tel_ver2[1] += 1
 
-        if user_data['userInfo']['content']['write'] == 'Yes':
+        if ver2[user]['userInfo']['content']['write'] == 'Yes':
             tel_ver2[2] += 1
     table1.append(['Telugu participants', sum(tel_ver1)])
     table1.append(['Telugu readers', tel_ver1[0]])
