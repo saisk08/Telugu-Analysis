@@ -150,6 +150,6 @@ def overall_data(data):
     ]}
     processed_data.update({'agreement': agreement})
     processed_data.update({'scores': scores})
-    processed_data.update({'pair_rec': reactions.mean(axis=1)})
-    processed_data.update({'pair_std': reactions.std(axis=1)})
+    processed_data.update({'pair_rec': reactions.mean(axis=0)})
+    processed_data.update({'pair_std': reactions.std(axis=0)})
     return processed_data
