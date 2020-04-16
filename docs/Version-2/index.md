@@ -54,6 +54,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.269 s
+
+* **Std of reaction time**: 1.361 s
+
 | Score       |        1 |         2 |      3 |     4 |     5 |
 |-------------|----------|-----------|--------|-------|-------|
 | Count       | 17       |  4        | 2      | 1     | 1     |
@@ -66,6 +70,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.194 s
+
+* **Std of reaction time**: 1.079 s
 
 | Score       |        1 |         2 |      3 |   4 |     5 |
 |-------------|----------|-----------|--------|-----|-------|
@@ -80,6 +88,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.835 s
+
+* **Std of reaction time**: 0.810 s
+
 | Score       |         1 |         2 |   3 |      4 |     5 |
 |-------------|-----------|-----------|-----|--------|-------|
 | Count       | 19        |  3        |   0 | 2      | 1     |
@@ -92,6 +104,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.861 s
+
+* **Std of reaction time**: 1.099 s
 
 | Score       |        1 |      2 |      3 |   4 |   5 |
 |-------------|----------|--------|--------|-----|-----|
@@ -106,6 +122,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 4
 
+* **Mean reaction time**: 2.732 s
+
+* **Std of reaction time**: 4.005 s
+
 | Score       |         1 |         2 |   3 |        4 |   5 |
 |-------------|-----------|-----------|-----|----------|-----|
 | Count       |  9        |  3        |   0 | 13       |   0 |
@@ -118,6 +138,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.863 s
+
+* **Std of reaction time**: 1.011 s
 
 | Score       |         1 |     2 |     3 |     4 |     5 |
 |-------------|-----------|-------|-------|-------|-------|
@@ -132,6 +156,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.166 s
+
+* **Std of reaction time**: 1.631 s
+
 | Score       |         1 |        2 |     3 |      4 |    5 |
 |-------------|-----------|----------|-------|--------|------|
 | Count       | 17        |  4       | 1     | 2      | 1    |
@@ -144,6 +172,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.804 s
+
+* **Std of reaction time**: 0.772 s
 
 | Score       |       1 |         2 |     3 |         4 |     5 |
 |-------------|---------|-----------|-------|-----------|-------|
@@ -158,6 +190,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.987 s
+
+* **Std of reaction time**: 1.108 s
+
 | Score       |        1 |         2 |     3 |     4 |     5 |
 |-------------|----------|-----------|-------|-------|-------|
 | Count       | 17       |  4        | 1     | 1     | 2     |
@@ -170,6 +206,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 4.0
 
 * **Majority score**: 5
+
+* **Mean reaction time**: 2.259 s
+
+* **Std of reaction time**: 0.982 s
 
 | Score       |        1 |         2 |     3 |       4 |        5 |
 |-------------|----------|-----------|-------|---------|----------|
@@ -184,6 +224,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.991 s
+
+* **Std of reaction time**: 0.752 s
+
 | Score       |         1 |         2 |     3 |     4 |     5 |
 |-------------|-----------|-----------|-------|-------|-------|
 | Count       | 18        |  4        | 1     | 1     | 1     |
@@ -196,6 +240,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.711 s
+
+* **Std of reaction time**: 0.775 s
 
 | Score       |         1 |       2 |   3 |     4 |    5 |
 |-------------|-----------|---------|-----|-------|------|
@@ -210,6 +258,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.098 s
+
+* **Std of reaction time**: 0.879 s
+
 | Score       |         1 |         2 |     3 |      4 |   5 |
 |-------------|-----------|-----------|-------|--------|-----|
 | Count       | 18        |  4        | 1     | 2      |   0 |
@@ -222,6 +274,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.018 s
+
+* **Std of reaction time**: 0.998 s
 
 | Score       |         1 |         2 |     3 |   4 |        5 |
 |-------------|-----------|-----------|-------|-----|----------|
@@ -236,6 +292,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.731 s
+
+* **Std of reaction time**: 0.727 s
+
 | Score       |         1 |         2 |   3 |     4 |     5 |
 |-------------|-----------|-----------|-----|-------|-------|
 | Count       | 16        |  7        |   0 | 1     | 1     |
@@ -248,6 +308,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.008 s
+
+* **Std of reaction time**: 1.008 s
 
 | Score       |        1 |    2 |     3 |   4 |      5 |
 |-------------|----------|------|-------|-----|--------|
@@ -262,6 +326,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.172 s
+
+* **Std of reaction time**: 1.252 s
+
 | Score       |         1 |         2 |     3 |       4 |   5 |
 |-------------|-----------|-----------|-------|---------|-----|
 | Count       | 14        |  4        | 2     |  5      |   0 |
@@ -274,6 +342,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.851 s
+
+* **Std of reaction time**: 0.903 s
 
 | Score       |         1 |         2 |         3 |   4 |     5 |
 |-------------|-----------|-----------|-----------|-----|-------|
@@ -288,6 +360,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.023 s
+
+* **Std of reaction time**: 1.033 s
+
 | Score       |         1 |      2 |         3 |     4 |         5 |
 |-------------|-----------|--------|-----------|-------|-----------|
 | Count       | 14        | 2      |  3        | 2     |  4        |
@@ -300,6 +376,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 2.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.280 s
+
+* **Std of reaction time**: 1.382 s
 
 | Score       |         1 |        2 |          3 |         4 |      5 |
 |-------------|-----------|----------|------------|-----------|--------|
@@ -314,6 +394,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.796 s
+
+* **Std of reaction time**: 1.185 s
+
 | Score       |        1 |         2 |   3 |     4 |     5 |
 |-------------|----------|-----------|-----|-------|-------|
 | Count       | 19       |  4        |   0 | 1     | 1     |
@@ -326,6 +410,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.092 s
+
+* **Std of reaction time**: 1.165 s
 
 | Score       |        1 |     2 |     3 |         4 |   5 |
 |-------------|----------|-------|-------|-----------|-----|
@@ -340,6 +428,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.883 s
+
+* **Std of reaction time**: 1.057 s
+
 | Score       |        1 |      2 |     3 |     4 |     5 |
 |-------------|----------|--------|-------|-------|-------|
 | Count       | 19       | 2      | 1     | 2     | 1     |
@@ -352,6 +444,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.605 s
+
+* **Std of reaction time**: 0.742 s
 
 | Score       |         1 |    2 |   3 |     4 |     5 |
 |-------------|-----------|------|-----|-------|-------|
@@ -366,6 +462,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 5
 
+* **Mean reaction time**: 1.994 s
+
+* **Std of reaction time**: 0.818 s
+
 | Score       |         1 |         2 |     3 |         4 |        5 |
 |-------------|-----------|-----------|-------|-----------|----------|
 | Count       |  5        |  4        | 1     |  5        | 10       |
@@ -378,6 +478,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 2.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.331 s
+
+* **Std of reaction time**: 1.383 s
 
 | Score       |        1 |       2 |         3 |         4 |         5 |
 |-------------|----------|---------|-----------|-----------|-----------|
@@ -392,6 +496,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.503 s
+
+* **Std of reaction time**: 1.459 s
+
 | Score       |        1 |         2 |        3 |     4 |     5 |
 |-------------|----------|-----------|----------|-------|-------|
 | Count       | 16       |  3        |  4       | 1     | 1     |
@@ -404,6 +512,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.141 s
+
+* **Std of reaction time**: 1.245 s
 
 | Score       |        1 |     2 |        3 |     4 |     5 |
 |-------------|----------|-------|----------|-------|-------|
@@ -418,6 +530,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.002 s
+
+* **Std of reaction time**: 1.494 s
+
 | Score       |         1 |        2 |         3 |        4 |   5 |
 |-------------|-----------|----------|-----------|----------|-----|
 | Count       | 12        |  5       |  3        |  5       |   0 |
@@ -430,6 +546,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.446 s
+
+* **Std of reaction time**: 2.223 s
 
 | Score       |        1 |         2 |         3 |     4 |     5 |
 |-------------|----------|-----------|-----------|-------|-------|
@@ -444,6 +564,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.920 s
+
+* **Std of reaction time**: 0.922 s
+
 | Score       |         1 |         2 |         3 |         4 |   5 |
 |-------------|-----------|-----------|-----------|-----------|-----|
 | Count       | 14        |  5        |  3        |  3        |   0 |
@@ -456,6 +580,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.838 s
+
+* **Std of reaction time**: 0.820 s
 
 | Score       |        1 |         2 |         3 |      4 |     5 |
 |-------------|----------|-----------|-----------|--------|-------|
@@ -470,6 +598,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.575 s
+
+* **Std of reaction time**: 0.662 s
+
 | Score       |         1 |     2 |      3 |     4 |         5 |
 |-------------|-----------|-------|--------|-------|-----------|
 | Count       | 18        | 1     | 2      | 1     |  3        |
@@ -482,6 +614,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.747 s
+
+* **Std of reaction time**: 1.066 s
 
 | Score       |        1 |         2 |     3 |   4 |     5 |
 |-------------|----------|-----------|-------|-----|-------|
@@ -496,6 +632,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.510 s
+
+* **Std of reaction time**: 0.672 s
+
 | Score       |         1 |   2 |   3 |        4 |   5 |
 |-------------|-----------|-----|-----|----------|-----|
 | Count       | 22        |   0 |   0 |  3       |   0 |
@@ -508,6 +648,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 3.0
 
 * **Majority score**: 4
+
+* **Mean reaction time**: 2.340 s
+
+* **Std of reaction time**: 0.938 s
 
 | Score       |        1 |        2 |         3 |         4 |    5 |
 |-------------|----------|----------|-----------|-----------|------|
@@ -522,6 +666,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 4
 
+* **Mean reaction time**: 2.458 s
+
+* **Std of reaction time**: 1.213 s
+
 | Score       |         1 |         2 |         3 |        4 |     5 |
 |-------------|-----------|-----------|-----------|----------|-------|
 | Count       |  6        |  5        |  4        |  9       | 1     |
@@ -534,6 +682,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 3.0
 
 * **Majority score**: 4
+
+* **Mean reaction time**: 2.035 s
+
+* **Std of reaction time**: 1.291 s
 
 | Score       |        1 |         2 |         3 |        4 |         5 |
 |-------------|----------|-----------|-----------|----------|-----------|
@@ -548,6 +700,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.321 s
+
+* **Std of reaction time**: 0.812 s
+
 | Score       |         1 |        2 |         3 |         4 |         5 |
 |-------------|-----------|----------|-----------|-----------|-----------|
 | Count       |  7        |  5       |  3        |  6        |  4        |
@@ -560,6 +716,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.146 s
+
+* **Std of reaction time**: 1.112 s
 
 | Score       |        1 |      2 |   3 |       4 |     5 |
 |-------------|----------|--------|-----|---------|-------|
@@ -574,6 +734,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.939 s
+
+* **Std of reaction time**: 0.880 s
+
 | Score       |         1 |         2 |         3 |      4 |      5 |
 |-------------|-----------|-----------|-----------|--------|--------|
 | Count       | 12        |  6        |  3        | 2      | 2      |
@@ -586,6 +750,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 3.275 s
+
+* **Std of reaction time**: 7.083 s
 
 | Score       |         1 |        2 |      3 |      4 |     5 |
 |-------------|-----------|----------|--------|--------|-------|
@@ -600,6 +768,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 3.689 s
+
+* **Std of reaction time**: 7.153 s
+
 | Score       |        1 |      2 |     3 |         4 |     5 |
 |-------------|----------|--------|-------|-----------|-------|
 | Count       | 17       | 2      | 2     |  3        | 1     |
@@ -612,6 +784,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 2.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.868 s
+
+* **Std of reaction time**: 1.001 s
 
 | Score       |         1 |         2 |   3 |         4 |         5 |
 |-------------|-----------|-----------|-----|-----------|-----------|
@@ -626,6 +802,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 177.538 s
+
+* **Std of reaction time**: 860.664 s
+
 | Score       |        1 |     2 |       3 |         4 |     5 |
 |-------------|----------|-------|---------|-----------|-------|
 | Count       | 15       | 1     |    3    |  4        | 2     |
@@ -638,6 +818,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.436 s
+
+* **Std of reaction time**: 2.222 s
 
 | Score       |       1 |     2 |   3 |     4 |      5 |
 |-------------|---------|-------|-----|-------|--------|
@@ -652,6 +836,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.025 s
+
+* **Std of reaction time**: 1.397 s
+
 | Score       |        1 |        2 |   3 |     4 |     5 |
 |-------------|----------|----------|-----|-------|-------|
 | Count       | 18       |  4       |   0 | 1     | 2     |
@@ -664,6 +852,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 4.0
 
 * **Majority score**: 4
+
+* **Mean reaction time**: 2.448 s
+
+* **Std of reaction time**: 1.075 s
 
 | Score       |        1 |        2 |      3 |         4 |        5 |
 |-------------|----------|----------|--------|-----------|----------|
@@ -678,6 +870,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.222 s
+
+* **Std of reaction time**: 1.027 s
+
 | Score       |         1 |     2 |   3 |         4 |   5 |
 |-------------|-----------|-------|-----|-----------|-----|
 | Count       | 13        | 2     |   0 | 10        |   0 |
@@ -690,6 +886,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.203 s
+
+* **Std of reaction time**: 1.085 s
 
 | Score       |         1 |         2 |        3 |         4 |   5 |
 |-------------|-----------|-----------|----------|-----------|-----|
@@ -704,6 +904,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.820 s
+
+* **Std of reaction time**: 0.828 s
+
 | Score       |         1 |         2 |        3 |         4 |     5 |
 |-------------|-----------|-----------|----------|-----------|-------|
 | Count       | 12        |  4        |  3       |  5        | 1     |
@@ -716,6 +920,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.519 s
+
+* **Std of reaction time**: 1.218 s
 
 | Score       |        1 |         2 |        3 |      4 |         5 |
 |-------------|----------|-----------|----------|--------|-----------|
@@ -730,6 +938,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.177 s
+
+* **Std of reaction time**: 1.313 s
+
 | Score       |        1 |      2 |         3 |      4 |     5 |
 |-------------|----------|--------|-----------|--------|-------|
 | Count       | 16       | 2      |  3        | 2      | 2     |
@@ -742,6 +954,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 2.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.124 s
+
+* **Std of reaction time**: 0.964 s
 
 | Score       |         1 |         2 |         3 |        4 |     5 |
 |-------------|-----------|-----------|-----------|----------|-------|
@@ -756,6 +972,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.282 s
+
+* **Std of reaction time**: 1.708 s
+
 | Score       |        1 |        2 |     3 |    4 |     5 |
 |-------------|----------|----------|-------|------|-------|
 | Count       | 18       |  4       | 1     | 1    | 1     |
@@ -768,6 +988,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.148 s
+
+* **Std of reaction time**: 1.115 s
 
 | Score       |        1 |         2 |   3 |   4 |     5 |
 |-------------|----------|-----------|-----|-----|-------|
@@ -782,6 +1006,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.829 s
+
+* **Std of reaction time**: 1.577 s
+
 | Score       |        1 |   2 |   3 |     4 |     5 |
 |-------------|----------|-----|-----|-------|-------|
 | Count       | 23       |   0 |   0 | 1     | 1     |
@@ -794,6 +1022,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 4.0
 
 * **Majority score**: 4
+
+* **Mean reaction time**: 2.148 s
+
+* **Std of reaction time**: 0.891 s
 
 | Score       |        1 |     2 |   3 |         4 |        5 |
 |-------------|----------|-------|-----|-----------|----------|
@@ -808,6 +1040,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 4
 
+* **Mean reaction time**: 2.398 s
+
+* **Std of reaction time**: 1.604 s
+
 | Score       |         1 |         2 |         3 |        4 |      5 |
 |-------------|-----------|-----------|-----------|----------|--------|
 | Count       |  4        |  5        |  3        | 11       | 2      |
@@ -820,6 +1056,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 4.0
 
 * **Majority score**: 4
+
+* **Mean reaction time**: 2.413 s
+
+* **Std of reaction time**: 0.779 s
 
 | Score       |      1 |         2 |   3 |         4 |         5 |
 |-------------|--------|-----------|-----|-----------|-----------|
@@ -834,6 +1074,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 4
 
+* **Mean reaction time**: 1.916 s
+
+* **Std of reaction time**: 0.833 s
+
 | Score       |         1 |         2 |   3 |        4 |         5 |
 |-------------|-----------|-----------|-----|----------|-----------|
 | Count       |  4        |  3        |   0 | 14       |  4        |
@@ -846,6 +1090,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 3.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.884 s
+
+* **Std of reaction time**: 0.664 s
 
 | Score       |         1 |         2 |      3 |         4 |          5 |
 |-------------|-----------|-----------|--------|-----------|------------|
@@ -860,6 +1108,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.732 s
+
+* **Std of reaction time**: 0.802 s
+
 | Score       |         1 |     2 |      3 |         4 |         5 |
 |-------------|-----------|-------|--------|-----------|-----------|
 | Count       | 14        | 1     | 2      |  5        |  3        |
@@ -872,6 +1124,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 2.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.655 s
+
+* **Std of reaction time**: 2.150 s
 
 | Score       |         1 |        2 |         3 |        4 |     5 |
 |-------------|-----------|----------|-----------|----------|-------|
@@ -886,6 +1142,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.639 s
+
+* **Std of reaction time**: 1.387 s
+
 | Score       |        1 |        2 |         3 |         4 |        5 |
 |-------------|----------|----------|-----------|-----------|----------|
 | Count       |  9       |  4       |  3        |  6        |  3       |
@@ -898,6 +1158,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.788 s
+
+* **Std of reaction time**: 0.943 s
 
 | Score       |         1 |        2 |     3 |     4 |         5 |
 |-------------|-----------|----------|-------|-------|-----------|
@@ -912,6 +1176,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.488 s
+
+* **Std of reaction time**: 1.250 s
+
 | Score       |        1 |        2 |        3 |        4 |         5 |
 |-------------|----------|----------|----------|----------|-----------|
 | Count       |  8       |  6       |  4       |  4       |  3        |
@@ -924,6 +1192,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.567 s
+
+* **Std of reaction time**: 1.747 s
 
 | Score       |        1 |        2 |      3 |     4 |   5 |
 |-------------|----------|----------|--------|-------|-----|
@@ -938,6 +1210,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 3.181 s
+
+* **Std of reaction time**: 5.119 s
+
 | Score       |        1 |       2 |        3 |         4 |         5 |
 |-------------|----------|---------|----------|-----------|-----------|
 | Count       |  8       |  3      |  6       |  5        |  3        |
@@ -950,6 +1226,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 4.0
 
 * **Majority score**: 5
+
+* **Mean reaction time**: 2.536 s
+
+* **Std of reaction time**: 1.074 s
 
 | Score       |      1 |        2 |         3 |         4 |         5 |
 |-------------|--------|----------|-----------|-----------|-----------|
@@ -964,6 +1244,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.650 s
+
+* **Std of reaction time**: 4.423 s
+
 | Score       |        1 |         2 |   3 |     4 |     5 |
 |-------------|----------|-----------|-----|-------|-------|
 | Count       | 19       |  4        |   0 | 1     | 1     |
@@ -976,6 +1260,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.682 s
+
+* **Std of reaction time**: 0.618 s
 
 | Score       |        1 |        2 |     3 |         4 |     5 |
 |-------------|----------|----------|-------|-----------|-------|
@@ -990,6 +1278,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.138 s
+
+* **Std of reaction time**: 1.696 s
+
 | Score       |        1 |     2 |        3 |     4 |     5 |
 |-------------|----------|-------|----------|-------|-------|
 | Count       | 17       | 2     |  3       | 2     | 1     |
@@ -1002,6 +1294,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.466 s
+
+* **Std of reaction time**: 2.009 s
 
 | Score       |        1 |       2 |     3 |        4 |    5 |
 |-------------|----------|---------|-------|----------|------|
@@ -1016,6 +1312,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.982 s
+
+* **Std of reaction time**: 0.947 s
+
 | Score       |         1 |      2 |         3 |    4 |     5 |
 |-------------|-----------|--------|-----------|------|-------|
 | Count       | 18        | 2      |  3        | 1    | 1     |
@@ -1028,6 +1328,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.070 s
+
+* **Std of reaction time**: 1.485 s
 
 | Score       |         1 |         2 |      3 |     4 |   5 |
 |-------------|-----------|-----------|--------|-------|-----|
@@ -1042,6 +1346,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.956 s
+
+* **Std of reaction time**: 1.457 s
+
 | Score       |        1 |        2 |     3 |   4 |     5 |
 |-------------|----------|----------|-------|-----|-------|
 | Count       | 17       |  5       | 2     |   0 | 1     |
@@ -1054,6 +1362,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.158 s
+
+* **Std of reaction time**: 0.888 s
 
 | Score       |        1 |         2 |     3 |     4 |   5 |
 |-------------|----------|-----------|-------|-------|-----|
@@ -1068,6 +1380,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 4
 
+* **Mean reaction time**: 2.903 s
+
+* **Std of reaction time**: 2.036 s
+
 | Score       |         1 |        2 |      3 |        4 |     5 |
 |-------------|-----------|----------|--------|----------|-------|
 | Count       |  6        |  7       | 2      |  9       | 1     |
@@ -1080,6 +1396,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 2.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.427 s
+
+* **Std of reaction time**: 2.140 s
 
 | Score       |        1 |        2 |         3 |       4 |         5 |
 |-------------|----------|----------|-----------|---------|-----------|
@@ -1094,6 +1414,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.256 s
+
+* **Std of reaction time**: 1.103 s
+
 | Score       |        1 |         2 |         3 |        4 |         5 |
 |-------------|----------|-----------|-----------|----------|-----------|
 | Count       |  7       |  4        |  5        |  6       |  3        |
@@ -1106,6 +1430,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.367 s
+
+* **Std of reaction time**: 2.069 s
 
 | Score       |         1 |        2 |     3 |        4 |     5 |
 |-------------|-----------|----------|-------|----------|-------|
@@ -1120,6 +1448,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.117 s
+
+* **Std of reaction time**: 1.158 s
+
 | Score       |         1 |         2 |        3 |         4 |   5 |
 |-------------|-----------|-----------|----------|-----------|-----|
 | Count       | 14        |  3        |  4       |  4        |   0 |
@@ -1132,6 +1464,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.167 s
+
+* **Std of reaction time**: 1.309 s
 
 | Score       |        1 |      2 |        3 |     4 |     5 |
 |-------------|----------|--------|----------|-------|-------|
@@ -1146,6 +1482,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.251 s
+
+* **Std of reaction time**: 1.105 s
+
 | Score       |        1 |        2 |     3 |   4 |      5 |
 |-------------|----------|----------|-------|-----|--------|
 | Count       | 16       |  6       | 1     |   0 | 2      |
@@ -1158,6 +1498,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.999 s
+
+* **Std of reaction time**: 1.163 s
 
 | Score       |        1 |        2 |     3 |     4 |   5 |
 |-------------|----------|----------|-------|-------|-----|
@@ -1172,6 +1516,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.717 s
+
+* **Std of reaction time**: 0.830 s
+
 | Score       |         1 |   2 |     3 |         4 |     5 |
 |-------------|-----------|-----|-------|-----------|-------|
 | Count       | 19        |   0 | 1     |  4        | 1     |
@@ -1184,6 +1532,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 3.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.562 s
+
+* **Std of reaction time**: 1.070 s
 
 | Score       |        1 |     2 |         3 |        4 |         5 |
 |-------------|----------|-------|-----------|----------|-----------|
@@ -1198,6 +1550,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 6.072 s
+
+* **Std of reaction time**: 19.533 s
+
 | Score       |       1 |        2 |     3 |   4 |   5 |
 |-------------|---------|----------|-------|-----|-----|
 | Count       | 16      |  8       | 1     |   0 |   0 |
@@ -1210,6 +1566,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 4.0
 
 * **Majority score**: 4
+
+* **Mean reaction time**: 2.392 s
+
+* **Std of reaction time**: 1.239 s
 
 | Score       |     1 |         2 |   3 |        4 |         5 |
 |-------------|-------|-----------|-----|----------|-----------|
@@ -1224,6 +1584,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.104 s
+
+* **Std of reaction time**: 1.022 s
+
 | Score       |         1 |     2 |         3 |   4 |     5 |
 |-------------|-----------|-------|-----------|-----|-------|
 | Count       | 18        | 2     |  4        |   0 | 1     |
@@ -1236,6 +1600,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.907 s
+
+* **Std of reaction time**: 1.250 s
 
 | Score       |         1 |     2 |         3 |        4 |    5 |
 |-------------|-----------|-------|-----------|----------|------|
@@ -1250,6 +1618,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.881 s
+
+* **Std of reaction time**: 0.955 s
+
 | Score       |        1 |         2 |     3 |    4 |     5 |
 |-------------|----------|-----------|-------|------|-------|
 | Count       | 19       |  3        | 1     | 1    | 1     |
@@ -1262,6 +1634,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.480 s
+
+* **Std of reaction time**: 1.868 s
 
 | Score       |        1 |        2 |   3 |         4 |   5 |
 |-------------|----------|----------|-----|-----------|-----|
@@ -1276,6 +1652,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.845 s
+
+* **Std of reaction time**: 0.864 s
+
 | Score       |         1 |     2 |     3 |     4 |      5 |
 |-------------|-----------|-------|-------|-------|--------|
 | Count       | 18        | 2     | 2     | 1     | 2      |
@@ -1288,6 +1668,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.811 s
+
+* **Std of reaction time**: 0.843 s
 
 | Score       |         1 |        2 |   3 |      4 |   5 |
 |-------------|-----------|----------|-----|--------|-----|
@@ -1302,6 +1686,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.825 s
+
+* **Std of reaction time**: 1.012 s
+
 | Score       |         1 |         2 |   3 |     4 |     5 |
 |-------------|-----------|-----------|-----|-------|-------|
 | Count       | 18        |  4        |   0 | 1     | 2     |
@@ -1314,6 +1702,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 10.711 s
+
+* **Std of reaction time**: 43.154 s
 
 | Score       |       1 |         2 |      3 |   4 |     5 |
 |-------------|---------|-----------|--------|-----|-------|
@@ -1328,6 +1720,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.422 s
+
+* **Std of reaction time**: 1.479 s
+
 | Score       |         1 |        2 |        3 |      4 |     5 |
 |-------------|-----------|----------|----------|--------|-------|
 | Count       | 10        |  9       |  3       | 2      | 1     |
@@ -1340,6 +1736,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.275 s
+
+* **Std of reaction time**: 1.334 s
 
 | Score       |        1 |      2 |        3 |         4 |   5 |
 |-------------|----------|--------|----------|-----------|-----|
@@ -1354,6 +1754,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.589 s
+
+* **Std of reaction time**: 1.784 s
+
 | Score       |         1 |        2 |     3 |         4 |   5 |
 |-------------|-----------|----------|-------|-----------|-----|
 | Count       | 12        |  9       | 1     |  3        |   0 |
@@ -1366,6 +1770,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.792 s
+
+* **Std of reaction time**: 0.845 s
 
 | Score       |         1 |   2 |      3 |         4 |   5 |
 |-------------|-----------|-----|--------|-----------|-----|
@@ -1380,6 +1788,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.162 s
+
+* **Std of reaction time**: 2.011 s
+
 | Score       |         1 |         2 |     3 |        4 |     5 |
 |-------------|-----------|-----------|-------|----------|-------|
 | Count       | 14        |  4        | 2     |  4       | 1     |
@@ -1392,6 +1804,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.586 s
+
+* **Std of reaction time**: 1.955 s
 
 | Score       |         1 |        2 |     3 |     4 |      5 |
 |-------------|-----------|----------|-------|-------|--------|
@@ -1406,6 +1822,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.819 s
+
+* **Std of reaction time**: 1.058 s
+
 | Score       |         1 |        2 |     3 |      4 |   5 |
 |-------------|-----------|----------|-------|--------|-----|
 | Count       | 17        |  5       | 1     | 2      |   0 |
@@ -1418,6 +1838,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.068 s
+
+* **Std of reaction time**: 1.495 s
 
 | Score       |        1 |         2 |   3 |     4 |     5 |
 |-------------|----------|-----------|-----|-------|-------|
@@ -1432,6 +1856,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.485 s
+
+* **Std of reaction time**: 0.639 s
+
 | Score       |         1 |      2 |   3 |   4 |   5 |
 |-------------|-----------|--------|-----|-----|-----|
 | Count       | 23        | 2      |   0 |   0 |   0 |
@@ -1444,6 +1872,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 2.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.202 s
+
+* **Std of reaction time**: 0.969 s
 
 | Score       |         1 |         2 |         3 |         4 |     5 |
 |-------------|-----------|-----------|-----------|-----------|-------|
@@ -1458,6 +1890,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.801 s
+
+* **Std of reaction time**: 0.995 s
+
 | Score       |         1 |        2 |     3 |   4 |     5 |
 |-------------|-----------|----------|-------|-----|-------|
 | Count       | 19        |  4       | 1     |   0 | 1     |
@@ -1470,6 +1906,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 2.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.496 s
+
+* **Std of reaction time**: 1.615 s
 
 | Score       |        1 |        2 |         3 |     4 |         5 |
 |-------------|----------|----------|-----------|-------|-----------|
@@ -1484,6 +1924,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.787 s
+
+* **Std of reaction time**: 1.005 s
+
 | Score       |        1 |        2 |      3 |         4 |         5 |
 |-------------|----------|----------|--------|-----------|-----------|
 | Count       | 13       |  3       | 2      |  4        |  3        |
@@ -1496,6 +1940,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.787 s
+
+* **Std of reaction time**: 0.928 s
 
 | Score       |        1 |        2 |         3 |      4 |     5 |
 |-------------|----------|----------|-----------|--------|-------|
@@ -1510,6 +1958,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.403 s
+
+* **Std of reaction time**: 1.438 s
+
 | Score       |         1 |         2 |       3 |      4 |   5 |
 |-------------|-----------|-----------|---------|--------|-----|
 | Count       | 16        |  4        |  3      | 2      |   0 |
@@ -1522,6 +1974,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.655 s
+
+* **Std of reaction time**: 3.697 s
 
 | Score       |         1 |        2 |        3 |     4 |     5 |
 |-------------|-----------|----------|----------|-------|-------|
@@ -1536,6 +1992,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.170 s
+
+* **Std of reaction time**: 1.096 s
+
 | Score       |         1 |         2 |        3 |        4 |     5 |
 |-------------|-----------|-----------|----------|----------|-------|
 | Count       |  9        |  3        |  4       |  7       | 2     |
@@ -1548,6 +2008,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.171 s
+
+* **Std of reaction time**: 1.409 s
 
 | Score       |         1 |        2 |   3 |         4 |     5 |
 |-------------|-----------|----------|-----|-----------|-------|
@@ -1562,6 +2026,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.641 s
+
+* **Std of reaction time**: 1.078 s
+
 | Score       |         1 |     2 |     3 |     4 |   5 |
 |-------------|-----------|-------|-------|-------|-----|
 | Count       | 22        | 1     | 1     | 1     |   0 |
@@ -1574,6 +2042,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 2.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.253 s
+
+* **Std of reaction time**: 1.278 s
 
 | Score       |        1 |         2 |     3 |        4 |         5 |
 |-------------|----------|-----------|-------|----------|-----------|
@@ -1588,6 +2060,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 3.335 s
+
+* **Std of reaction time**: 5.563 s
+
 | Score       |        1 |       2 |    3 |         4 |      5 |
 |-------------|----------|---------|------|-----------|--------|
 | Count       | 13       |  5      | 1    |  4        | 2      |
@@ -1600,6 +2076,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 2.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.769 s
+
+* **Std of reaction time**: 0.717 s
 
 | Score       |         1 |         2 |         3 |        4 |         5 |
 |-------------|-----------|-----------|-----------|----------|-----------|
@@ -1614,6 +2094,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.656 s
+
+* **Std of reaction time**: 3.133 s
+
 | Score       |        1 |         2 |      3 |   4 |     5 |
 |-------------|----------|-----------|--------|-----|-------|
 | Count       | 17       |  5        | 2      |   0 | 1     |
@@ -1626,6 +2110,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.747 s
+
+* **Std of reaction time**: 1.046 s
 
 | Score       |         1 |         2 |        3 |    4 |      5 |
 |-------------|-----------|-----------|----------|------|--------|
@@ -1640,6 +2128,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.021 s
+
+* **Std of reaction time**: 0.821 s
+
 | Score       |         1 |         2 |      3 |         4 |    5 |
 |-------------|-----------|-----------|--------|-----------|------|
 | Count       | 14        |  4        | 2      |  3        | 2    |
@@ -1652,6 +2144,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 2.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.848 s
+
+* **Std of reaction time**: 0.830 s
 
 | Score       |         1 |         2 |        3 |         4 |     5 |
 |-------------|-----------|-----------|----------|-----------|-------|
@@ -1666,6 +2162,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.028 s
+
+* **Std of reaction time**: 1.036 s
+
 | Score       |         1 |        2 |         3 |         4 |      5 |
 |-------------|-----------|----------|-----------|-----------|--------|
 | Count       | 10        |  3       |  6        |  4        | 2      |
@@ -1678,6 +2178,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 10.743 s
+
+* **Std of reaction time**: 42.649 s
 
 | Score       |         1 |     2 |      3 |       4 |     5 |
 |-------------|-----------|-------|--------|---------|-------|
@@ -1692,6 +2196,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.068 s
+
+* **Std of reaction time**: 0.957 s
+
 | Score       |         1 |         2 |     3 |     4 |   5 |
 |-------------|-----------|-----------|-------|-------|-----|
 | Count       | 16        |  7        | 1     | 1     |   0 |
@@ -1704,6 +2212,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.133 s
+
+* **Std of reaction time**: 1.458 s
 
 | Score       |         1 |        2 |      3 |         4 |     5 |
 |-------------|-----------|----------|--------|-----------|-------|
@@ -1718,6 +2230,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.708 s
+
+* **Std of reaction time**: 0.976 s
+
 | Score       |         1 |         2 |     3 |     4 |   5 |
 |-------------|-----------|-----------|-------|-------|-----|
 | Count       | 20        |  3        | 1     | 1     |   0 |
@@ -1730,6 +2246,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.985 s
+
+* **Std of reaction time**: 1.314 s
 
 | Score       |         1 |        2 |      3 |   4 |     5 |
 |-------------|-----------|----------|--------|-----|-------|
@@ -1744,6 +2264,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.399 s
+
+* **Std of reaction time**: 2.091 s
+
 | Score       |         1 |        2 |     3 |    4 |     5 |
 |-------------|-----------|----------|-------|------|-------|
 | Count       | 18        |  4       | 1     | 1    | 1     |
@@ -1756,6 +2280,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 4.0
 
 * **Majority score**: 4
+
+* **Mean reaction time**: 2.443 s
+
+* **Std of reaction time**: 1.155 s
 
 | Score       |     1 |        2 |   3 |         4 |        5 |
 |-------------|-------|----------|-----|-----------|----------|
@@ -1770,6 +2298,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.924 s
+
+* **Std of reaction time**: 1.131 s
+
 | Score       |         1 |       2 |      3 |     4 |   5 |
 |-------------|-----------|---------|--------|-------|-----|
 | Count       | 17        |  5      | 2      | 1     |   0 |
@@ -1782,6 +2314,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.345 s
+
+* **Std of reaction time**: 1.469 s
 
 | Score       |        1 |        2 |     3 |      4 |     5 |
 |-------------|----------|----------|-------|--------|-------|
@@ -1796,6 +2332,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.978 s
+
+* **Std of reaction time**: 2.585 s
+
 | Score       |        1 |   2 |     3 |     4 |     5 |
 |-------------|----------|-----|-------|-------|-------|
 | Count       | 22       |   0 | 1     | 1     | 1     |
@@ -1808,6 +2348,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.657 s
+
+* **Std of reaction time**: 0.583 s
 
 | Score       |         1 |     2 |         3 |        4 |      5 |
 |-------------|-----------|-------|-----------|----------|--------|
@@ -1822,6 +2366,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.233 s
+
+* **Std of reaction time**: 1.355 s
+
 | Score       |        1 |        2 |     3 |         4 |     5 |
 |-------------|----------|----------|-------|-----------|-------|
 | Count       | 14       |  5       | 2     |  3        | 1     |
@@ -1834,6 +2382,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 2.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.442 s
+
+* **Std of reaction time**: 1.407 s
 
 | Score       |         1 |        2 |         3 |       4 |     5 |
 |-------------|-----------|----------|-----------|---------|-------|
@@ -1848,6 +2400,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 3.149 s
+
+* **Std of reaction time**: 4.216 s
+
 | Score       |        1 |        2 |     3 |        4 |     5 |
 |-------------|----------|----------|-------|----------|-------|
 | Count       | 16       |  3       | 1     |  4       | 1     |
@@ -1860,6 +2416,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 3.0
 
 * **Majority score**: 4
+
+* **Mean reaction time**: 2.231 s
+
+* **Std of reaction time**: 0.902 s
 
 | Score       |         1 |        2 |     3 |         4 |         5 |
 |-------------|-----------|----------|-------|-----------|-----------|
@@ -1874,6 +2434,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.273 s
+
+* **Std of reaction time**: 1.643 s
+
 | Score       |        1 |         2 |     3 |      4 |         5 |
 |-------------|----------|-----------|-------|--------|-----------|
 | Count       | 12       |  5        | 2     | 2      |  4        |
@@ -1886,6 +2450,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.183 s
+
+* **Std of reaction time**: 1.568 s
 
 | Score       |        1 |     2 |         3 |      4 |     5 |
 |-------------|----------|-------|-----------|--------|-------|
@@ -1900,6 +2468,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.022 s
+
+* **Std of reaction time**: 1.206 s
+
 | Score       |        1 |         2 |      3 |        4 |         5 |
 |-------------|----------|-----------|--------|----------|-----------|
 | Count       | 14       |  3        | 2      |  3       |  3        |
@@ -1912,6 +2484,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 2.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.948 s
+
+* **Std of reaction time**: 0.912 s
 
 | Score       |         1 |         2 |   3 |         4 |         5 |
 |-------------|-----------|-----------|-----|-----------|-----------|
@@ -1926,6 +2502,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 3.061 s
+
+* **Std of reaction time**: 4.925 s
+
 | Score       |        1 |     2 |      3 |     4 |   5 |
 |-------------|----------|-------|--------|-------|-----|
 | Count       | 20       | 2     |  2     | 1     |   0 |
@@ -1938,6 +2518,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.488 s
+
+* **Std of reaction time**: 0.699 s
 
 | Score       |         1 |      2 |      3 |     4 |         5 |
 |-------------|-----------|--------|--------|-------|-----------|
@@ -1952,6 +2536,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.745 s
+
+* **Std of reaction time**: 1.027 s
+
 | Score       |         1 |         2 |     3 |     4 |     5 |
 |-------------|-----------|-----------|-------|-------|-------|
 | Count       | 17        |  4        | 1     | 2     | 1     |
@@ -1964,6 +2552,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 4.0
 
 * **Majority score**: 4
+
+* **Mean reaction time**: 2.432 s
+
+* **Std of reaction time**: 1.389 s
 
 | Score       |     1 |        2 |   3 |         4 |         5 |
 |-------------|-------|----------|-----|-----------|-----------|
@@ -1978,6 +2570,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.927 s
+
+* **Std of reaction time**: 1.167 s
+
 | Score       |        1 |      2 |     3 |     4 |     5 |
 |-------------|----------|--------|-------|-------|-------|
 | Count       | 19       | 2      | 2     | 1     | 1     |
@@ -1990,6 +2586,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.039 s
+
+* **Std of reaction time**: 1.145 s
 
 | Score       |        1 |         2 |     3 |     4 |   5 |
 |-------------|----------|-----------|-------|-------|-----|
@@ -2004,6 +2604,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.921 s
+
+* **Std of reaction time**: 1.087 s
+
 | Score       |        1 |         2 |        3 |        4 |     5 |
 |-------------|----------|-----------|----------|----------|-------|
 | Count       | 11       |  6        |  3       |  3       | 2     |
@@ -2016,6 +2620,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.602 s
+
+* **Std of reaction time**: 2.195 s
 
 | Score       |        1 |      2 |   3 |     4 |     5 |
 |-------------|----------|--------|-----|-------|-------|
@@ -2030,6 +2638,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.064 s
+
+* **Std of reaction time**: 0.879 s
+
 | Score       |         1 |         2 |         3 |         4 |     5 |
 |-------------|-----------|-----------|-----------|-----------|-------|
 | Count       | 12        |  3        |  3        |  6        | 1     |
@@ -2042,6 +2654,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 2.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.652 s
+
+* **Std of reaction time**: 1.538 s
 
 | Score       |        1 |        2 |     3 |         4 |      5 |
 |-------------|----------|----------|-------|-----------|--------|
@@ -2056,6 +2672,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.500 s
+
+* **Std of reaction time**: 1.647 s
+
 | Score       |        1 |         2 |      3 |     4 |         5 |
 |-------------|----------|-----------|--------|-------|-----------|
 | Count       | 14       |  5        | 2      | 1     |  3        |
@@ -2068,6 +2688,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.007 s
+
+* **Std of reaction time**: 1.573 s
 
 | Score       |        1 |          2 |     3 |     4 |     5 |
 |-------------|----------|------------|-------|-------|-------|
@@ -2082,6 +2706,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.074 s
+
+* **Std of reaction time**: 1.152 s
+
 | Score       |        1 |         2 |        3 |      4 |     5 |
 |-------------|----------|-----------|----------|--------|-------|
 | Count       | 14       |  4        |  4       | 2      | 1     |
@@ -2094,6 +2722,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.190 s
+
+* **Std of reaction time**: 1.189 s
 
 | Score       |         1 |         2 |     3 |        4 |   5 |
 |-------------|-----------|-----------|-------|----------|-----|
@@ -2108,6 +2740,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 5
 
+* **Mean reaction time**: 2.297 s
+
+* **Std of reaction time**: 0.940 s
+
 | Score       |     1 |        2 |     3 |        4 |         5 |
 |-------------|-------|----------|-------|----------|-----------|
 | Count       | 1     |  3       | 1     |  7       | 13        |
@@ -2120,6 +2756,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.974 s
+
+* **Std of reaction time**: 1.308 s
 
 | Score       |        1 |         2 |   3 |   4 |     5 |
 |-------------|----------|-----------|-----|-----|-------|
@@ -2134,6 +2774,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.863 s
+
+* **Std of reaction time**: 0.943 s
+
 | Score       |        1 |   2 |         3 |      4 |      5 |
 |-------------|----------|-----|-----------|--------|--------|
 | Count       | 17       |   0 |  4        | 2      | 2      |
@@ -2146,6 +2790,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.078 s
+
+* **Std of reaction time**: 1.302 s
 
 | Score       |        1 |         2 |     3 |     4 |     5 |
 |-------------|----------|-----------|-------|-------|-------|
@@ -2160,6 +2808,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.840 s
+
+* **Std of reaction time**: 0.748 s
+
 | Score       |         1 |         2 |     3 |         4 |     5 |
 |-------------|-----------|-----------|-------|-----------|-------|
 | Count       | 15        |  3        | 1     |  5        | 1     |
@@ -2172,6 +2824,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.832 s
+
+* **Std of reaction time**: 0.990 s
 
 | Score       |        1 |         2 |     3 |        4 |   5 |
 |-------------|----------|-----------|-------|----------|-----|
@@ -2186,6 +2842,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.048 s
+
+* **Std of reaction time**: 1.235 s
+
 | Score       |        1 |     2 |      3 |     4 |     5 |
 |-------------|----------|-------|--------|-------|-------|
 | Count       | 19       | 1     | 2      | 1     | 2     |
@@ -2198,6 +2858,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.522 s
+
+* **Std of reaction time**: 1.488 s
 
 | Score       |        1 |         2 |     3 |     4 |     5 |
 |-------------|----------|-----------|-------|-------|-------|
@@ -2212,6 +2876,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 4.685 s
+
+* **Std of reaction time**: 10.026 s
+
 | Score       |        1 |      2 |     3 |       4 |     5 |
 |-------------|----------|--------|-------|---------|-------|
 | Count       | 10       |  5     | 1     |  7      | 2     |
@@ -2224,6 +2892,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.619 s
+
+* **Std of reaction time**: 0.672 s
 
 | Score       |         1 |     2 |   3 |     4 |     5 |
 |-------------|-----------|-------|-----|-------|-------|
@@ -2238,6 +2910,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.022 s
+
+* **Std of reaction time**: 1.126 s
+
 | Score       |        1 |     2 |    3 |      4 |     5 |
 |-------------|----------|-------|------|--------|-------|
 | Count       | 19       | 2     | 1    | 2      | 1     |
@@ -2250,6 +2926,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.908 s
+
+* **Std of reaction time**: 0.860 s
 
 | Score       |         1 |         2 |     3 |     4 |   5 |
 |-------------|-----------|-----------|-------|-------|-----|
@@ -2264,6 +2944,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.667 s
+
+* **Std of reaction time**: 2.247 s
+
 | Score       |        1 |       2 |     3 |        4 |      5 |
 |-------------|----------|---------|-------|----------|--------|
 | Count       | 12       |  5      | 2     |  5       |  1     |
@@ -2276,6 +2960,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.258 s
+
+* **Std of reaction time**: 1.857 s
 
 | Score       |         1 |        2 |   3 |   4 |     5 |
 |-------------|-----------|----------|-----|-----|-------|
@@ -2290,6 +2978,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.570 s
+
+* **Std of reaction time**: 2.201 s
+
 | Score       |        1 |          2 |      3 |        4 |     5 |
 |-------------|----------|------------|--------|----------|-------|
 | Count       | 13       |  3         | 2      |  5       | 2     |
@@ -2302,6 +2994,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 2.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.175 s
+
+* **Std of reaction time**: 0.937 s
 
 | Score       |         1 |       2 |    3 |         4 |         5 |
 |-------------|-----------|---------|------|-----------|-----------|
@@ -2316,6 +3012,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 4
 
+* **Mean reaction time**: 2.673 s
+
+* **Std of reaction time**: 2.050 s
+
 | Score       |      1 |         2 |   3 |        4 |         5 |
 |-------------|--------|-----------|-----|----------|-----------|
 | Count       | 2      |  4        |   0 | 14       |  5        |
@@ -2328,6 +3028,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.867 s
+
+* **Std of reaction time**: 0.938 s
 
 | Score       |         1 |        2 |         3 |     4 |     5 |
 |-------------|-----------|----------|-----------|-------|-------|
@@ -2342,6 +3046,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.242 s
+
+* **Std of reaction time**: 1.897 s
+
 | Score       |        1 |         2 |       3 |     4 |     5 |
 |-------------|----------|-----------|---------|-------|-------|
 | Count       | 15       |  3        |  5      | 1     | 1     |
@@ -2354,6 +3062,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.085 s
+
+* **Std of reaction time**: 1.371 s
 
 | Score       |         1 |        2 |   3 |      4 |   5 |
 |-------------|-----------|----------|-----|--------|-----|
@@ -2368,6 +3080,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.998 s
+
+* **Std of reaction time**: 1.079 s
+
 | Score       |        1 |         2 |     3 |   4 |     5 |
 |-------------|----------|-----------|-------|-----|-------|
 | Count       | 13       |  8        | 2     |   0 | 2     |
@@ -2380,6 +3096,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.247 s
+
+* **Std of reaction time**: 1.722 s
 
 | Score       |        1 |         2 |      3 |     4 |     5 |
 |-------------|----------|-----------|--------|-------|-------|
@@ -2394,6 +3114,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.138 s
+
+* **Std of reaction time**: 0.947 s
+
 | Score       |         1 |         2 |     3 |   4 |     5 |
 |-------------|-----------|-----------|-------|-----|-------|
 | Count       | 19        |  3        | 2     |   0 | 1     |
@@ -2406,6 +3130,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 4.157 s
+
+* **Std of reaction time**: 11.018 s
 
 | Score       |        1 |         2 |   3 |      4 |         5 |
 |-------------|----------|-----------|-----|--------|-----------|
@@ -2420,6 +3148,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.725 s
+
+* **Std of reaction time**: 0.908 s
+
 | Score       |         1 |   2 |   3 |   4 |     5 |
 |-------------|-----------|-----|-----|-----|-------|
 | Count       | 24        |   0 |   0 |   0 | 1     |
@@ -2432,6 +3164,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.577 s
+
+* **Std of reaction time**: 0.635 s
 
 | Score       |         1 |         2 |      3 |   4 |     5 |
 |-------------|-----------|-----------|--------|-----|-------|
@@ -2446,6 +3182,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.822 s
+
+* **Std of reaction time**: 1.173 s
+
 | Score       |        1 |      2 |         3 |     4 |         5 |
 |-------------|----------|--------|-----------|-------|-----------|
 | Count       | 15       | 2      |  3        | 2     |  3        |
@@ -2458,6 +3198,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.928 s
+
+* **Std of reaction time**: 0.814 s
 
 | Score       |         1 |         2 |         3 |     4 |     5 |
 |-------------|-----------|-----------|-----------|-------|-------|
@@ -2472,6 +3216,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.235 s
+
+* **Std of reaction time**: 1.158 s
+
 | Score       |         1 |        2 |        3 |     4 |     5 |
 |-------------|-----------|----------|----------|-------|-------|
 | Count       | 13        |  6       |  3       | 2     | 1     |
@@ -2484,6 +3232,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 2.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 4.592 s
+
+* **Std of reaction time**: 12.747 s
 
 | Score       |         1 |        2 |       3 |         4 |         5 |
 |-------------|-----------|----------|---------|-----------|-----------|
@@ -2498,6 +3250,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.945 s
+
+* **Std of reaction time**: 0.933 s
+
 | Score       |        1 |         2 |     3 |         4 |     5 |
 |-------------|----------|-----------|-------|-----------|-------|
 | Count       | 15       |  3        | 2     |  4        | 1     |
@@ -2510,6 +3266,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.170 s
+
+* **Std of reaction time**: 2.320 s
 
 | Score       |        1 |         2 |   3 |     4 |     5 |
 |-------------|----------|-----------|-----|-------|-------|
@@ -2524,6 +3284,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.891 s
+
+* **Std of reaction time**: 0.705 s
+
 | Score       |         1 |         2 |     3 |         4 |     5 |
 |-------------|-----------|-----------|-------|-----------|-------|
 | Count       | 14        |  4        | 2     |  3        | 2     |
@@ -2536,6 +3300,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.129 s
+
+* **Std of reaction time**: 1.410 s
 
 | Score       |         1 |      2 |     3 |         4 |      5 |
 |-------------|-----------|--------|-------|-----------|--------|
@@ -2550,6 +3318,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.856 s
+
+* **Std of reaction time**: 1.143 s
+
 | Score       |        1 |        2 |      3 |   4 |   5 |
 |-------------|----------|----------|--------|-----|-----|
 | Count       | 20       |  3       | 2      |   0 |   0 |
@@ -2562,6 +3334,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.295 s
+
+* **Std of reaction time**: 1.903 s
 
 | Score       |        1 |     2 |     3 |   4 |     5 |
 |-------------|----------|-------|-------|-----|-------|
@@ -2576,6 +3352,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.103 s
+
+* **Std of reaction time**: 1.465 s
+
 | Score       |         1 |   2 |     3 |        4 |   5 |
 |-------------|-----------|-----|-------|----------|-----|
 | Count       | 21        |   0 | 1     |  3       |   0 |
@@ -2588,6 +3368,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.239 s
+
+* **Std of reaction time**: 1.163 s
 
 | Score       |        1 |         2 |     3 |     4 |     5 |
 |-------------|----------|-----------|-------|-------|-------|
@@ -2602,6 +3386,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.000 s
+
+* **Std of reaction time**: 1.374 s
+
 | Score       |         1 |        2 |     3 |         4 |         5 |
 |-------------|-----------|----------|-------|-----------|-----------|
 | Count       | 12        |  3       | 2     |  5        |  3        |
@@ -2614,6 +3402,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.250 s
+
+* **Std of reaction time**: 1.035 s
 
 | Score       |        1 |         2 |   3 |         4 |   5 |
 |-------------|----------|-----------|-----|-----------|-----|
@@ -2628,6 +3420,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.357 s
+
+* **Std of reaction time**: 1.446 s
+
 | Score       |        1 |         2 |        3 |     4 |     5 |
 |-------------|----------|-----------|----------|-------|-------|
 | Count       | 13       |  6        |  4       | 1     | 1     |
@@ -2640,6 +3436,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.895 s
+
+* **Std of reaction time**: 0.820 s
 
 | Score       |        1 |         2 |   3 |     4 |     5 |
 |-------------|----------|-----------|-----|-------|-------|
@@ -2654,6 +3454,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.597 s
+
+* **Std of reaction time**: 0.672 s
+
 | Score       |         1 |     2 |     3 |      4 |     5 |
 |-------------|-----------|-------|-------|--------|-------|
 | Count       | 20        | 1     | 1     | 2      | 1     |
@@ -2666,6 +3470,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.041 s
+
+* **Std of reaction time**: 0.884 s
 
 | Score       |         1 |         2 |   3 |      4 |     5 |
 |-------------|-----------|-----------|-----|--------|-------|
@@ -2680,6 +3488,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.567 s
+
+* **Std of reaction time**: 2.928 s
+
 | Score       |        1 |      2 |      3 |        4 |         5 |
 |-------------|----------|--------|--------|----------|-----------|
 | Count       | 15       | 2      | 2      |  3       |  3        |
@@ -2692,6 +3504,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.306 s
+
+* **Std of reaction time**: 1.330 s
 
 | Score       |         1 |        2 |         3 |     4 |     5 |
 |-------------|-----------|----------|-----------|-------|-------|
@@ -2706,6 +3522,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 4
 
+* **Mean reaction time**: 2.467 s
+
+* **Std of reaction time**: 1.784 s
+
 | Score       |        1 |         2 |     3 |         4 |         5 |
 |-------------|----------|-----------|-------|-----------|-----------|
 | Count       |  6       |  5        | 1     |  8        |  5        |
@@ -2718,6 +3538,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.998 s
+
+* **Std of reaction time**: 1.828 s
 
 | Score       |        1 |   2 |   3 |      4 |     5 |
 |-------------|----------|-----|-----|--------|-------|
@@ -2732,6 +3556,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.966 s
+
+* **Std of reaction time**: 1.138 s
+
 | Score       |        1 |        2 |     3 |         4 |   5 |
 |-------------|----------|----------|-------|-----------|-----|
 | Count       | 16       |  4       | 2     |  3        |   0 |
@@ -2744,6 +3572,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.867 s
+
+* **Std of reaction time**: 0.919 s
 
 | Score       |         1 |     2 |         3 |      4 |        5 |
 |-------------|-----------|-------|-----------|--------|----------|
@@ -2758,6 +3590,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.724 s
+
+* **Std of reaction time**: 0.918 s
+
 | Score       |         1 |     2 |     3 |        4 |     5 |
 |-------------|-----------|-------|-------|----------|-------|
 | Count       | 19        | 1     | 1     |  3       | 1     |
@@ -2770,6 +3606,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 3.0
 
 * **Majority score**: 2
+
+* **Mean reaction time**: 3.588 s
+
+* **Std of reaction time**: 4.416 s
 
 | Score       |     1 |        2 |     3 |         4 |        5 |
 |-------------|-------|----------|-------|-----------|----------|
@@ -2784,6 +3624,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.287 s
+
+* **Std of reaction time**: 1.691 s
+
 | Score       |         1 |        2 |     3 |      4 |      5 |
 |-------------|-----------|----------|-------|--------|--------|
 | Count       | 17        |  3       | 1     | 2      | 2      |
@@ -2796,6 +3640,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.743 s
+
+* **Std of reaction time**: 0.741 s
 
 | Score       |         1 |         2 |     3 |        4 |     5 |
 |-------------|-----------|-----------|-------|----------|-------|
@@ -2810,6 +3658,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.124 s
+
+* **Std of reaction time**: 1.533 s
+
 | Score       |        1 |         2 |     3 |     4 |    5 |
 |-------------|----------|-----------|-------|-------|------|
 | Count       | 19       |  3        | 1     | 1     | 1    |
@@ -2822,6 +3674,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.982 s
+
+* **Std of reaction time**: 1.007 s
 
 | Score       |         1 |         2 |   3 |     4 |     5 |
 |-------------|-----------|-----------|-----|-------|-------|
@@ -2836,6 +3692,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.035 s
+
+* **Std of reaction time**: 1.398 s
+
 | Score       |         1 |         2 |        3 |        4 |        5 |
 |-------------|-----------|-----------|----------|----------|----------|
 | Count       | 11        |  4        |  3       |  4       |  3       |
@@ -2848,6 +3708,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 3.0
 
 * **Majority score**: 4
+
+* **Mean reaction time**: 2.905 s
+
+* **Std of reaction time**: 2.655 s
 
 | Score       |       1 |         2 |         3 |        4 |     5 |
 |-------------|---------|-----------|-----------|----------|-------|
@@ -2862,6 +3726,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.860 s
+
+* **Std of reaction time**: 0.903 s
+
 | Score       |        1 |      2 |   3 |   4 |     5 |
 |-------------|----------|--------|-----|-----|-------|
 | Count       | 22       | 2      |   0 |   0 | 1     |
@@ -2874,6 +3742,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.085 s
+
+* **Std of reaction time**: 1.394 s
 
 | Score       |        1 |         2 |      3 |     4 |   5 |
 |-------------|----------|-----------|--------|-------|-----|
@@ -2888,6 +3760,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.970 s
+
+* **Std of reaction time**: 1.433 s
+
 | Score       |         1 |     2 |     3 |     4 |         5 |
 |-------------|-----------|-------|-------|-------|-----------|
 | Count       | 18        | 2     | 1     | 1     |  3        |
@@ -2900,6 +3776,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.522 s
+
+* **Std of reaction time**: 1.616 s
 
 | Score       |        1 |      2 |         3 |     4 |    5 |
 |-------------|----------|--------|-----------|-------|------|
@@ -2914,6 +3794,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.017 s
+
+* **Std of reaction time**: 0.994 s
+
 | Score       |         1 |      2 |    3 |        4 |     5 |
 |-------------|-----------|--------|------|----------|-------|
 | Count       | 16        | 2      | 1    |  4       | 2     |
@@ -2926,6 +3810,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.216 s
+
+* **Std of reaction time**: 1.545 s
 
 | Score       |         1 |         2 |        3 |    4 |   5 |
 |-------------|-----------|-----------|----------|------|-----|
@@ -2940,6 +3828,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.316 s
+
+* **Std of reaction time**: 2.211 s
+
 | Score       |         1 |   2 |      3 |        4 |   5 |
 |-------------|-----------|-----|--------|----------|-----|
 | Count       | 21        |   0 |  1     |  3       |   0 |
@@ -2952,6 +3844,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.033 s
+
+* **Std of reaction time**: 1.904 s
 
 | Score       |        1 |      2 |   3 |   4 |      5 |
 |-------------|----------|--------|-----|-----|--------|
@@ -2966,6 +3862,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.688 s
+
+* **Std of reaction time**: 0.903 s
+
 | Score       |         1 |        2 |     3 |     4 |     5 |
 |-------------|-----------|----------|-------|-------|-------|
 | Count       | 19        |  3       | 1     | 1     | 1     |
@@ -2978,6 +3878,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.958 s
+
+* **Std of reaction time**: 1.622 s
 
 | Score       |        1 |      2 |   3 |     4 |     5 |
 |-------------|----------|--------|-----|-------|-------|
@@ -2992,6 +3896,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.814 s
+
+* **Std of reaction time**: 0.890 s
+
 | Score       |         1 |     2 |     3 |        4 |     5 |
 |-------------|-----------|-------|-------|----------|-------|
 | Count       | 17        | 2     | 1     |  4       | 1     |
@@ -3004,6 +3912,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 2.0
 
 * **Majority score**: 2
+
+* **Mean reaction time**: 2.338 s
+
+* **Std of reaction time**: 1.264 s
 
 | Score       |        1 |         2 |        3 |       4 |      5 |
 |-------------|----------|-----------|----------|---------|--------|
@@ -3018,6 +3930,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.878 s
+
+* **Std of reaction time**: 1.302 s
+
 | Score       |         1 |      2 |     3 |     4 |     5 |
 |-------------|-----------|--------|-------|-------|-------|
 | Count       | 20        | 2      | 1     | 1     | 1     |
@@ -3030,6 +3946,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.938 s
+
+* **Std of reaction time**: 1.205 s
 
 | Score       |        1 |        2 |     3 |   4 |     5 |
 |-------------|----------|----------|-------|-----|-------|
@@ -3044,6 +3964,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.392 s
+
+* **Std of reaction time**: 0.540 s
+
 | Score       |         1 |     2 |   3 |     4 |   5 |
 |-------------|-----------|-------|-----|-------|-----|
 | Count       | 23        | 1     |   0 | 1     |   0 |
@@ -3056,6 +3980,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.005 s
+
+* **Std of reaction time**: 1.277 s
 
 | Score       |        1 |        2 |         3 |   4 |      5 |
 |-------------|----------|----------|-----------|-----|--------|
@@ -3070,6 +3998,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.627 s
+
+* **Std of reaction time**: 0.822 s
+
 | Score       |         1 |         2 |     3 |     4 |     5 |
 |-------------|-----------|-----------|-------|-------|-------|
 | Count       | 18        |  4        | 1     | 1     | 1     |
@@ -3082,6 +4014,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.864 s
+
+* **Std of reaction time**: 1.442 s
 
 | Score       |         1 |        2 |     3 |     4 |     5 |
 |-------------|-----------|----------|-------|-------|-------|
@@ -3096,6 +4032,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 4
 
+* **Mean reaction time**: 2.053 s
+
+* **Std of reaction time**: 0.838 s
+
 | Score       |        1 |         2 |      3 |         4 |         5 |
 |-------------|----------|-----------|--------|-----------|-----------|
 | Count       |  3       |  4        | 2      | 13        |  3        |
@@ -3108,6 +4048,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 4.0
 
 * **Majority score**: 4
+
+* **Mean reaction time**: 2.090 s
+
+* **Std of reaction time**: 0.818 s
 
 | Score       |         1 |      2 |     3 |        4 |         5 |
 |-------------|-----------|--------|-------|----------|-----------|
@@ -3122,6 +4066,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 4
 
+* **Mean reaction time**: 2.156 s
+
+* **Std of reaction time**: 0.847 s
+
 | Score       |        1 |         2 |         3 |         4 |      5 |
 |-------------|----------|-----------|-----------|-----------|--------|
 | Count       |  6       |  4        |  5        |  8        | 2      |
@@ -3134,6 +4082,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 3.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.040 s
+
+* **Std of reaction time**: 1.030 s
 
 | Score       |         1 |   2 |         3 |         4 |         5 |
 |-------------|-----------|-----|-----------|-----------|-----------|
@@ -3148,6 +4100,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 3.784 s
+
+* **Std of reaction time**: 6.916 s
+
 | Score       |        1 |     2 |        3 |      4 |     5 |
 |-------------|----------|-------|----------|--------|-------|
 | Count       | 16       | 1     |  5       |  2     | 1     |
@@ -3160,6 +4116,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 2.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.112 s
+
+* **Std of reaction time**: 0.958 s
 
 | Score       |         1 |         2 |         3 |         4 |         5 |
 |-------------|-----------|-----------|-----------|-----------|-----------|
@@ -3174,6 +4134,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.682 s
+
+* **Std of reaction time**: 2.427 s
+
 | Score       |        1 |         2 |      3 |   4 |     5 |
 |-------------|----------|-----------|--------|-----|-------|
 | Count       | 16       |  5        | 2      |   0 | 2     |
@@ -3186,6 +4150,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.927 s
+
+* **Std of reaction time**: 0.949 s
 
 | Score       |         1 |     2 |     3 |     4 |    5 |
 |-------------|-----------|-------|-------|-------|------|
@@ -3200,6 +4168,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.551 s
+
+* **Std of reaction time**: 1.616 s
+
 | Score       |        1 |         2 |         3 |        4 |     5 |
 |-------------|----------|-----------|-----------|----------|-------|
 | Count       |  8       |  6        |  3        |  7       | 1     |
@@ -3212,6 +4184,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.937 s
+
+* **Std of reaction time**: 1.132 s
 
 | Score       |       1 |         2 |   3 |    4 |     5 |
 |-------------|---------|-----------|-----|------|-------|
@@ -3226,6 +4202,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.861 s
+
+* **Std of reaction time**: 0.924 s
+
 | Score       |         1 |         2 |     3 |         4 |      5 |
 |-------------|-----------|-----------|-------|-----------|--------|
 | Count       | 10        |  4        | 1     |  8        | 2      |
@@ -3238,6 +4218,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 4.0
 
 * **Majority score**: 4
+
+* **Mean reaction time**: 2.253 s
+
+* **Std of reaction time**: 0.959 s
 
 | Score       |     1 |     2 |      3 |        4 |        5 |
 |-------------|-------|-------|--------|----------|----------|
@@ -3252,6 +4236,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 4
 
+* **Mean reaction time**: 4.010 s
+
+* **Std of reaction time**: 6.372 s
+
 | Score       |     1 |        2 |      3 |        4 |         5 |
 |-------------|-------|----------|--------|----------|-----------|
 | Count       | 1     |  6       | 2      | 12       |  4        |
@@ -3264,6 +4252,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 2.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.965 s
+
+* **Std of reaction time**: 1.227 s
 
 | Score       |         1 |        2 |   3 |        4 |     5 |
 |-------------|-----------|----------|-----|----------|-------|
@@ -3278,6 +4270,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.222 s
+
+* **Std of reaction time**: 1.438 s
+
 | Score       |        1 |         2 |         3 |         4 |     5 |
 |-------------|----------|-----------|-----------|-----------|-------|
 | Count       | 13       |  3        |  4        |  3        | 2     |
@@ -3290,6 +4286,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 2.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.362 s
+
+* **Std of reaction time**: 1.430 s
 
 | Score       |         1 |        2 |         3 |        4 |     5 |
 |-------------|-----------|----------|-----------|----------|-------|
@@ -3304,6 +4304,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 3.636 s
+
+* **Std of reaction time**: 4.960 s
+
 | Score       |        1 |        2 |        3 |      4 |     5 |
 |-------------|----------|----------|----------|--------|-------|
 | Count       | 16       |  3       |  3       | 2      | 1     |
@@ -3316,6 +4320,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.867 s
+
+* **Std of reaction time**: 1.042 s
 
 | Score       |         1 |        2 |     3 |      4 |         5 |
 |-------------|-----------|----------|-------|--------|-----------|
@@ -3330,6 +4338,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 4
 
+* **Mean reaction time**: 5.671 s
+
+* **Std of reaction time**: 14.415 s
+
 | Score       |       1 |        2 |     3 |         4 |     5 |
 |-------------|---------|----------|-------|-----------|-------|
 | Count       |  8      |  5       | 1     |  9        | 2     |
@@ -3342,6 +4354,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 4.133 s
+
+* **Std of reaction time**: 8.104 s
 
 | Score       |        1 |        2 |   3 |       4 |     5 |
 |-------------|----------|----------|-----|---------|-------|
@@ -3356,6 +4372,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.885 s
+
+* **Std of reaction time**: 1.108 s
+
 | Score       |        1 |     2 |        3 |         4 |     5 |
 |-------------|----------|-------|----------|-----------|-------|
 | Count       | 13       | 2     |  4       |  5        | 1     |
@@ -3368,6 +4388,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 4.0
 
 * **Majority score**: 4
+
+* **Mean reaction time**: 2.563 s
+
+* **Std of reaction time**: 1.213 s
 
 | Score       |   1 |        2 |   3 |        4 |         5 |
 |-------------|-----|----------|-----|----------|-----------|
@@ -3382,6 +4406,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.919 s
+
+* **Std of reaction time**: 1.096 s
+
 | Score       |        1 |       2 |      3 |      4 |         5 |
 |-------------|----------|---------|--------|--------|-----------|
 | Count       | 11       |  4      | 2      | 2      |  6        |
@@ -3394,6 +4422,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 2.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.534 s
+
+* **Std of reaction time**: 1.756 s
 
 | Score       |         1 |      2 |     3 |        4 |         5 |
 |-------------|-----------|--------|-------|----------|-----------|
@@ -3408,6 +4440,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 5.554 s
+
+* **Std of reaction time**: 14.914 s
+
 | Score       |         1 |    2 |       3 |       4 |      5 |
 |-------------|-----------|------|---------|---------|--------|
 | Count       | 11        | 1    |  5      |  6      | 2      |
@@ -3420,6 +4456,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.969 s
+
+* **Std of reaction time**: 1.137 s
 
 | Score       |         1 |        2 |   3 |         4 |     5 |
 |-------------|-----------|----------|-----|-----------|-------|
@@ -3434,6 +4474,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.151 s
+
+* **Std of reaction time**: 1.649 s
+
 | Score       |         1 |     2 |     3 |         4 |        5 |
 |-------------|-----------|-------|-------|-----------|----------|
 | Count       | 14        | 1     | 1     |  6        |  3       |
@@ -3446,6 +4490,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 3.0
 
 * **Majority score**: 4
+
+* **Mean reaction time**: 2.722 s
+
+* **Std of reaction time**: 1.844 s
 
 | Score       |        1 |        2 |        3 |         4 |        5 |
 |-------------|----------|----------|----------|-----------|----------|
@@ -3460,6 +4508,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.043 s
+
+* **Std of reaction time**: 1.026 s
+
 | Score       |        1 |         2 |     3 |   4 |     5 |
 |-------------|----------|-----------|-------|-----|-------|
 | Count       | 17       |  4        | 2     |   0 | 2     |
@@ -3472,6 +4524,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 3.0
 
 * **Majority score**: 4
+
+* **Mean reaction time**: 2.041 s
+
+* **Std of reaction time**: 0.959 s
 
 | Score       |         1 |        2 |         3 |         4 |     5 |
 |-------------|-----------|----------|-----------|-----------|-------|
@@ -3486,6 +4542,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.403 s
+
+* **Std of reaction time**: 1.250 s
+
 | Score       |         1 |         2 |     3 |        4 |     5 |
 |-------------|-----------|-----------|-------|----------|-------|
 | Count       | 10        |  8        | 2     |  4       | 1     |
@@ -3498,6 +4558,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.559 s
+
+* **Std of reaction time**: 1.348 s
 
 | Score       |        1 |        2 |     3 |     4 |     5 |
 |-------------|----------|----------|-------|-------|-------|
@@ -3512,6 +4576,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.155 s
+
+* **Std of reaction time**: 1.119 s
+
 | Score       |        1 |         2 |     3 |     4 |      5 |
 |-------------|----------|-----------|-------|-------|--------|
 | Count       | 17       |  4        | 1     | 1     | 2      |
@@ -3524,6 +4592,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.163 s
+
+* **Std of reaction time**: 1.157 s
 
 | Score       |        1 |        2 |     3 |   4 |     5 |
 |-------------|----------|----------|-------|-----|-------|
@@ -3538,6 +4610,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.807 s
+
+* **Std of reaction time**: 0.750 s
+
 | Score       |        1 |      2 |   3 |     4 |   5 |
 |-------------|----------|--------|-----|-------|-----|
 | Count       | 22       | 2      |   0 | 1     |   0 |
@@ -3550,6 +4626,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 4.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.463 s
+
+* **Std of reaction time**: 1.808 s
 
 | Score       |         1 |         2 |   3 |        4 |        5 |
 |-------------|-----------|-----------|-----|----------|----------|
@@ -3564,6 +4644,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.313 s
+
+* **Std of reaction time**: 2.118 s
+
 | Score       |        1 |         2 |   3 |     4 |   5 |
 |-------------|----------|-----------|-----|-------|-----|
 | Count       | 19       |  5        |   0 | 1     |   0 |
@@ -3576,6 +4660,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 4.0
 
 * **Majority score**: 4
+
+* **Mean reaction time**: 2.328 s
+
+* **Std of reaction time**: 0.856 s
 
 | Score       |       1 |         2 |     3 |        4 |         5 |
 |-------------|---------|-----------|-------|----------|-----------|
@@ -3590,6 +4678,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 4
 
+* **Mean reaction time**: 2.211 s
+
+* **Std of reaction time**: 1.017 s
+
 | Score       |     1 |        2 |      3 |         4 |        5 |
 |-------------|-------|----------|--------|-----------|----------|
 | Count       | 1     |  5       | 2      | 10        |  7       |
@@ -3602,6 +4694,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 3.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.320 s
+
+* **Std of reaction time**: 1.426 s
 
 | Score       |         1 |         2 |         3 |         4 |        5 |
 |-------------|-----------|-----------|-----------|-----------|----------|
@@ -3616,6 +4712,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.302 s
+
+* **Std of reaction time**: 1.172 s
+
 | Score       |        1 |         2 |      3 |        4 |     5 |
 |-------------|----------|-----------|--------|----------|-------|
 | Count       | 10       |  5        | 2      |  7       | 1     |
@@ -3628,6 +4728,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.261 s
+
+* **Std of reaction time**: 1.273 s
 
 | Score       |        1 |        2 |   3 |         4 |     5 |
 |-------------|----------|----------|-----|-----------|-------|
@@ -3642,6 +4746,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.954 s
+
+* **Std of reaction time**: 0.784 s
+
 | Score       |         1 |      2 |         3 |         4 |   5 |
 |-------------|-----------|--------|-----------|-----------|-----|
 | Count       | 17        | 2      |  3        |  3        |   0 |
@@ -3654,6 +4762,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.879 s
+
+* **Std of reaction time**: 0.828 s
 
 | Score       |         1 |     2 |         3 |      4 |      5 |
 |-------------|-----------|-------|-----------|--------|--------|
@@ -3668,6 +4780,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.445 s
+
+* **Std of reaction time**: 1.996 s
+
 | Score       |        1 |   2 |        3 |   4 |         5 |
 |-------------|----------|-----|----------|-----|-----------|
 | Count       | 18       |   0 |  4       |   0 |  3        |
@@ -3680,6 +4796,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 2.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.282 s
+
+* **Std of reaction time**: 0.950 s
 
 | Score       |         1 |         2 |     3 |         4 |    5 |
 |-------------|-----------|-----------|-------|-----------|------|
@@ -3694,6 +4814,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.165 s
+
+* **Std of reaction time**: 1.605 s
+
 | Score       |         1 |         2 |     3 |        4 |     5 |
 |-------------|-----------|-----------|-------|----------|-------|
 | Count       | 12        |  5        | 1     |  6       | 1     |
@@ -3706,6 +4830,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.981 s
+
+* **Std of reaction time**: 0.923 s
 
 | Score       |        1 |         2 |     3 |         4 |         5 |
 |-------------|----------|-----------|-------|-----------|-----------|
@@ -3720,6 +4848,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.066 s
+
+* **Std of reaction time**: 1.402 s
+
 | Score       |        1 |         2 |      3 |     4 |     5 |
 |-------------|----------|-----------|--------|-------|-------|
 | Count       | 18       |  3        | 2      | 1     | 1     |
@@ -3732,6 +4864,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.086 s
+
+* **Std of reaction time**: 0.994 s
 
 | Score       |         1 |     2 |     3 |        4 |     5 |
 |-------------|-----------|-------|-------|----------|-------|
@@ -3746,6 +4882,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.117 s
+
+* **Std of reaction time**: 1.638 s
+
 | Score       |         1 |         2 |      3 |        4 |   5 |
 |-------------|-----------|-----------|--------|----------|-----|
 | Count       | 15        |  4        | 2      |  4       |   0 |
@@ -3758,6 +4898,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.818 s
+
+* **Std of reaction time**: 0.976 s
 
 | Score       |         1 |        2 |   3 |     4 |     5 |
 |-------------|-----------|----------|-----|-------|-------|
@@ -3772,6 +4916,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.814 s
+
+* **Std of reaction time**: 0.874 s
+
 | Score       |         1 |     2 |     3 |      4 |    5 |
 |-------------|-----------|-------|-------|--------|------|
 | Count       | 19        | 2     | 1     | 2      | 1    |
@@ -3784,6 +4932,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.336 s
+
+* **Std of reaction time**: 1.732 s
 
 | Score       |         1 |     2 |        3 |        4 |     5 |
 |-------------|-----------|-------|----------|----------|-------|
@@ -3798,6 +4950,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.053 s
+
+* **Std of reaction time**: 1.323 s
+
 | Score       |         1 |         2 |        3 |      4 |     5 |
 |-------------|-----------|-----------|----------|--------|-------|
 | Count       | 13        |  3        |  5       | 2      | 2     |
@@ -3810,6 +4966,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.355 s
+
+* **Std of reaction time**: 1.148 s
 
 | Score       |        1 |      2 |         3 |         4 |   5 |
 |-------------|----------|--------|-----------|-----------|-----|
@@ -3824,6 +4984,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.577 s
+
+* **Std of reaction time**: 2.206 s
+
 | Score       |        1 |        2 |     3 |         4 |     5 |
 |-------------|----------|----------|-------|-----------|-------|
 | Count       | 13       |  5       | 2     |  3        | 2     |
@@ -3836,6 +5000,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.240 s
+
+* **Std of reaction time**: 1.104 s
 
 | Score       |        1 |         2 |         3 |     4 |     5 |
 |-------------|----------|-----------|-----------|-------|-------|
@@ -3850,6 +5018,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.324 s
+
+* **Std of reaction time**: 1.681 s
+
 | Score       |        1 |         2 |     3 |     4 |     5 |
 |-------------|----------|-----------|-------|-------|-------|
 | Count       | 15       |  4        | 2     | 2     | 2     |
@@ -3862,6 +5034,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.549 s
+
+* **Std of reaction time**: 0.662 s
 
 | Score       |         1 |         2 |      3 |      4 |     5 |
 |-------------|-----------|-----------|--------|--------|-------|
@@ -3876,6 +5052,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.927 s
+
+* **Std of reaction time**: 1.464 s
+
 | Score       |         1 |         2 |     3 |   4 |     5 |
 |-------------|-----------|-----------|-------|-----|-------|
 | Count       | 19        |  3        | 2     |   0 | 1     |
@@ -3888,6 +5068,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.122 s
+
+* **Std of reaction time**: 1.727 s
 
 | Score       |        1 |        2 |   3 |   4 |     5 |
 |-------------|----------|----------|-----|-----|-------|
@@ -3902,6 +5086,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 1.934 s
+
+* **Std of reaction time**: 1.159 s
+
 | Score       |        1 |     2 |   3 |     4 |   5 |
 |-------------|----------|-------|-----|-------|-----|
 | Count       | 21       | 2     |   0 | 2     |   0 |
@@ -3914,6 +5102,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 1.813 s
+
+* **Std of reaction time**: 0.869 s
 
 | Score       |         1 |     2 |         3 |     4 |     5 |
 |-------------|-----------|-------|-----------|-------|-------|
@@ -3928,6 +5120,10 @@ A profile for each participant has been created. In this document,
 
 * **Majority score**: 1
 
+* **Mean reaction time**: 2.179 s
+
+* **Std of reaction time**: 0.984 s
+
 | Score       |         1 |     2 |        3 |         4 |        5 |
 |-------------|-----------|-------|----------|-----------|----------|
 | Count       |  9        | 2     |  5       |  5        |  4       |
@@ -3940,6 +5136,10 @@ A profile for each participant has been created. In this document,
 * **Median score**: 1.0
 
 * **Majority score**: 1
+
+* **Mean reaction time**: 2.001 s
+
+* **Std of reaction time**: 0.782 s
 
 | Score       |         1 |         2 |     3 |     4 |     5 |
 |-------------|-----------|-----------|-------|-------|-------|

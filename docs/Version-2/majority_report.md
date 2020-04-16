@@ -1,6 +1,6 @@
 # Majority Report
 
-This report consists all the pairs which have their highest     agreement percentage, greater that 50\%
+This report consists all the pairs which have their highest     agreement percentage, greater that 50%
 
 ## Summary table
 
