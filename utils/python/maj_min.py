@@ -11,7 +11,7 @@ def minority_report(input_data, version):
         'docs/Version-{}/minority_report.md'.format(version), 'w+')
     min_report.write('# Minority Report\n\n')
     min_report.write('This report consists all the pairs which have their highest \
-    agreement percentage, less that 50\%\n\n')
+    agreement percentage, less that 50%\n\n')
     min_report.write('## Summary table\n\n')
     for index, arr in enumerate(data['overall']):
         high = max(arr[1])
@@ -50,7 +50,7 @@ def majority_report(input_data, version):
         'docs/Version-{}/majority_report.md'.format(version), 'w+')
     max_report.write('# Majority Report\n\n')
     max_report.write('This report consists all the pairs which have their highest \
-    agreement percentage, greater that 50\%\n\n')
+    agreement percentage, greater that 50%\n\n')
     max_report.write('## Summary table\n\n')
     for index, arr in enumerate(data['overall']):
         high = max(arr[1])
