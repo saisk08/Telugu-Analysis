@@ -45,12 +45,12 @@ online survey.
 The instructions given for both the version of the experiment are the same. The instructions are
 given below:
 
-* You will be shown a pair of Telugu characters for a duration of *2 seconds*, after which
+* You will be shown a pair of Telugu characters for a duration of **2 seconds**, after which
 they disappear.
-* You are required to rate the pair, in terms of their *Dissimilarity*.
+* You are required to rate the pair, in terms of their **Dissimilarity**.
 * Once you have rated the pair, click the next button, to get a new pair
 * 30 pairs make up a set. You will have to attempt 10 such sets.
-* The estimated time of completion for 10 sets is about *25 minutes*.
+* The estimated time of completion for 10 sets is about **25 minutes**.
 
 ## About the participants
 
