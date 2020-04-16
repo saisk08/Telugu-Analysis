@@ -72,11 +72,17 @@ def create_readme(user_data, version):
     \n\n'''.format(data['agreement'].sum(), *data['agreement'], (data['agreement'].sum() / 300) * 100,
                    100 - ((data['agreement'].sum() / 300) * 100)))
     readme.write('## Agreeement percentages and reaction times\n\n')
+    index = 0
     for pair, info_vec in zip(chars_pairs, data['overall']):
         readme.write('\n\n')
         readme.write('### {}\n\n'.format(pair))
         readme.write('* **Median score**: {}\n\n'.format(info_vec[4]))
         readme.write('* **Majority score**: {}\n\n'.format(info_vec[5]))
+        readme.write(
+            '* **Mean reaction time**: {}\n\n'.format(data['pair_rec'][index]))
+        readme.write(
+            '* **Std of reaction time**: {}\n\n'.format(data['pair_std'][index]))
+        index += 1
         head = ['Score', 1, 2, 3, 4, 5]
         count = ['Count', *info_vec[0]]
         percentages = ['Agreement %', *info_vec[1]]
