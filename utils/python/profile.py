@@ -79,9 +79,9 @@ def create_readme(user_data, version):
         readme.write('* **Median score**: {}\n\n'.format(info_vec[4]))
         readme.write('* **Majority score**: {}\n\n'.format(info_vec[5]))
         readme.write(
-            '* **Mean reaction time**: {}\n\n'.format(data['pair_rec'][index]))
+            '* **Mean reaction time**: {:.3f} s\n\n'.format(data['pair_rec'][index]))
         readme.write(
-            '* **Std of reaction time**: {}\n\n'.format(data['pair_std'][index]))
+            '* **Std of reaction time**: {:.3f} s\n\n'.format(data['pair_std'][index]))
         index += 1
         head = ['Score', 1, 2, 3, 4, 5]
         count = ['Count', *info_vec[0]]
