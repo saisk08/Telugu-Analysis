@@ -36,9 +36,14 @@ def minority_report(input_data, version):
     min_report.write('## List of pairs\n\n')
     for indx, pairs in enumerate(bins):
         min_report.write('### Range {}0-{}0\n\n'.format(indx, indx + 1))
+        pair_table = list()
         for pair in pairs:
-            min_report.write('* {}\n'.format(chars_pairs[pair]))
-        min_report.write('\n')
+            pair_table.append(
+                [chars_pairs[pair], data['overall'][pair][-2], data['overall'][pair][-1],
+                 data['overall'][pair][1][data['overall'][pair][-1] - 1]])
+        min_report.write(tabulate(pair_table, headers=[
+                         'Pair', 'Median score', 'Agreed score', 'Percentage'], tablefmt='github'))
+        min_report.write('\n\n')
     min_report.close()
     return
 
@@ -74,9 +79,14 @@ def majority_report(input_data, version):
     max_report.write('\n\n')
     max_report.write('## List of pairs\n\n')
     for indx, pairs in enumerate(bins):
+        pair_table = list()
         max_report.write('### Range {}0-{}0\n\n'.format(indx + 5, indx + 6))
         for pair in pairs:
-            max_report.write('* {}\n'.format(chars_pairs[pair]))
-        max_report.write('\n')
+            pair_table.append(
+                [chars_pairs[pair], data['overall'][pair][-2], data['overall'][pair][-1],
+                 data['overall'][pair][1][data['overall'][pair][-1] - 1]])
+        max_report.write(tabulate(pair_table, headers=[
+                         'Pair', 'Median score', 'Agreed score', 'Percentage'], tablefmt='github'))
+        max_report.write('\n\n')
     max_report.close()
     return
