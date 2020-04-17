@@ -63,5 +63,5 @@ markdown_extensions:
 
 # For MathJax
 extra_javascript:
-  - js/mathjax.js
+  # - js/mathjax.js
   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML
