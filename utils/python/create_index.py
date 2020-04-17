@@ -62,11 +62,11 @@ as a unique identifier.
 
 ## Distribution of the Participants
 
-### Version $\\alpha$
+### Version $\\alpha$ { data-toc-label="Version &alpha;" }
 
 {alpha}
 
-### Version $\\beta$
+### Version $\\beta$ { data-toc-label="Version &beta;" }
 
 {beta}
 
