@@ -23,15 +23,13 @@ print(colored('Generating pages...', 'blue'))
 for user in tqdm(ver1_data):
     basic_info = basics(user, ver1_data[user])
     create_profile(basic_info, 1)
-create_readme(ver1_data, 'Version-1',
-              'Analysis for Version $\\alpha$ \{data-toc-label="Analysis for Version &alpha;"\}')
+create_readme(ver1_data, 'Version-1', 'Analysis for Version &alpha;')
 create_minmaj(ver1_data, 'Version-1')
 
 for user in tqdm(ver2_data):
     basic_info = basics(user, ver2_data[user])
     create_profile(basic_info, 2)
-create_readme(ver2_data, 'Version-2',
-              'Analysis for Version $\\beta$ \{data-toc-label="Analysis for Version &beta;"\}')
+create_readme(ver2_data, 'Version-2', 'Analysis for Version &beta;')
 create_minmaj(ver2_data, 'Version-2')
 create_index(ver1_data, ver2_data)
 create_novert(ver1_data, ver2_data)

@@ -3,16 +3,16 @@ from .maj_min import create_minmaj
 
 
 def classify(ver1, ver2):
-    data = ver1 + ver2
-    novices = list()
-    experts = list()
+    data = dict(ver1, **ver2)
+    novices = dict()
+    experts = dict()
     for user in data:
         if data[user]['userInfo']['content']['read'] == 'Yes' or \
                 data[user]['userInfo']['content']['speak'] == 'Yes'or \
                 data[user]['userInfo']['content']['write'] == 'Yes':
-            experts.append(data[user])
+            experts.update({user: data[user]})
         else:
-            novices.append(data[user])
+            novices.update({user: data[user]})
     return novices, experts
 
 

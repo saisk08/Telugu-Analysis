@@ -23,14 +23,14 @@ of the language.
 There are two version of the experiment that were conducted. The only different between the two versions
 is the **scale** that was used. The scales are given below:
 
-1. Agreesive scale ($\\alpha$ version/ version 1)
+1. Agreesive scale (&alpha; version/ version 1)
     * Very Dissimilar
     * Dissimilar
     * Neutral
     * Similar
     * Very Similar
 
-1. Passive scale ($\\beta$ version/ version 2)
+1. Passive scale (&beta; version/ version 2)
     * Dissimilar
     * Slightly Dissimilar
     * Neutral
@@ -62,13 +62,13 @@ as a unique identifier.
 
 ## Distribution of the Participants
 
-### Version $\\alpha$ { data-toc-label="Version &alpha;" }
+### Version &alpha;
 
-{alpha}
+{alpha_table}
 
-### Version $\\beta$ { data-toc-label="Version &beta;" }
+### Version &beta;
 
-{beta}
+{beta_table}
 
 '''
 
@@ -112,6 +112,10 @@ def create_index(ver1, ver2):
     table2.append(['Telugu writers', tel_ver2[2]])
 
     page = open('docs/index.md', 'w+')
-    page.write(index_content.format(alpha=tabulate(table1, headers=['Data', 'Value'], tablefmt='github'),
-                                    beta=tabulate(table2, headers=['Data', 'Value'], tablefmt='github')))
+    page.write(index_content.format(
+        alpha_table=tabulate(
+            table1, headers=['Data', 'Value'], tablefmt='github'),
+        beta_table=tabulate(
+            table2, headers=['Data', 'Value'], tablefmt='github'))
+    )
     page.close()
