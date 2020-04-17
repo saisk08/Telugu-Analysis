@@ -134,7 +134,7 @@ def overall_data(data):
         consolidated.append([count, percentages, mean, std, median, midx + 1])
     processed_data.update({'overall': consolidated})
     scores = {'Score': [1, 2, 3, 4, 5],
-              'Means': [
+              'Mean': [
         reactions[scores == 1].mean(),
         reactions[scores == 2].mean(),
         reactions[scores == 3].mean(),
