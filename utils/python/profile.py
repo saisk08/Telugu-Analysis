@@ -29,10 +29,10 @@ def create_profile(data, version):
     profile.close()
 
 
-def create_readme(user_data, version):
+def create_readme(user_data, loc, title):
     data = overall_data(user_data)
-    readme = open('docs/Version-{}/index.md'.format(version), 'w+')
-    readme.write('# Analysis for version {}\n\n'.format(version))
+    readme = open('docs/{}/index.md'.format(loc), 'w+')
+    readme.write('# {} \n\n'.format(title))
     readme.write(
         '''A profile for each participant has been created. In this document,
         we look at measures that give an overall description of the data.\n\n''')
@@ -48,13 +48,13 @@ def create_readme(user_data, version):
     percentage is calculated for each score of each pair. If the maximum agreement percentage of
     a pair is more than 50%, then the pair has a **majority**.
     ''')
-    readme.write('\n\n')
+    readme.write('\n')
     readme.write('''
 !!! info
     * All reaction times are given in seconds.
     * The mean and standard deviation below are of the reaction times.
     ''')
-    readme.write('\n\n')
+    readme.write('\n')
     readme.write('## Summary of agreement between participants\n\n')
     readme.write('''
 * Total pairs: 300
@@ -62,11 +62,11 @@ def create_readme(user_data, version):
 * Percentage in minority: {7:.3f}%
 * Majority exists: {0}
 * Number of pairs with:
-    * Majority having score of 1: {1}
-    * Majority having score of 2: {2}
-    * Majority having score of 3: {3}
-    * Majority having score of 4: {4}
-    * Majority having score of 5: {5}
+  * Majority having score of 1: {1}
+  * Majority having score of 2: {2}
+  * Majority having score of 3: {3}
+  * Majority having score of 4: {4}
+  * Majority having score of 5: {5}
     \n\n'''.format(data['agreement'].sum(), *data['agreement'], (data['agreement'].sum() / 300) * 100,
                    100 - ((data['agreement'].sum() / 300) * 100)))
     readme.write('## Agreeement percentages and reaction times\n\n')

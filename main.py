@@ -6,7 +6,8 @@ from utils.python.basicinfo import basics
 from utils.python.profile import create_profile, create_readme
 from utils.python.plotter import make_bar_plot
 from utils.python.create_index import create_index
-from utils.python.maj_min import majority_report, minority_report
+from utils.python.maj_min import create_minmaj
+from utils.python.novert import create_novert
 import os
 from tqdm import tqdm
 from termcolor import colored
@@ -22,15 +23,16 @@ print(colored('Generating pages...', 'blue'))
 for user in tqdm(ver1_data):
     basic_info = basics(user, ver1_data[user])
     create_profile(basic_info, 1)
-create_readme(ver1_data, 1)
-majority_report(ver1_data, 1)
-minority_report(ver1_data, 1)
+create_readme(ver1_data, 'Version-1',
+              'Analysis for Version $\\alpha$ \{data-toc-label="Analysis for Version &alpha;"\}')
+create_minmaj(ver1_data, 'Version-1')
 
 for user in tqdm(ver2_data):
     basic_info = basics(user, ver2_data[user])
     create_profile(basic_info, 2)
-create_readme(ver2_data, 2)
-majority_report(ver2_data, 2)
-minority_report(ver2_data, 2)
+create_readme(ver2_data, 'Version-2',
+              'Analysis for Version $\\beta$ \{data-toc-label="Analysis for Version &beta;"\}')
+create_minmaj(ver2_data, 'Version-2')
 create_index(ver1_data, ver2_data)
+create_novert(ver1_data, ver2_data)
 print(colored('Pages generated', 'green'))

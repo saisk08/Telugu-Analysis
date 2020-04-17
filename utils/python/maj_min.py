@@ -4,11 +4,10 @@ from .basicinfo import overall_data
 from .telugu import chars_pairs
 
 
-def minority_report(input_data, version):
+def minority_report(input_data, loc):
     data = overall_data(input_data)
     bins = [[], [], [], [], []]
-    min_report = open(
-        'docs/Version-{}/minority_report.md'.format(version), 'w+')
+    min_report = open('docs/{}/minority_report.md'.format(loc), 'w+')
     min_report.write('# Minority Report\n\n')
     min_report.write('This report consists all the pairs which have their highest \
     agreement percentage, less that 50%\n\n')
@@ -48,11 +47,10 @@ def minority_report(input_data, version):
     return
 
 
-def majority_report(input_data, version):
+def majority_report(input_data, loc):
     data = overall_data(input_data)
     bins = [[], [], [], [], []]
-    max_report = open(
-        'docs/Version-{}/majority_report.md'.format(version), 'w+')
+    max_report = open('docs/{}/majority_report.md'.format(loc), 'w+')
     max_report.write('# Majority Report\n\n')
     max_report.write('This report consists all the pairs which have their highest \
     agreement percentage, greater that 50%\n\n')
@@ -90,3 +88,8 @@ def majority_report(input_data, version):
         max_report.write('\n\n')
     max_report.close()
     return
+
+
+def create_minmaj(input_data, loc):
+    majority_report(input_data, loc)
+    minority_report(input_data, loc)
