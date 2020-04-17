@@ -79,4 +79,3 @@ as a unique identifier.
 | Telugu speakers                 |      18 |
 | Telugu writers                  |      15 |
 
-
