@@ -20,14 +20,14 @@ of the language.
 There are two version of the experiment that were conducted. The only different between the two versions
 is the **scale** that was used. The scales are given below:
 
-1. Agreesive scale ($\alpha$ version/ version 1)
+1. Agreesive scale (&alpha; version/ version 1)
     * Very Dissimilar
     * Dissimilar
     * Neutral
     * Similar
     * Very Similar
 
-1. Passive scale ($\beta$ version/ version 2)
+1. Passive scale (&beta; version/ version 2)
     * Dissimilar
     * Slightly Dissimilar
     * Neutral
@@ -59,7 +59,7 @@ as a unique identifier.
 
 ## Distribution of the Participants
 
-### Version $\alpha$
+### Version &alpha;
 
 | Data                             |   Value |
 |----------------------------------|---------|
@@ -69,7 +69,7 @@ as a unique identifier.
 | Telugu speakers                  |       7 |
 | Telugu writers                   |       7 |
 
-### Version $\beta$
+### Version &beta;
 
 | Data                            |   Value |
 |---------------------------------|---------|

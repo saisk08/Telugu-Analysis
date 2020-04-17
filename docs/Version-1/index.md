@@ -1,4 +1,4 @@
-# Analysis for version 1
+# Analysis for Version &alpha; 
 
 A profile for each participant has been created. In this document,
         we look at measures that give an overall description of the data.
@@ -7,7 +7,7 @@ A profile for each participant has been created. In this document,
 
 ## Summary of the participation
 
-|   Score |   Means |     Std |
+|   Score |    Mean |     Std |
 |---------|---------|---------|
 |       1 | 2.05524 | 1.53103 |
 |       2 | 2.56969 | 2.12409 |
@@ -23,12 +23,10 @@ A profile for each participant has been created. In this document,
     a pair is more than 50%, then the pair has a **majority**.
     
 
-
 !!! info
     * All reaction times are given in seconds.
     * The mean and standard deviation below are of the reaction times.
     
-
 ## Summary of agreement between participants
 
 
@@ -37,11 +35,11 @@ A profile for each participant has been created. In this document,
 * Percentage in minority: 81.667%
 * Majority exists: 55
 * Number of pairs with:
-    * Majority having score of 1: 23
-    * Majority having score of 2: 29
-    * Majority having score of 3: 0
-    * Majority having score of 4: 3
-    * Majority having score of 5: 0
+  * Majority having score of 1: 23
+  * Majority having score of 2: 29
+  * Majority having score of 3: 0
+  * Majority having score of 4: 3
+  * Majority having score of 5: 0
     
 
 ## Agreeement percentages and reaction times
