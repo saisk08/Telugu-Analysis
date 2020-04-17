@@ -25,8 +25,6 @@ def create_profile(data, version):
     profile.write('## Ratings for all pairs\n\n')
     profile.write(tabulate(data['scores'], tablefmt='github', headers=[
                   'Pair', 'Rating', 'Reaction time']))
-    profile.write('\n\n')
-
     # End file
     profile.close()
 
