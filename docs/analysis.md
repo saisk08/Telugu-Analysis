@@ -52,6 +52,10 @@ Before we get into the details, I would like to define a few terms to facilitate
 
 The `Min-Maj` analysis aims to understand the distribution of the `dominant percentages`.  We split the `dominant percentage` of all the pairs into 10 classes. Consequently, each class has a class interval of 10. All the pairs with `dominant percentages` between 0%-50% are listed in the `Minority report` while the rest are in the `Majority report`.
 
-## Overall Analysis
+### Overall Analysis
 
 This section has the **Dominant score**, the `median score`, the `mean` and `standard deviation` of the reaction time for each pair.
+
+### Novert analysis
+
+To see how domain experts(Telugu folks) par against novices, I combined the datasets from two versions and then divided them into two sets: Experts and Novices, and repeated the above analysis.
