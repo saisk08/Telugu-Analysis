@@ -111,7 +111,7 @@ def create_index(ver1, ver2):
     table2.append(['Telugu speakers', tel_ver2[1]])
     table2.append(['Telugu writers', tel_ver2[2]])
 
-    page = open('docs/index.md', 'w+')
+    page = open('docs/README.md', 'w+')
     page.write(index_content.format(
         alpha_table=tabulate(
             table1, headers=['Data', 'Value'], tablefmt='github'),
