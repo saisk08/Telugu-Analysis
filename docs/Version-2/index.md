@@ -35,11 +35,11 @@ A profile for each participant has been created. In this document,
 * Percentage in minority: 25.667%
 * Majority exists: 223
 * Number of pairs with:
-  * Majority having score of 1: 213
-  * Majority having score of 2: 0
-  * Majority having score of 3: 0
-  * Majority having score of 4: 9
-  * Majority having score of 5: 1
+    * Majority having score of 1: 213
+    * Majority having score of 2: 0
+    * Majority having score of 3: 0
+    * Majority having score of 4: 9
+    * Majority having score of 5: 1
     
 
 ## Agreeement percentages and reaction times
@@ -50,7 +50,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.269 s
 
@@ -67,7 +67,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.194 s
 
@@ -84,7 +84,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.835 s
 
@@ -101,7 +101,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.861 s
 
@@ -118,7 +118,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 2.732 s
 
@@ -135,7 +135,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.863 s
 
@@ -152,7 +152,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.166 s
 
@@ -169,7 +169,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.804 s
 
@@ -186,7 +186,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.987 s
 
@@ -203,7 +203,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
-* **Majority score**: 5
+* **Dominant score**: 5
 
 * **Mean reaction time**: 2.259 s
 
@@ -220,7 +220,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.991 s
 
@@ -237,7 +237,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.711 s
 
@@ -254,7 +254,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.098 s
 
@@ -271,7 +271,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.018 s
 
@@ -288,7 +288,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.731 s
 
@@ -305,7 +305,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.008 s
 
@@ -322,7 +322,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.172 s
 
@@ -339,7 +339,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.851 s
 
@@ -356,7 +356,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.023 s
 
@@ -373,7 +373,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.280 s
 
@@ -390,7 +390,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.796 s
 
@@ -407,7 +407,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.092 s
 
@@ -424,7 +424,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.883 s
 
@@ -441,7 +441,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.605 s
 
@@ -458,7 +458,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
-* **Majority score**: 5
+* **Dominant score**: 5
 
 * **Mean reaction time**: 1.994 s
 
@@ -475,7 +475,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.331 s
 
@@ -492,7 +492,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.503 s
 
@@ -509,7 +509,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.141 s
 
@@ -526,7 +526,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.002 s
 
@@ -543,7 +543,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.446 s
 
@@ -560,7 +560,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.920 s
 
@@ -577,7 +577,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.838 s
 
@@ -594,7 +594,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.575 s
 
@@ -611,7 +611,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.747 s
 
@@ -628,7 +628,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.510 s
 
@@ -645,7 +645,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 3.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 2.340 s
 
@@ -662,7 +662,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 3.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 2.458 s
 
@@ -679,7 +679,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 3.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 2.035 s
 
@@ -696,7 +696,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 3.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.321 s
 
@@ -713,7 +713,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.146 s
 
@@ -730,7 +730,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.939 s
 
@@ -747,7 +747,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 3.275 s
 
@@ -764,7 +764,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 3.689 s
 
@@ -781,7 +781,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.868 s
 
@@ -798,7 +798,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 177.538 s
 
@@ -815,7 +815,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.436 s
 
@@ -832,7 +832,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.025 s
 
@@ -849,7 +849,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 2.448 s
 
@@ -866,7 +866,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.222 s
 
@@ -883,7 +883,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.203 s
 
@@ -900,7 +900,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.820 s
 
@@ -917,7 +917,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.519 s
 
@@ -934,7 +934,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.177 s
 
@@ -951,7 +951,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.124 s
 
@@ -968,7 +968,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.282 s
 
@@ -985,7 +985,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.148 s
 
@@ -1002,7 +1002,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.829 s
 
@@ -1019,7 +1019,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 2.148 s
 
@@ -1036,7 +1036,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 2.398 s
 
@@ -1053,7 +1053,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 2.413 s
 
@@ -1070,7 +1070,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 1.916 s
 
@@ -1087,7 +1087,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 3.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.884 s
 
@@ -1104,7 +1104,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.732 s
 
@@ -1121,7 +1121,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.655 s
 
@@ -1138,7 +1138,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.639 s
 
@@ -1155,7 +1155,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.788 s
 
@@ -1172,7 +1172,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.488 s
 
@@ -1189,7 +1189,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.567 s
 
@@ -1206,7 +1206,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 3.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 3.181 s
 
@@ -1223,7 +1223,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
-* **Majority score**: 5
+* **Dominant score**: 5
 
 * **Mean reaction time**: 2.536 s
 
@@ -1240,7 +1240,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.650 s
 
@@ -1257,7 +1257,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.682 s
 
@@ -1274,7 +1274,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.138 s
 
@@ -1291,7 +1291,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.466 s
 
@@ -1308,7 +1308,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.982 s
 
@@ -1325,7 +1325,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.070 s
 
@@ -1342,7 +1342,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.956 s
 
@@ -1359,7 +1359,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.158 s
 
@@ -1376,7 +1376,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 2.903 s
 
@@ -1393,7 +1393,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.427 s
 
@@ -1410,7 +1410,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 3.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.256 s
 
@@ -1427,7 +1427,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.367 s
 
@@ -1444,7 +1444,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.117 s
 
@@ -1461,7 +1461,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.167 s
 
@@ -1478,7 +1478,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.251 s
 
@@ -1495,7 +1495,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.999 s
 
@@ -1512,7 +1512,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.717 s
 
@@ -1529,7 +1529,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 3.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.562 s
 
@@ -1546,7 +1546,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 6.072 s
 
@@ -1563,7 +1563,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 2.392 s
 
@@ -1580,7 +1580,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.104 s
 
@@ -1597,7 +1597,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.907 s
 
@@ -1614,7 +1614,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.881 s
 
@@ -1631,7 +1631,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.480 s
 
@@ -1648,7 +1648,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.845 s
 
@@ -1665,7 +1665,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.811 s
 
@@ -1682,7 +1682,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.825 s
 
@@ -1699,7 +1699,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 10.711 s
 
@@ -1716,7 +1716,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.422 s
 
@@ -1733,7 +1733,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.275 s
 
@@ -1750,7 +1750,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.589 s
 
@@ -1767,7 +1767,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.792 s
 
@@ -1784,7 +1784,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.162 s
 
@@ -1801,7 +1801,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.586 s
 
@@ -1818,7 +1818,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.819 s
 
@@ -1835,7 +1835,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.068 s
 
@@ -1852,7 +1852,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.485 s
 
@@ -1869,7 +1869,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.202 s
 
@@ -1886,7 +1886,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.801 s
 
@@ -1903,7 +1903,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.496 s
 
@@ -1920,7 +1920,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.787 s
 
@@ -1937,7 +1937,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.787 s
 
@@ -1954,7 +1954,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.403 s
 
@@ -1971,7 +1971,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.655 s
 
@@ -1988,7 +1988,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 3.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.170 s
 
@@ -2005,7 +2005,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.171 s
 
@@ -2022,7 +2022,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.641 s
 
@@ -2039,7 +2039,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.253 s
 
@@ -2056,7 +2056,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 3.335 s
 
@@ -2073,7 +2073,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.769 s
 
@@ -2090,7 +2090,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.656 s
 
@@ -2107,7 +2107,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.747 s
 
@@ -2124,7 +2124,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.021 s
 
@@ -2141,7 +2141,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.848 s
 
@@ -2158,7 +2158,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.028 s
 
@@ -2175,7 +2175,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 10.743 s
 
@@ -2192,7 +2192,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.068 s
 
@@ -2209,7 +2209,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.133 s
 
@@ -2226,7 +2226,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.708 s
 
@@ -2243,7 +2243,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.985 s
 
@@ -2260,7 +2260,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.399 s
 
@@ -2277,7 +2277,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 2.443 s
 
@@ -2294,7 +2294,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.924 s
 
@@ -2311,7 +2311,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.345 s
 
@@ -2328,7 +2328,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.978 s
 
@@ -2345,7 +2345,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.657 s
 
@@ -2362,7 +2362,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.233 s
 
@@ -2379,7 +2379,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.442 s
 
@@ -2396,7 +2396,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 3.149 s
 
@@ -2413,7 +2413,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 3.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 2.231 s
 
@@ -2430,7 +2430,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.273 s
 
@@ -2447,7 +2447,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.183 s
 
@@ -2464,7 +2464,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.022 s
 
@@ -2481,7 +2481,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.948 s
 
@@ -2498,7 +2498,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 3.061 s
 
@@ -2515,7 +2515,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.488 s
 
@@ -2532,7 +2532,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.745 s
 
@@ -2549,7 +2549,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 2.432 s
 
@@ -2566,7 +2566,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.927 s
 
@@ -2583,7 +2583,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.039 s
 
@@ -2600,7 +2600,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.921 s
 
@@ -2617,7 +2617,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.602 s
 
@@ -2634,7 +2634,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.064 s
 
@@ -2651,7 +2651,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.652 s
 
@@ -2668,7 +2668,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.500 s
 
@@ -2685,7 +2685,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.007 s
 
@@ -2702,7 +2702,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.074 s
 
@@ -2719,7 +2719,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.190 s
 
@@ -2736,7 +2736,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 5.0
 
-* **Majority score**: 5
+* **Dominant score**: 5
 
 * **Mean reaction time**: 2.297 s
 
@@ -2753,7 +2753,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.974 s
 
@@ -2770,7 +2770,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.863 s
 
@@ -2787,7 +2787,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.078 s
 
@@ -2804,7 +2804,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.840 s
 
@@ -2821,7 +2821,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.832 s
 
@@ -2838,7 +2838,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.048 s
 
@@ -2855,7 +2855,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.522 s
 
@@ -2872,7 +2872,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 4.685 s
 
@@ -2889,7 +2889,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.619 s
 
@@ -2906,7 +2906,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.022 s
 
@@ -2923,7 +2923,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.908 s
 
@@ -2940,7 +2940,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.667 s
 
@@ -2957,7 +2957,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.258 s
 
@@ -2974,7 +2974,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.570 s
 
@@ -2991,7 +2991,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.175 s
 
@@ -3008,7 +3008,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 2.673 s
 
@@ -3025,7 +3025,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.867 s
 
@@ -3042,7 +3042,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.242 s
 
@@ -3059,7 +3059,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.085 s
 
@@ -3076,7 +3076,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.998 s
 
@@ -3093,7 +3093,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.247 s
 
@@ -3110,7 +3110,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.138 s
 
@@ -3127,7 +3127,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 4.157 s
 
@@ -3144,7 +3144,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.725 s
 
@@ -3161,7 +3161,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.577 s
 
@@ -3178,7 +3178,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.822 s
 
@@ -3195,7 +3195,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.928 s
 
@@ -3212,7 +3212,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.235 s
 
@@ -3229,7 +3229,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 4.592 s
 
@@ -3246,7 +3246,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.945 s
 
@@ -3263,7 +3263,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.170 s
 
@@ -3280,7 +3280,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.891 s
 
@@ -3297,7 +3297,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.129 s
 
@@ -3314,7 +3314,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.856 s
 
@@ -3331,7 +3331,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.295 s
 
@@ -3348,7 +3348,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.103 s
 
@@ -3365,7 +3365,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.239 s
 
@@ -3382,7 +3382,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.000 s
 
@@ -3399,7 +3399,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.250 s
 
@@ -3416,7 +3416,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.357 s
 
@@ -3433,7 +3433,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.895 s
 
@@ -3450,7 +3450,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.597 s
 
@@ -3467,7 +3467,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.041 s
 
@@ -3484,7 +3484,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.567 s
 
@@ -3501,7 +3501,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.306 s
 
@@ -3518,7 +3518,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 2.467 s
 
@@ -3535,7 +3535,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.998 s
 
@@ -3552,7 +3552,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.966 s
 
@@ -3569,7 +3569,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.867 s
 
@@ -3586,7 +3586,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.724 s
 
@@ -3603,7 +3603,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 3.0
 
-* **Majority score**: 2
+* **Dominant score**: 2
 
 * **Mean reaction time**: 3.588 s
 
@@ -3620,7 +3620,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.287 s
 
@@ -3637,7 +3637,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.743 s
 
@@ -3654,7 +3654,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.124 s
 
@@ -3671,7 +3671,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.982 s
 
@@ -3688,7 +3688,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.035 s
 
@@ -3705,7 +3705,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 3.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 2.905 s
 
@@ -3722,7 +3722,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.860 s
 
@@ -3739,7 +3739,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.085 s
 
@@ -3756,7 +3756,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.970 s
 
@@ -3773,7 +3773,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.522 s
 
@@ -3790,7 +3790,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.017 s
 
@@ -3807,7 +3807,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.216 s
 
@@ -3824,7 +3824,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.316 s
 
@@ -3841,7 +3841,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.033 s
 
@@ -3858,7 +3858,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.688 s
 
@@ -3875,7 +3875,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.958 s
 
@@ -3892,7 +3892,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.814 s
 
@@ -3909,7 +3909,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 2
+* **Dominant score**: 2
 
 * **Mean reaction time**: 2.338 s
 
@@ -3926,7 +3926,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.878 s
 
@@ -3943,7 +3943,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.938 s
 
@@ -3960,7 +3960,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.392 s
 
@@ -3977,7 +3977,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.005 s
 
@@ -3994,7 +3994,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.627 s
 
@@ -4011,7 +4011,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.864 s
 
@@ -4028,7 +4028,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 2.053 s
 
@@ -4045,7 +4045,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 2.090 s
 
@@ -4062,7 +4062,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 3.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 2.156 s
 
@@ -4079,7 +4079,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 3.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.040 s
 
@@ -4096,7 +4096,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 3.784 s
 
@@ -4113,7 +4113,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.112 s
 
@@ -4130,7 +4130,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.682 s
 
@@ -4147,7 +4147,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.927 s
 
@@ -4164,7 +4164,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.551 s
 
@@ -4181,7 +4181,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.937 s
 
@@ -4198,7 +4198,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.861 s
 
@@ -4215,7 +4215,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 2.253 s
 
@@ -4232,7 +4232,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 4.010 s
 
@@ -4249,7 +4249,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.965 s
 
@@ -4266,7 +4266,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.222 s
 
@@ -4283,7 +4283,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.362 s
 
@@ -4300,7 +4300,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 3.636 s
 
@@ -4317,7 +4317,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.867 s
 
@@ -4334,7 +4334,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 5.671 s
 
@@ -4351,7 +4351,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 4.133 s
 
@@ -4368,7 +4368,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.885 s
 
@@ -4385,7 +4385,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 2.563 s
 
@@ -4402,7 +4402,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.919 s
 
@@ -4419,7 +4419,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.534 s
 
@@ -4436,7 +4436,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 3.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 5.554 s
 
@@ -4453,7 +4453,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.969 s
 
@@ -4470,7 +4470,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.151 s
 
@@ -4487,7 +4487,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 3.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 2.722 s
 
@@ -4504,7 +4504,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.043 s
 
@@ -4521,7 +4521,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 3.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 2.041 s
 
@@ -4538,7 +4538,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.403 s
 
@@ -4555,7 +4555,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.559 s
 
@@ -4572,7 +4572,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.155 s
 
@@ -4589,7 +4589,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.163 s
 
@@ -4606,7 +4606,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.807 s
 
@@ -4623,7 +4623,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.463 s
 
@@ -4640,7 +4640,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.313 s
 
@@ -4657,7 +4657,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 2.328 s
 
@@ -4674,7 +4674,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 4.0
 
-* **Majority score**: 4
+* **Dominant score**: 4
 
 * **Mean reaction time**: 2.211 s
 
@@ -4691,7 +4691,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 3.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.320 s
 
@@ -4708,7 +4708,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.302 s
 
@@ -4725,7 +4725,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.261 s
 
@@ -4742,7 +4742,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.954 s
 
@@ -4759,7 +4759,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.879 s
 
@@ -4776,7 +4776,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.445 s
 
@@ -4793,7 +4793,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.282 s
 
@@ -4810,7 +4810,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 2.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.165 s
 
@@ -4827,7 +4827,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.981 s
 
@@ -4844,7 +4844,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.066 s
 
@@ -4861,7 +4861,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.086 s
 
@@ -4878,7 +4878,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.117 s
 
@@ -4895,7 +4895,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.818 s
 
@@ -4912,7 +4912,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.814 s
 
@@ -4929,7 +4929,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.336 s
 
@@ -4946,7 +4946,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.053 s
 
@@ -4963,7 +4963,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.355 s
 
@@ -4980,7 +4980,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.577 s
 
@@ -4997,7 +4997,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.240 s
 
@@ -5014,7 +5014,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.324 s
 
@@ -5031,7 +5031,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.549 s
 
@@ -5048,7 +5048,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.927 s
 
@@ -5065,7 +5065,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.122 s
 
@@ -5082,7 +5082,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.934 s
 
@@ -5099,7 +5099,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 1.813 s
 
@@ -5116,7 +5116,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 3.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.179 s
 
@@ -5133,7 +5133,7 @@ A profile for each participant has been created. In this document,
 
 * **Median score**: 1.0
 
-* **Majority score**: 1
+* **Dominant score**: 1
 
 * **Mean reaction time**: 2.001 s
 
