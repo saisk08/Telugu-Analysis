@@ -1,4 +1,4 @@
-# Introduction
+# A detail of Analysis done
 
 This document summarises all the different analysis shown on the website. It also includes definitions of some terms used for better clarity.
 
