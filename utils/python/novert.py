@@ -18,7 +18,7 @@ def classify(ver1, ver2):
 
 def create_novert(ver1, ver2):
     novices, experts = classify(ver1, ver2)
-    create_readme(novices, 'Domain/Novice', 'Analysis of Telugu Novice')
-    create_minmaj(novices, 'Domain/Novice')
-    create_readme(experts, 'Domain/Expert', 'Analysis of Telugu Experts')
-    create_minmaj(experts, 'Domain/Expert')
+    create_readme(novices, 'Novert/Novice', 'Analysis of Telugu Novice')
+    create_minmaj(novices, 'Novert/Novice')
+    create_readme(experts, 'Novert/Expert', 'Analysis of Telugu Experts')
+    create_minmaj(experts, 'Novert/Expert')
