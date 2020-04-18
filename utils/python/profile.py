@@ -62,11 +62,11 @@ def create_readme(user_data, loc, title):
 * Percentage in minority: {7:.3f}%
 * Majority exists: {0}
 * Number of pairs with:
-  * Majority having score of 1: {1}
-  * Majority having score of 2: {2}
-  * Majority having score of 3: {3}
-  * Majority having score of 4: {4}
-  * Majority having score of 5: {5}
+    * Majority having score of 1: {1}
+    * Majority having score of 2: {2}
+    * Majority having score of 3: {3}
+    * Majority having score of 4: {4}
+    * Majority having score of 5: {5}
     \n\n'''.format(data['agreement'].sum(), *data['agreement'], (data['agreement'].sum() / 300) * 100,
                    100 - ((data['agreement'].sum() / 300) * 100)))
     readme.write('## Agreeement percentages and reaction times\n\n')
@@ -75,7 +75,7 @@ def create_readme(user_data, loc, title):
         readme.write('\n\n')
         readme.write('### {}\n\n'.format(pair))
         readme.write('* **Median score**: {}\n\n'.format(info_vec[4]))
-        readme.write('* **Majority score**: {}\n\n'.format(info_vec[5]))
+        readme.write('* **Dominant score**: {}\n\n'.format(info_vec[5]))
         readme.write(
             '* **Mean reaction time**: {:.3f} s\n\n'.format(data['pair_rec'][index]))
         readme.write(
