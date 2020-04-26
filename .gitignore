@@ -10,6 +10,7 @@ ver1.json
 ver2.json
 data.json
 site
+*.pkl
 
 # Python
 __pycache__
