@@ -18,7 +18,7 @@ function aggregate(files, version1 = false) {
     else userInfo = arr.pop();
     const temp = userInfo.name.slice(0, -5);
     const id = version1 ? shortid.generate() : temp;
-    mapping[temp] = id;
+    if (version1) mapping[temp] = id;
     const data = shuffleSeed.unshuffle(
       [
         ...arr[0].content.data,
