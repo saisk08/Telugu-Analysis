@@ -4,25 +4,6 @@ import pickle
 from scipy.stats import zscore
 
 
-def get_mul_vec(index):
-    if index == 0:
-        return np.array([1, 1, 1, 1, 1])
-    if index == 1:
-        return np.array([-1, 1, 1, 1, 1])
-    if index == 2:
-        return np.array([-1, -1, 1, 1, 1])
-    if index == 3:
-        return np.array([-1, -1, -1, 1, 1])
-    if index == 4:
-        return np.array([-1, -1, -1, -1, 1])
-
-
-def get_score(counts):
-    vals = counts / counts.sum()
-    mul_vec = get_mul_vec(np.argmax(vals))
-    return vals.max() + vals * mul_vec
-
-
 def toNumber(x):
     if x is '1' or x == 'Very dissimilar':
         return 1
@@ -36,7 +17,7 @@ def toNumber(x):
         return 5
 
 
-def process(data):
+def preprocess(data):
     scores = list()
     reactions = list()
     for user in data:
@@ -44,7 +25,11 @@ def process(data):
         temp2 = [x['reactionTime'] for x in data[user]['data']]
         scores.append(temp1)
         reactions.append(temp2)
-    scores, reactions = np.array(scores), np.array(reactions)
+    return np.array(scores), np.array(reactions)
+
+
+def process_custom(data):
+    scores, reactions = preprocess(data)
     rdm = list()
     mul_vec = np.array([-1, -1, 0, 1, 1])
     for i in range(scores.shape[1]):
@@ -71,17 +56,37 @@ def process(data):
         else:
             rdm_value += 0.1 * (percents[2] + 0.01 * mean[2])
         rdm.append(rdm_value)
-    z = zscore(rdm)
-    return z
+    return zscore(rdm)
 
 
-ver1_file = open('ver1.json')
-ver2_file = open('ver2.json')
-ver1_data = json.load(ver1_file)
-ver2_data = json.load(ver2_file)
+def process_minmax(data):
+    scores, _ = preprocess(data)
+    rdm = list()
+    mul_vec = np.array([-1, -0.5, 0, 0.5, 1])
+    for i in range(scores.shape[1]):
+        median = np.median(scores[:, i])
+        count = np.array([np.count_nonzero(scores[:, i] == 1),
+                          np.count_nonzero(scores[:, i] == 2),
+                          np.count_nonzero(scores[:, i] == 3),
+                          np.count_nonzero(scores[:, i] == 4),
+                          np.count_nonzero(scores[:, i] == 5)])
+        percents = count / count.sum()
 
-dump1 = process(ver1_data)
-dump2 = process(ver2_data)
-f = open('rdms_minmax.pkl', 'wb')
-pickle.dump((dump1, dump2), f)
-f.close()
+        rdm_value = median + (percents * mul_vec).sum()
+        rdm.append(rdm_value)
+    return zscore(rdm)
+
+
+def start(ver1, ver2, func):
+    return [func(ver1), func(ver2)]
+
+
+if __name__ == "__main__":
+    ver1_file = open('ver1.json')
+    ver2_file = open('ver2.json')
+    ver1_data = json.load(ver1_file)
+    ver2_data = json.load(ver2_file)
+    for f, funk in zip(['minmax', 'custom'], [process_minmax, process_custom]):
+        f = open('rdms_{}.pkl'.format(f), 'wb')
+        pickle.dump(start(ver1_data, ver2_data, funk), f)
+        f.close()
