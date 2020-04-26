@@ -46,7 +46,7 @@ def process(data):
         reactions.append(temp2)
     scores, reactions = np.array(scores), np.array(reactions)
     rdm = list()
-
+    mul_vec = np.array([-1, -1, 0, 1, 1])
     for i in range(scores.shape[1]):
         median = np.median(scores[:, i])
         count = np.array([np.count_nonzero(scores[:, i] == 1),
@@ -54,12 +54,25 @@ def process(data):
                           np.count_nonzero(scores[:, i] == 3),
                           np.count_nonzero(scores[:, i] == 4),
                           np.count_nonzero(scores[:, i] == 5)])
-        mu, sigma = reactions[:, i].mean(), reactions[:, i].std()
-        rdm.append((neg_sigmoid(count) * values).sum() + mu + sigma)
-    print(max(rdm), min(rdm))
+        percents = count / count.sum()
+        mean = np.array([np.mean(reactions[:, i][scores[:, i] == 1]
+                                 if reactions[:, i][scores[:, i] == 1].any() else 0),
+                         np.mean(reactions[:, i][scores[:, i] == 2]
+                                 if reactions[:, i][scores[:, i] == 2].any() else 0),
+                         np.mean(reactions[:, i][scores[:, i] == 3]
+                                 if reactions[:, i][scores[:, i] == 3].any() else 0),
+                         -np.mean(reactions[:, i][scores[:, i] == 4]
+                                  if reactions[:, i][scores[:, i] == 4].any() else 0),
+                         -np.mean(reactions[:, i][scores[:, i] == 5]
+                                  if reactions[:, i][scores[:, i] == 5].any() else 0)])
+        rdm_value = median + ((percents * mul_vec) + (mean * 0.01)).sum()
+        if rdm_value < 0:
+            rdm_value -= 0.1 * (percents[2] + 0.01 * mean[2])
+        else:
+            rdm_value += 0.1 * (percents[2] + 0.01 * mean[2])
+        rdm.append(rdm_value)
     z = zscore(rdm)
-    print(z.min(), z.max(), z.shape)
-    return zscore(rdm)
+    return z
 
 
 ver1_file = open('ver1.json')
