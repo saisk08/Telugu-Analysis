@@ -14,6 +14,7 @@ function aggregate(files) {
     // Becasue of the order in which the files are placed in the array
     if (arr[0].name.endsWith('-info')) userInfo = arr.shift();
     else userInfo = arr.pop();
+    const id = userInfo.name.slice(0, -5);
     const data = shuffleSeed.unshuffle(
       [
         ...arr[0].content.data,
@@ -29,7 +30,7 @@ function aggregate(files) {
       ],
       userInfo.content.user
     );
-    combinedData[shortid.generate()] = { data, userInfo };
+    combinedData[id] = { data, userInfo };
   });
   return combinedData;
 }
