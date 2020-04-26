@@ -7,13 +7,13 @@ A profile for each participant has been created. In this document,
 
 ## Summary of the participation
 
-|   Score |     Mean |       Std |
-|---------|----------|-----------|
-|       1 |  1.87783 |   4.14385 |
-|       2 |  2.70091 |   1.65655 |
-|       3 | 11.1016  | 185.247   |
-|       4 |  3.20432 |   7.90719 |
-|       5 |  1.90033 |   1.34717 |
+|   Score |    Mean |     Std |
+|---------|---------|---------|
+|       1 | 1.87783 | 4.14385 |
+|       2 | 2.70091 | 1.65655 |
+|       3 | 3.27806 | 3.83066 |
+|       4 | 3.20432 | 7.90719 |
+|       5 | 1.90033 | 1.34717 |
 
 
 !!! tip "About agreement percentages and majority"
@@ -800,16 +800,16 @@ A profile for each participant has been created. In this document,
 
 * **Dominant score**: 1
 
-* **Mean reaction time**: 177.538 s
+* **Mean reaction time**: 1.978 s
 
-* **Std of reaction time**: 860.664 s
+* **Std of reaction time**: 1.160 s
 
-| Score       |        1 |     2 |       3 |         4 |     5 |
-|-------------|----------|-------|---------|-----------|-------|
-| Count       | 15       | 1     |    3    |  4        | 2     |
-| Agreement % | 60       | 4     |   12    | 16        | 8     |
-| Mean        |  1.63147 | 1.865 | 1465.94 |  2.38425  | 2.38  |
-| Std         |  1.17862 | 0     | 2070.39 |  0.384988 | 0.518 |
+| Score       |        1 |     2 |        3 |         4 |     5 |
+|-------------|----------|-------|----------|-----------|-------|
+| Count       | 15       | 1     |  3       |  4        | 2     |
+| Agreement % | 60       | 4     | 12       | 16        | 8     |
+| Mean        |  1.63147 | 1.865 |  2.93667 |  2.38425  | 2.38  |
+| Std         |  1.17862 | 0     |  1.42778 |  0.384988 | 0.518 |
 
 ### న-ణ
 
