@@ -1,12 +1,14 @@
 const shuffleSeed = require('shuffle-seed');
 const shortid = require('shortid');
+const fs = require('fs');
 
 shortid.characters(
   '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_$'
 );
 
-function aggregate(files) {
+function aggregate(files, version1 = false) {
   const combinedData = {};
+  const mapping = {};
 
   files.forEach(arr => {
     // Combine data
@@ -14,7 +16,9 @@ function aggregate(files) {
     // Becasue of the order in which the files are placed in the array
     if (arr[0].name.endsWith('-info')) userInfo = arr.shift();
     else userInfo = arr.pop();
-    const id = userInfo.name.slice(0, -5);
+    const temp = userInfo.name.slice(0, -5);
+    const id = version1 ? shortid.generate() : temp;
+    mapping[temp] = id;
     const data = shuffleSeed.unshuffle(
       [
         ...arr[0].content.data,
@@ -30,8 +34,9 @@ function aggregate(files) {
       ],
       userInfo.content.user
     );
-    combinedData[id] = { data, userInfo };
+    if (version1) combinedData[id] = { data, userInfo };
   });
+  fs.writeFileSync('map.json', mapping);
   return combinedData;
 }
 
