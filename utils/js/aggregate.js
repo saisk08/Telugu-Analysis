@@ -34,9 +34,9 @@ function aggregate(files, version1 = false) {
       ],
       userInfo.content.user
     );
-    if (version1) combinedData[id] = { data, userInfo };
+    combinedData[id] = { data, userInfo };
   });
-  fs.writeFileSync('map.json', mapping);
+  fs.writeFileSync('map.json', JSON.stringify(mapping));
   return combinedData;
 }
 

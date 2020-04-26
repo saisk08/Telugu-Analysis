@@ -15,7 +15,7 @@ console.log(`${success('[DONE]:')} Files read`);
 
 // Aggregate the data into a single json file
 console.log(`${info('[INFO]:')} Aggregating data...`);
-const ver1Data = aggregate(ver1Files);
+const ver1Data = aggregate(ver1Files, true);
 const ver2Data = aggregate(ver2Files);
 console.log(`${success('[DONE]:')} Aggregation done`);
 
