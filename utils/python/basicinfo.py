@@ -1,4 +1,3 @@
-from scipy.spatial.distance import squareform
 from .telugu import chars_pairs
 import numpy as np
 
